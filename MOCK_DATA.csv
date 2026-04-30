@@ -1,0 +1,1001 @@
+product_id,product_name,category,brand,price,cost,stock_quantity,supplier,date_Added,last_sold_date,status
+1,MegaGizmo,cruiser,Trek,5.99,443.79,958,Best Deals Inc.,9/9/2016,4/10/2026,Available
+2,UltraThing,cruiser,Giant,24.99,764.6,856,Best Deals Inc.,10/19/2012,10/16/2025,Discontinued
+3,MegaGizmo,mountain,Cannondale,4.19,860.51,271,Best Deals Inc.,7/29/2017,5/10/2025,Out of Stock
+4,TechMaster,mountain,Trek,3.99,554.38,54,XYZ Company,4/11/2021,9/18/2025,Out of Stock
+5,TechMaster,mountain,Giant,2.49,134.79,686,XYZ Company,6/5/2019,3/30/2026,Available
+6,UltraThing,BMX,Giant,249.99,360.28,480,ABC Suppliers,8/5/2012,3/27/2026,Available
+7,PowerBlaster,BMX,Scott,3.99,726.12,343,ABC Suppliers,10/13/2010,1/31/2026,Discontinued
+8,SuperWidget,cruiser,Scott,8.99,419.99,741,123 Distributors,12/2/2020,9/11/2025,Available
+9,MegaGizmo,cruiser,Giant,18.99,394.37,106,Best Deals Inc.,12/25/2014,8/27/2025,Out of Stock
+10,TechMaster,road,Specialized,39.99,291.97,666,Best Deals Inc.,2/16/2015,9/13/2025,Out of Stock
+11,PowerBlaster,mountain,Scott,199.99,589.61,51,ABC Suppliers,2/26/2018,2/25/2026,Available
+12,TechMaster,hybrid,Giant,24.99,832.67,930,123 Distributors,5/3/2017,11/27/2025,Available
+13,MegaGizmo,hybrid,Scott,24.99,624.15,552,Best Deals Inc.,5/22/2014,7/9/2025,Discontinued
+14,UltraThing,cruiser,Scott,34.99,525.27,751,123 Distributors,3/17/2017,8/20/2025,Discontinued
+15,SuperWidget,road,Bianchi,14.99,640.81,708,123 Distributors,4/17/2015,2/24/2026,Available
+16,PowerBlaster,mountain,Cannondale,69.99,469.52,6,Best Deals Inc.,11/12/2021,5/30/2025,Discontinued
+17,SuperWidget,hybrid,Trek,34.99,157.49,479,123 Distributors,8/27/2021,12/14/2025,Available
+18,TechMaster,BMX,Giant,12.99,989.2,931,ABC Suppliers,4/24/2021,4/3/2026,Available
+19,TechMaster,hybrid,Specialized,44.99,238.09,338,ABC Suppliers,1/26/2017,12/30/2025,Available
+20,TechMaster,road,Giant,19.99,284.39,42,123 Distributors,2/21/2013,5/17/2025,Out of Stock
+21,MegaGizmo,mountain,Giant,19.99,461.31,113,ABC Suppliers,9/23/2011,9/21/2025,Out of Stock
+22,UltraThing,BMX,Giant,29.99,989.0,321,123 Distributors,2/2/2017,10/18/2025,Out of Stock
+23,SuperWidget,BMX,Bianchi,3.99,628.18,503,Best Deals Inc.,7/27/2016,1/7/2026,Discontinued
+24,UltraThing,hybrid,Scott,14.99,379.11,282,XYZ Company,8/2/2010,7/8/2025,Out of Stock
+25,MegaGizmo,mountain,Cannondale,16.99,435.78,309,Best Deals Inc.,2/8/2015,2/26/2026,Out of Stock
+26,MegaGizmo,mountain,Giant,359.99,200.64,21,Best Deals Inc.,7/22/2017,6/26/2025,Out of Stock
+27,MegaGizmo,mountain,Trek,54.99,56.37,111,XYZ Company,1/29/2017,11/7/2025,Out of Stock
+28,TechMaster,BMX,Giant,3.29,519.35,145,123 Distributors,8/1/2011,2/11/2026,Available
+29,PowerBlaster,BMX,Bianchi,4.99,461.83,998,Best Deals Inc.,1/5/2014,6/18/2025,Available
+30,UltraThing,mountain,Giant,5.49,153.36,793,XYZ Company,6/5/2010,6/20/2025,Available
+31,TechMaster,cruiser,Trek,2.59,983.64,959,XYZ Company,11/24/2013,3/16/2026,Out of Stock
+32,UltraThing,cruiser,Cannondale,2.89,468.35,905,Best Deals Inc.,2/4/2011,12/13/2025,Out of Stock
+33,PowerBlaster,BMX,Giant,79.99,517.06,843,XYZ Company,9/4/2018,5/9/2025,Available
+34,MegaGizmo,BMX,Cannondale,39.99,370.39,973,XYZ Company,7/25/2018,12/24/2025,Available
+35,UltraThing,BMX,Specialized,34.99,875.28,228,123 Distributors,7/15/2014,5/30/2025,Discontinued
+36,PowerBlaster,hybrid,Giant,3.49,896.48,605,123 Distributors,12/5/2012,6/2/2025,Out of Stock
+37,UltraThing,mountain,Cannondale,4.99,579.56,586,123 Distributors,6/11/2010,4/27/2026,Discontinued
+38,UltraThing,road,Giant,11.99,978.76,285,Best Deals Inc.,4/2/2010,3/17/2026,Available
+39,PowerBlaster,road,Trek,59.99,365.59,533,123 Distributors,12/20/2020,7/26/2025,Out of Stock
+40,PowerBlaster,BMX,Bianchi,10.99,294.49,68,ABC Suppliers,1/4/2017,12/16/2025,Out of Stock
+41,TechMaster,BMX,Giant,39.99,633.97,22,ABC Suppliers,9/20/2021,9/21/2025,Available
+42,PowerBlaster,cruiser,Trek,2.99,274.7,436,123 Distributors,3/19/2014,9/21/2025,Available
+43,MegaGizmo,road,Cannondale,39.99,281.84,323,Best Deals Inc.,5/13/2012,7/23/2025,Available
+44,UltraThing,BMX,Trek,29.99,79.3,884,XYZ Company,3/18/2013,4/5/2026,Discontinued
+45,UltraThing,hybrid,Specialized,24.99,893.31,118,ABC Suppliers,7/8/2018,7/17/2025,Out of Stock
+46,PowerBlaster,hybrid,Giant,22.99,763.5,835,123 Distributors,2/9/2017,8/9/2025,Out of Stock
+47,SuperWidget,cruiser,Scott,9.99,334.62,317,123 Distributors,7/7/2012,11/1/2025,Available
+48,TechMaster,mountain,Specialized,39.99,596.71,257,123 Distributors,11/10/2020,1/25/2026,Discontinued
+49,PowerBlaster,hybrid,Specialized,2.99,145.09,802,123 Distributors,12/20/2015,11/15/2025,Discontinued
+50,UltraThing,cruiser,Specialized,39.99,951.05,948,XYZ Company,8/20/2018,8/5/2025,Available
+51,UltraThing,road,Giant,2.49,386.5,882,123 Distributors,10/4/2014,5/30/2025,Discontinued
+52,MegaGizmo,mountain,Specialized,5.99,614.16,246,Best Deals Inc.,10/16/2012,8/26/2025,Out of Stock
+53,PowerBlaster,mountain,Specialized,19.99,128.34,169,Best Deals Inc.,6/30/2020,12/24/2025,Out of Stock
+54,PowerBlaster,road,Scott,34.99,703.39,433,ABC Suppliers,7/27/2019,5/8/2025,Available
+55,TechMaster,mountain,Cannondale,2.99,27.5,180,123 Distributors,5/21/2013,5/12/2025,Discontinued
+56,SuperWidget,cruiser,Scott,7.99,171.71,634,ABC Suppliers,7/3/2021,1/21/2026,Available
+57,MegaGizmo,hybrid,Trek,39.99,149.24,708,Best Deals Inc.,3/21/2016,6/27/2025,Available
+58,MegaGizmo,BMX,Specialized,29.99,349.3,344,123 Distributors,4/27/2019,12/30/2025,Available
+59,PowerBlaster,cruiser,Scott,1.99,847.72,213,123 Distributors,8/1/2019,1/28/2026,Discontinued
+60,MegaGizmo,road,Giant,29.99,644.15,214,XYZ Company,8/20/2016,7/30/2025,Available
+61,PowerBlaster,cruiser,Bianchi,39.99,191.01,971,Best Deals Inc.,10/30/2021,5/3/2025,Available
+62,MegaGizmo,hybrid,Cannondale,19.99,165.89,256,XYZ Company,5/13/2012,9/20/2025,Discontinued
+63,PowerBlaster,BMX,Bianchi,26.99,700.1,864,ABC Suppliers,9/26/2020,5/30/2025,Discontinued
+64,MegaGizmo,hybrid,Specialized,29.99,384.23,716,XYZ Company,1/11/2021,4/21/2026,Available
+65,SuperWidget,BMX,Specialized,29.99,15.92,679,ABC Suppliers,7/19/2011,10/13/2025,Available
+66,UltraThing,hybrid,Scott,19.99,585.7,572,Best Deals Inc.,5/29/2011,2/13/2026,Available
+67,MegaGizmo,hybrid,Giant,59.99,777.07,75,123 Distributors,2/23/2011,6/3/2025,Out of Stock
+68,UltraThing,cruiser,Bianchi,5.49,431.15,943,Best Deals Inc.,4/10/2014,7/11/2025,Available
+69,TechMaster,hybrid,Scott,89.99,596.46,427,ABC Suppliers,11/12/2021,4/14/2026,Available
+70,PowerBlaster,cruiser,Cannondale,14.99,660.76,893,ABC Suppliers,1/19/2017,9/7/2025,Available
+71,TechMaster,BMX,Giant,6.99,851.43,684,Best Deals Inc.,3/23/2021,9/6/2025,Discontinued
+72,MegaGizmo,road,Scott,39.99,338.77,588,XYZ Company,7/1/2011,6/2/2025,Out of Stock
+73,MegaGizmo,BMX,Bianchi,8.99,34.68,138,123 Distributors,4/19/2018,10/23/2025,Out of Stock
+74,MegaGizmo,mountain,Scott,3.49,992.7,905,ABC Suppliers,12/5/2018,2/9/2026,Available
+75,TechMaster,road,Cannondale,39.99,264.34,758,Best Deals Inc.,1/5/2013,9/2/2025,Discontinued
+76,SuperWidget,mountain,Cannondale,5.99,578.83,569,123 Distributors,4/10/2019,7/6/2025,Out of Stock
+77,UltraThing,cruiser,Bianchi,7.99,747.39,767,ABC Suppliers,3/10/2013,7/9/2025,Available
+78,PowerBlaster,mountain,Bianchi,2.99,716.06,143,123 Distributors,4/9/2010,2/21/2026,Discontinued
+79,PowerBlaster,hybrid,Scott,79.99,69.65,705,123 Distributors,2/17/2020,6/26/2025,Discontinued
+80,PowerBlaster,road,Giant,49.99,965.21,610,XYZ Company,4/28/2014,8/3/2025,Out of Stock
+81,PowerBlaster,hybrid,Trek,89.99,229.18,742,XYZ Company,5/1/2013,5/20/2025,Available
+82,MegaGizmo,mountain,Bianchi,3.29,803.26,254,123 Distributors,8/25/2012,7/9/2025,Available
+83,PowerBlaster,hybrid,Specialized,3.49,283.09,163,Best Deals Inc.,1/20/2018,3/21/2026,Discontinued
+84,SuperWidget,BMX,Specialized,24.99,538.65,447,Best Deals Inc.,12/31/2015,3/9/2026,Discontinued
+85,TechMaster,cruiser,Cannondale,79.99,463.62,411,XYZ Company,12/20/2021,6/10/2025,Out of Stock
+86,MegaGizmo,mountain,Scott,39.99,274.8,837,Best Deals Inc.,9/12/2010,5/30/2025,Out of Stock
+87,UltraThing,cruiser,Trek,19.99,659.32,636,ABC Suppliers,5/31/2011,12/16/2025,Discontinued
+88,PowerBlaster,mountain,Trek,249.99,367.49,830,ABC Suppliers,9/21/2013,8/30/2025,Out of Stock
+89,MegaGizmo,hybrid,Bianchi,2.99,849.11,849,Best Deals Inc.,8/12/2019,5/14/2025,Available
+90,PowerBlaster,hybrid,Cannondale,15.99,176.08,148,XYZ Company,11/3/2013,8/17/2025,Out of Stock
+91,UltraThing,BMX,Bianchi,34.99,883.38,196,123 Distributors,8/28/2017,2/4/2026,Available
+92,SuperWidget,BMX,Bianchi,35,877.03,778,123 Distributors,10/21/2013,6/5/2025,Out of Stock
+93,TechMaster,BMX,Scott,9.99,426.44,403,123 Distributors,5/10/2015,2/17/2026,Out of Stock
+94,PowerBlaster,cruiser,Trek,24.99,673.65,157,ABC Suppliers,5/21/2021,3/19/2026,Discontinued
+95,PowerBlaster,cruiser,Bianchi,2.99,66.96,334,ABC Suppliers,4/27/2021,9/22/2025,Available
+96,MegaGizmo,hybrid,Trek,2.79,446.07,288,ABC Suppliers,5/22/2017,6/5/2025,Out of Stock
+97,PowerBlaster,mountain,Giant,14.99,286.03,42,ABC Suppliers,9/21/2015,8/23/2025,Out of Stock
+98,SuperWidget,hybrid,Cannondale,99.99,30.1,218,XYZ Company,6/12/2018,12/29/2025,Available
+99,TechMaster,road,Bianchi,3.49,521.33,347,ABC Suppliers,6/18/2017,10/20/2025,Available
+100,UltraThing,road,Specialized,19.99,441.31,550,XYZ Company,9/29/2014,2/1/2026,Available
+101,SuperWidget,BMX,Scott,12.99,193.8,343,123 Distributors,12/11/2021,11/13/2025,Available
+102,SuperWidget,BMX,Bianchi,2.99,640.01,573,ABC Suppliers,12/2/2020,9/3/2025,Out of Stock
+103,TechMaster,mountain,Bianchi,2.49,415.89,218,XYZ Company,1/5/2015,8/8/2025,Available
+104,SuperWidget,cruiser,Specialized,39.99,726.98,40,123 Distributors,12/4/2014,8/19/2025,Out of Stock
+105,UltraThing,hybrid,Cannondale,4.19,616.32,739,123 Distributors,5/11/2016,6/6/2025,Out of Stock
+106,PowerBlaster,road,Scott,10.99,6.23,379,Best Deals Inc.,11/13/2014,11/6/2025,Out of Stock
+107,SuperWidget,mountain,Scott,24.99,201.19,525,Best Deals Inc.,8/17/2014,8/27/2025,Available
+108,MegaGizmo,cruiser,Specialized,4.99,27.43,121,XYZ Company,9/15/2012,1/5/2026,Discontinued
+109,PowerBlaster,road,Specialized,8.99,938.05,71,XYZ Company,6/22/2021,12/4/2025,Out of Stock
+110,UltraThing,BMX,Giant,6.49,949.56,757,Best Deals Inc.,4/25/2021,1/24/2026,Available
+111,UltraThing,road,Giant,34.99,966.92,404,Best Deals Inc.,7/20/2014,1/12/2026,Discontinued
+112,PowerBlaster,hybrid,Cannondale,49.99,485.77,987,123 Distributors,2/11/2020,8/4/2025,Available
+113,UltraThing,BMX,Giant,22.99,436.29,863,123 Distributors,11/25/2020,4/24/2026,Discontinued
+114,TechMaster,road,Specialized,19.99,257.42,403,123 Distributors,8/1/2017,1/1/2026,Out of Stock
+115,PowerBlaster,cruiser,Specialized,24.99,248.75,893,Best Deals Inc.,10/11/2013,10/26/2025,Out of Stock
+116,UltraThing,cruiser,Giant,5.49,927.98,242,ABC Suppliers,10/5/2012,3/5/2026,Available
+117,TechMaster,road,Scott,3.29,297.05,829,Best Deals Inc.,1/19/2015,5/14/2025,Out of Stock
+118,SuperWidget,mountain,Trek,79.99,209.58,918,Best Deals Inc.,6/25/2021,9/14/2025,Discontinued
+119,SuperWidget,BMX,Trek,4.99,300.94,414,123 Distributors,8/1/2018,2/17/2026,Available
+120,TechMaster,hybrid,Specialized,1.99,788.26,708,ABC Suppliers,6/1/2020,5/23/2025,Available
+121,PowerBlaster,mountain,Specialized,2.99,28.9,782,XYZ Company,10/21/2010,11/4/2025,Out of Stock
+122,TechMaster,BMX,Bianchi,299.99,459.55,874,Best Deals Inc.,11/22/2020,1/9/2026,Discontinued
+123,PowerBlaster,hybrid,Specialized,4.99,483.6,985,123 Distributors,12/5/2020,7/2/2025,Discontinued
+124,PowerBlaster,BMX,Cannondale,79.99,953.15,419,123 Distributors,9/2/2012,7/27/2025,Available
+125,MegaGizmo,cruiser,Cannondale,15.99,604.04,988,ABC Suppliers,5/22/2021,11/6/2025,Out of Stock
+126,TechMaster,mountain,Cannondale,7.99,268.12,74,XYZ Company,10/25/2011,10/24/2025,Discontinued
+127,SuperWidget,hybrid,Cannondale,2.99,519.56,786,Best Deals Inc.,8/26/2020,10/9/2025,Out of Stock
+128,TechMaster,hybrid,Bianchi,1.99,949.26,701,XYZ Company,10/21/2012,7/4/2025,Available
+129,TechMaster,mountain,Cannondale,12.99,670.01,480,Best Deals Inc.,2/22/2011,6/24/2025,Available
+130,UltraThing,cruiser,Bianchi,3.99,157.38,703,Best Deals Inc.,5/5/2017,5/9/2025,Discontinued
+131,MegaGizmo,cruiser,Giant,3.49,187.36,992,ABC Suppliers,5/3/2015,10/30/2025,Available
+132,UltraThing,hybrid,Specialized,49.99,17.67,371,XYZ Company,9/26/2016,11/16/2025,Discontinued
+133,UltraThing,road,Scott,49.99,397.5,652,XYZ Company,4/17/2013,9/15/2025,Out of Stock
+134,TechMaster,cruiser,Trek,3.99,511.94,151,123 Distributors,11/3/2016,12/21/2025,Discontinued
+135,MegaGizmo,cruiser,Specialized,12.99,851.38,225,Best Deals Inc.,3/13/2016,6/5/2025,Discontinued
+136,UltraThing,mountain,Specialized,28.99,93.06,477,ABC Suppliers,7/7/2017,8/18/2025,Out of Stock
+137,MegaGizmo,cruiser,Specialized,4.19,464.85,377,123 Distributors,8/22/2010,5/3/2025,Discontinued
+138,PowerBlaster,hybrid,Specialized,22.99,826.53,766,Best Deals Inc.,10/23/2015,1/6/2026,Out of Stock
+139,TechMaster,mountain,Bianchi,3.49,874.34,902,Best Deals Inc.,9/1/2021,5/21/2025,Out of Stock
+140,PowerBlaster,hybrid,Trek,29.99,31.74,130,123 Distributors,1/16/2020,12/26/2025,Available
+141,PowerBlaster,hybrid,Trek,2.49,977.76,160,Best Deals Inc.,9/19/2019,9/26/2025,Out of Stock
+142,MegaGizmo,cruiser,Bianchi,22.99,806.55,625,Best Deals Inc.,8/10/2019,10/6/2025,Discontinued
+143,PowerBlaster,mountain,Giant,10.99,630.53,700,ABC Suppliers,11/21/2010,9/19/2025,Discontinued
+144,SuperWidget,road,Giant,4.99,1.36,300,Best Deals Inc.,1/13/2010,9/29/2025,Out of Stock
+145,PowerBlaster,road,Specialized,199.99,6.27,888,123 Distributors,10/1/2021,3/11/2026,Available
+146,PowerBlaster,cruiser,Cannondale,2.99,328.31,895,Best Deals Inc.,10/2/2011,10/22/2025,Available
+147,SuperWidget,mountain,Bianchi,24.99,431.53,360,123 Distributors,10/30/2018,3/23/2026,Out of Stock
+148,MegaGizmo,hybrid,Scott,29.99,318.66,8,Best Deals Inc.,2/14/2021,6/13/2025,Out of Stock
+149,UltraThing,mountain,Specialized,3.49,990.15,936,123 Distributors,12/22/2015,4/6/2026,Discontinued
+150,SuperWidget,mountain,Giant,29.99,716.23,704,Best Deals Inc.,7/6/2020,10/20/2025,Out of Stock
+151,UltraThing,mountain,Trek,3.99,348.47,927,XYZ Company,3/25/2013,8/15/2025,Discontinued
+152,MegaGizmo,hybrid,Specialized,24.99,775.27,76,123 Distributors,7/30/2020,8/11/2025,Available
+153,PowerBlaster,road,Bianchi,44.99,456.19,208,XYZ Company,11/9/2021,10/27/2025,Available
+154,PowerBlaster,BMX,Giant,5.49,608.95,779,XYZ Company,4/7/2018,1/27/2026,Available
+155,TechMaster,road,Trek,2.99,173.4,378,ABC Suppliers,9/13/2010,10/13/2025,Available
+156,TechMaster,hybrid,Specialized,3.49,688.34,960,ABC Suppliers,8/26/2019,7/18/2025,Discontinued
+157,PowerBlaster,BMX,Giant,39.99,96.47,1,ABC Suppliers,1/17/2015,11/3/2025,Out of Stock
+158,PowerBlaster,hybrid,Specialized,39.99,667.59,600,Best Deals Inc.,8/22/2021,8/30/2025,Discontinued
+159,UltraThing,road,Scott,2.99,201.5,488,123 Distributors,8/26/2011,12/4/2025,Discontinued
+160,SuperWidget,cruiser,Trek,15.99,591.14,858,XYZ Company,6/11/2011,2/18/2026,Available
+161,PowerBlaster,road,Cannondale,4.29,683.48,713,XYZ Company,1/23/2015,9/3/2025,Available
+162,PowerBlaster,BMX,Specialized,6.49,863.1,58,123 Distributors,8/21/2014,7/13/2025,Out of Stock
+163,SuperWidget,mountain,Specialized,2.99,800.43,824,XYZ Company,10/10/2016,4/23/2026,Out of Stock
+164,PowerBlaster,BMX,Specialized,24.99,628.55,952,123 Distributors,5/6/2012,11/7/2025,Discontinued
+165,SuperWidget,cruiser,Giant,39.99,390.65,10,Best Deals Inc.,4/23/2013,7/20/2025,Out of Stock
+166,UltraThing,cruiser,Bianchi,3.99,713.55,237,123 Distributors,2/9/2020,4/7/2026,Discontinued
+167,UltraThing,road,Specialized,14.99,244.21,289,XYZ Company,6/22/2011,11/29/2025,Out of Stock
+168,SuperWidget,road,Trek,24.99,790.17,196,XYZ Company,1/7/2020,4/1/2026,Available
+169,PowerBlaster,cruiser,Cannondale,39.99,505.76,175,Best Deals Inc.,5/14/2019,3/20/2026,Discontinued
+170,UltraThing,mountain,Specialized,19.99,948.15,970,Best Deals Inc.,12/6/2019,3/11/2026,Available
+171,PowerBlaster,road,Scott,89.99,328.3,700,ABC Suppliers,11/11/2014,5/4/2025,Available
+172,UltraThing,hybrid,Giant,3.29,819.08,408,XYZ Company,10/31/2019,7/18/2025,Out of Stock
+173,TechMaster,road,Giant,18.99,72.61,481,XYZ Company,9/2/2010,8/16/2025,Available
+174,MegaGizmo,BMX,Giant,59.99,175.31,918,123 Distributors,2/15/2019,6/5/2025,Discontinued
+175,UltraThing,cruiser,Trek,39.99,608.43,699,Best Deals Inc.,6/8/2015,7/23/2025,Discontinued
+176,UltraThing,BMX,Giant,39.99,654.14,797,Best Deals Inc.,3/18/2015,8/9/2025,Available
+177,SuperWidget,mountain,Giant,5.99,841.52,233,XYZ Company,8/16/2012,9/16/2025,Discontinued
+178,MegaGizmo,road,Trek,34.99,903.63,888,123 Distributors,6/2/2020,12/16/2025,Available
+179,MegaGizmo,BMX,Trek,4.29,186.12,315,Best Deals Inc.,12/12/2017,12/30/2025,Out of Stock
+180,SuperWidget,road,Specialized,4.99,937.98,14,Best Deals Inc.,11/29/2018,5/4/2025,Discontinued
+181,PowerBlaster,cruiser,Trek,79.99,999.22,359,XYZ Company,9/27/2014,2/21/2026,Out of Stock
+182,PowerBlaster,road,Bianchi,29.99,234.92,40,XYZ Company,11/10/2019,2/5/2026,Discontinued
+183,MegaGizmo,mountain,Specialized,3.49,586.99,252,XYZ Company,12/19/2018,2/4/2026,Available
+184,TechMaster,hybrid,Bianchi,2.49,800.7,574,123 Distributors,9/4/2010,6/29/2025,Discontinued
+185,MegaGizmo,mountain,Scott,2.79,344.32,402,XYZ Company,10/25/2019,4/25/2026,Out of Stock
+186,SuperWidget,road,Giant,2.99,869.36,878,Best Deals Inc.,6/3/2018,4/25/2026,Available
+187,PowerBlaster,BMX,Bianchi,2.29,173.22,904,Best Deals Inc.,9/8/2011,9/22/2025,Out of Stock
+188,MegaGizmo,BMX,Cannondale,3.99,150.24,872,ABC Suppliers,5/5/2020,11/22/2025,Available
+189,SuperWidget,cruiser,Specialized,99.99,734.03,947,Best Deals Inc.,3/1/2014,11/7/2025,Available
+190,SuperWidget,BMX,Specialized,8.99,171.55,853,XYZ Company,8/7/2016,11/6/2025,Discontinued
+191,UltraThing,hybrid,Scott,89.99,696.24,211,ABC Suppliers,7/9/2018,1/16/2026,Discontinued
+192,UltraThing,hybrid,Scott,15.99,418.21,177,123 Distributors,12/14/2018,4/22/2026,Out of Stock
+193,SuperWidget,road,Specialized,3.89,130.89,644,ABC Suppliers,10/18/2013,11/18/2025,Available
+194,SuperWidget,cruiser,Specialized,6.49,690.37,548,Best Deals Inc.,6/16/2018,11/9/2025,Out of Stock
+195,MegaGizmo,BMX,Bianchi,2.99,72.04,666,ABC Suppliers,3/11/2021,3/28/2026,Out of Stock
+196,TechMaster,road,Bianchi,2.99,737.88,40,123 Distributors,9/24/2017,5/21/2025,Out of Stock
+197,PowerBlaster,cruiser,Specialized,49.99,288.07,699,XYZ Company,8/27/2017,11/11/2025,Discontinued
+198,UltraThing,hybrid,Trek,7.99,89.82,846,XYZ Company,11/13/2013,7/2/2025,Out of Stock
+199,SuperWidget,hybrid,Giant,8.49,310.28,836,XYZ Company,7/19/2020,9/25/2025,Out of Stock
+200,MegaGizmo,BMX,Giant,59.99,476.76,620,ABC Suppliers,11/28/2014,8/5/2025,Available
+201,MegaGizmo,hybrid,Bianchi,4.29,116.54,223,Best Deals Inc.,4/21/2010,8/15/2025,Available
+202,SuperWidget,mountain,Scott,6.99,527.56,971,ABC Suppliers,6/9/2020,7/21/2025,Out of Stock
+203,UltraThing,hybrid,Bianchi,39.99,610.03,369,ABC Suppliers,11/10/2011,8/20/2025,Out of Stock
+204,MegaGizmo,mountain,Scott,14.99,58.8,601,ABC Suppliers,8/21/2015,9/22/2025,Available
+205,MegaGizmo,hybrid,Giant,24.99,954.72,852,Best Deals Inc.,1/28/2021,12/1/2025,Discontinued
+206,MegaGizmo,BMX,Specialized,19.99,22.19,81,Best Deals Inc.,8/9/2015,12/27/2025,Available
+207,SuperWidget,mountain,Bianchi,15.99,633.15,869,ABC Suppliers,4/2/2012,7/7/2025,Discontinued
+208,MegaGizmo,cruiser,Specialized,2.49,199.15,924,ABC Suppliers,7/29/2014,3/15/2026,Out of Stock
+209,UltraThing,cruiser,Trek,5.49,786.22,162,XYZ Company,8/1/2018,8/11/2025,Available
+210,SuperWidget,mountain,Scott,24.99,366.27,923,XYZ Company,9/26/2017,3/21/2026,Out of Stock
+211,UltraThing,cruiser,Specialized,89,929.96,237,ABC Suppliers,11/4/2011,2/26/2026,Discontinued
+212,PowerBlaster,mountain,Scott,39.99,383.92,377,Best Deals Inc.,10/7/2016,9/5/2025,Out of Stock
+213,MegaGizmo,road,Trek,19.99,643.39,611,123 Distributors,4/2/2010,10/24/2025,Discontinued
+214,UltraThing,BMX,Cannondale,3.49,218.89,495,ABC Suppliers,1/14/2014,1/30/2026,Discontinued
+215,SuperWidget,road,Bianchi,39.99,28.68,618,123 Distributors,9/4/2014,8/13/2025,Available
+216,PowerBlaster,BMX,Scott,5.49,874.24,645,ABC Suppliers,6/9/2012,10/20/2025,Discontinued
+217,PowerBlaster,cruiser,Scott,3.49,615.21,741,ABC Suppliers,12/19/2011,4/11/2026,Out of Stock
+218,PowerBlaster,BMX,Bianchi,4.59,586.98,922,Best Deals Inc.,6/17/2015,6/29/2025,Out of Stock
+219,MegaGizmo,road,Scott,22.99,542.73,133,Best Deals Inc.,8/13/2014,12/4/2025,Available
+220,TechMaster,road,Bianchi,34.99,954.13,586,123 Distributors,3/1/2020,2/19/2026,Available
+221,TechMaster,mountain,Scott,14.99,296.74,571,123 Distributors,4/28/2014,3/30/2026,Available
+222,TechMaster,BMX,Scott,3.99,947.64,675,Best Deals Inc.,11/16/2011,11/12/2025,Discontinued
+223,MegaGizmo,road,Cannondale,3.29,125.7,138,XYZ Company,2/10/2020,4/11/2026,Out of Stock
+224,TechMaster,cruiser,Giant,34.99,653.57,720,123 Distributors,1/16/2021,7/30/2025,Out of Stock
+225,SuperWidget,road,Specialized,6.49,864.83,327,ABC Suppliers,9/29/2020,9/4/2025,Available
+226,UltraThing,cruiser,Scott,49.99,966.09,118,123 Distributors,10/17/2010,11/12/2025,Discontinued
+227,SuperWidget,cruiser,Scott,29.99,600.89,307,Best Deals Inc.,7/19/2015,10/7/2025,Discontinued
+228,SuperWidget,road,Trek,49.99,705.51,716,XYZ Company,2/18/2021,9/12/2025,Discontinued
+229,SuperWidget,road,Specialized,34.99,302.6,356,ABC Suppliers,6/16/2018,10/13/2025,Out of Stock
+230,SuperWidget,cruiser,Cannondale,39.99,997.48,960,Best Deals Inc.,12/16/2014,10/7/2025,Discontinued
+231,UltraThing,hybrid,Specialized,3.89,948.54,251,XYZ Company,11/23/2018,8/22/2025,Out of Stock
+232,TechMaster,hybrid,Bianchi,39.99,423.52,924,XYZ Company,11/19/2013,8/29/2025,Available
+233,TechMaster,BMX,Giant,3.49,965.73,290,Best Deals Inc.,9/24/2016,1/25/2026,Available
+234,PowerBlaster,mountain,Giant,24.99,706.14,251,123 Distributors,8/21/2011,4/16/2026,Out of Stock
+235,PowerBlaster,BMX,Scott,29.99,965.68,645,123 Distributors,9/5/2014,8/21/2025,Available
+236,MegaGizmo,BMX,Specialized,4.99,26.57,225,123 Distributors,12/2/2011,10/26/2025,Out of Stock
+237,UltraThing,hybrid,Bianchi,69.99,836.41,484,ABC Suppliers,5/22/2014,6/14/2025,Discontinued
+238,MegaGizmo,mountain,Bianchi,19.99,701.57,647,ABC Suppliers,8/17/2017,3/6/2026,Discontinued
+239,PowerBlaster,mountain,Trek,2.79,730.96,340,Best Deals Inc.,8/5/2012,11/20/2025,Out of Stock
+240,MegaGizmo,cruiser,Specialized,3.49,419.98,728,Best Deals Inc.,6/4/2013,7/15/2025,Discontinued
+241,MegaGizmo,hybrid,Specialized,79.99,162.0,888,Best Deals Inc.,2/6/2012,3/9/2026,Available
+242,MegaGizmo,road,Cannondale,2.99,170.09,538,123 Distributors,10/5/2016,1/23/2026,Available
+243,MegaGizmo,road,Cannondale,19.99,49.68,513,123 Distributors,9/29/2017,11/25/2025,Available
+244,TechMaster,BMX,Specialized,29.99,433.76,882,123 Distributors,9/18/2017,1/27/2026,Out of Stock
+245,TechMaster,road,Bianchi,24.99,79.07,480,Best Deals Inc.,2/9/2013,9/13/2025,Available
+246,UltraThing,hybrid,Bianchi,54.99,501.26,963,123 Distributors,6/12/2020,5/26/2025,Available
+247,PowerBlaster,BMX,Scott,10.99,970.81,107,123 Distributors,3/14/2018,10/24/2025,Out of Stock
+248,SuperWidget,hybrid,Bianchi,29.99,662.93,453,123 Distributors,4/29/2012,4/23/2026,Discontinued
+249,TechMaster,cruiser,Bianchi,45.99,351.3,551,123 Distributors,3/5/2010,9/28/2025,Available
+250,SuperWidget,cruiser,Trek,2.29,653.01,526,123 Distributors,6/8/2016,7/26/2025,Available
+251,SuperWidget,mountain,Specialized,34.99,417.38,405,XYZ Company,7/24/2012,4/14/2026,Available
+252,SuperWidget,BMX,Giant,99.99,208.91,513,123 Distributors,8/11/2014,3/10/2026,Available
+253,MegaGizmo,road,Specialized,5.49,844.89,217,123 Distributors,5/15/2010,12/7/2025,Out of Stock
+254,TechMaster,mountain,Giant,3.99,490.63,277,123 Distributors,12/25/2020,11/9/2025,Discontinued
+255,TechMaster,mountain,Scott,3.49,636.13,134,ABC Suppliers,11/8/2018,6/21/2025,Out of Stock
+256,TechMaster,cruiser,Cannondale,3.79,563.71,92,Best Deals Inc.,12/9/2011,10/29/2025,Available
+257,TechMaster,road,Cannondale,3.89,289.36,459,123 Distributors,3/20/2016,9/17/2025,Out of Stock
+258,MegaGizmo,road,Cannondale,3.29,449.44,507,Best Deals Inc.,9/4/2011,8/2/2025,Available
+259,TechMaster,hybrid,Trek,12.99,645.19,31,XYZ Company,5/27/2016,9/4/2025,Discontinued
+260,PowerBlaster,BMX,Scott,2.49,484.24,286,XYZ Company,6/16/2019,7/17/2025,Available
+261,SuperWidget,mountain,Bianchi,24.99,851.83,321,123 Distributors,6/30/2015,12/24/2025,Out of Stock
+262,PowerBlaster,BMX,Bianchi,39.99,78.59,562,XYZ Company,4/28/2011,6/19/2025,Available
+263,SuperWidget,road,Bianchi,39.99,538.3,963,XYZ Company,1/17/2012,6/19/2025,Out of Stock
+264,MegaGizmo,mountain,Giant,6.29,276.67,923,Best Deals Inc.,5/6/2016,7/22/2025,Available
+265,MegaGizmo,road,Giant,79.99,237.42,695,ABC Suppliers,7/19/2013,5/26/2025,Discontinued
+266,MegaGizmo,road,Giant,1.99,504.26,698,Best Deals Inc.,1/17/2020,3/30/2026,Discontinued
+267,PowerBlaster,road,Scott,3.49,167.76,572,ABC Suppliers,11/26/2015,4/18/2026,Available
+268,UltraThing,cruiser,Scott,39.99,223.14,253,Best Deals Inc.,1/6/2018,10/21/2025,Available
+269,UltraThing,road,Giant,5.99,433.54,109,123 Distributors,6/28/2021,4/12/2026,Out of Stock
+270,MegaGizmo,cruiser,Giant,1.79,13.57,291,Best Deals Inc.,8/8/2010,5/12/2025,Discontinued
+271,UltraThing,BMX,Bianchi,89.99,226.88,911,Best Deals Inc.,3/6/2014,11/16/2025,Available
+272,MegaGizmo,cruiser,Bianchi,3.99,328.97,317,123 Distributors,3/18/2015,9/22/2025,Discontinued
+273,UltraThing,hybrid,Specialized,49.99,940.98,10,123 Distributors,1/3/2015,4/22/2026,Discontinued
+274,UltraThing,BMX,Cannondale,22.99,816.8,852,ABC Suppliers,2/12/2016,7/1/2025,Available
+275,TechMaster,mountain,Giant,3.99,907.17,961,ABC Suppliers,6/12/2015,7/11/2025,Available
+276,MegaGizmo,BMX,Bianchi,2.99,937.53,865,Best Deals Inc.,2/13/2011,12/14/2025,Available
+277,UltraThing,hybrid,Specialized,79.99,990.82,286,XYZ Company,2/8/2014,2/2/2026,Out of Stock
+278,MegaGizmo,road,Giant,29.99,973.62,293,Best Deals Inc.,3/9/2016,1/5/2026,Available
+279,UltraThing,hybrid,Bianchi,6.49,595.24,151,123 Distributors,4/18/2017,5/29/2025,Out of Stock
+280,SuperWidget,BMX,Specialized,29.99,952.86,558,ABC Suppliers,3/11/2016,6/7/2025,Discontinued
+281,UltraThing,cruiser,Trek,39.99,290.85,558,ABC Suppliers,7/13/2021,8/15/2025,Discontinued
+282,SuperWidget,cruiser,Giant,1.39,130.81,121,XYZ Company,9/2/2012,6/4/2025,Available
+283,MegaGizmo,mountain,Cannondale,22.99,216.72,32,Best Deals Inc.,11/28/2017,12/19/2025,Available
+284,UltraThing,BMX,Giant,5.99,934.73,239,ABC Suppliers,5/29/2016,10/17/2025,Out of Stock
+285,SuperWidget,mountain,Specialized,29.99,794.39,218,Best Deals Inc.,3/26/2014,11/26/2025,Available
+286,UltraThing,cruiser,Bianchi,4.49,640.08,334,Best Deals Inc.,3/14/2011,10/6/2025,Out of Stock
+287,SuperWidget,BMX,Giant,24.99,224.45,314,123 Distributors,10/31/2018,7/8/2025,Discontinued
+288,UltraThing,mountain,Bianchi,3.99,259.56,21,XYZ Company,6/22/2013,12/16/2025,Out of Stock
+289,TechMaster,hybrid,Giant,1.49,620.96,231,123 Distributors,2/7/2016,6/8/2025,Discontinued
+290,UltraThing,mountain,Specialized,5.99,940.3,794,Best Deals Inc.,7/4/2019,6/30/2025,Discontinued
+291,MegaGizmo,mountain,Giant,3.29,128.88,401,Best Deals Inc.,3/23/2021,1/22/2026,Out of Stock
+292,TechMaster,road,Specialized,2.99,664.1,736,XYZ Company,10/28/2010,6/20/2025,Discontinued
+293,PowerBlaster,hybrid,Trek,249.99,248.12,691,Best Deals Inc.,12/19/2016,7/1/2025,Available
+294,UltraThing,mountain,Scott,49.99,521.12,762,ABC Suppliers,7/26/2011,5/18/2025,Out of Stock
+295,PowerBlaster,BMX,Giant,39.99,263.7,674,ABC Suppliers,10/13/2016,12/29/2025,Discontinued
+296,UltraThing,cruiser,Giant,8.99,906.08,19,123 Distributors,5/30/2015,11/24/2025,Discontinued
+297,SuperWidget,hybrid,Giant,4.29,28.66,302,ABC Suppliers,3/19/2021,3/5/2026,Out of Stock
+298,TechMaster,BMX,Giant,5.99,343.42,596,123 Distributors,11/20/2010,4/28/2026,Available
+299,UltraThing,hybrid,Giant,39.99,980.63,622,Best Deals Inc.,8/17/2013,11/17/2025,Discontinued
+300,UltraThing,road,Specialized,34.99,67.46,672,XYZ Company,8/1/2017,12/19/2025,Out of Stock
+301,SuperWidget,BMX,Bianchi,9.99,552.71,481,ABC Suppliers,11/29/2015,10/1/2025,Available
+302,MegaGizmo,cruiser,Trek,1.99,589.18,32,123 Distributors,3/10/2015,11/25/2025,Out of Stock
+303,TechMaster,cruiser,Scott,5.99,102.64,355,ABC Suppliers,10/20/2013,3/27/2026,Out of Stock
+304,TechMaster,cruiser,Cannondale,4.99,285.55,401,123 Distributors,9/28/2018,7/12/2025,Out of Stock
+305,UltraThing,mountain,Bianchi,4.49,349.04,469,XYZ Company,5/28/2015,6/29/2025,Available
+306,UltraThing,cruiser,Giant,25.99,352.59,998,ABC Suppliers,4/19/2012,12/13/2025,Out of Stock
+307,TechMaster,hybrid,Giant,2.79,551.43,924,123 Distributors,7/28/2011,10/14/2025,Discontinued
+308,SuperWidget,mountain,Giant,3.29,89.75,985,XYZ Company,4/2/2019,1/2/2026,Discontinued
+309,SuperWidget,mountain,Scott,6.99,182.39,551,XYZ Company,8/22/2019,8/11/2025,Discontinued
+310,UltraThing,BMX,Trek,3.99,590.72,464,ABC Suppliers,4/30/2012,5/17/2025,Discontinued
+311,UltraThing,road,Specialized,2.99,284.4,897,XYZ Company,1/26/2017,1/27/2026,Available
+312,PowerBlaster,road,Scott,64.99,590.03,261,ABC Suppliers,2/6/2020,9/26/2025,Available
+313,SuperWidget,road,Scott,3.99,620.66,18,XYZ Company,5/4/2018,5/12/2025,Discontinued
+314,PowerBlaster,mountain,Giant,2.79,862.02,774,XYZ Company,8/20/2012,5/19/2025,Discontinued
+315,UltraThing,BMX,Bianchi,29.99,649.71,932,XYZ Company,2/14/2020,3/1/2026,Out of Stock
+316,UltraThing,hybrid,Specialized,29.99,478.84,85,ABC Suppliers,12/10/2015,2/22/2026,Available
+317,PowerBlaster,mountain,Bianchi,0.75,802.41,432,XYZ Company,1/30/2011,3/20/2026,Available
+318,UltraThing,hybrid,Scott,69.99,219.04,767,ABC Suppliers,8/3/2020,4/23/2026,Discontinued
+319,MegaGizmo,hybrid,Cannondale,6.99,601.0,620,XYZ Company,8/12/2021,4/11/2026,Available
+320,MegaGizmo,mountain,Cannondale,5.99,927.12,447,ABC Suppliers,9/2/2016,11/3/2025,Out of Stock
+321,TechMaster,mountain,Specialized,0.99,825.81,281,XYZ Company,6/21/2013,9/7/2025,Discontinued
+322,MegaGizmo,BMX,Scott,2.99,43.42,248,ABC Suppliers,8/15/2021,9/26/2025,Discontinued
+323,SuperWidget,road,Giant,34.99,949.25,702,123 Distributors,5/25/2020,1/30/2026,Available
+324,UltraThing,road,Cannondale,1.89,510.05,98,123 Distributors,8/10/2011,8/24/2025,Out of Stock
+325,TechMaster,mountain,Cannondale,79.99,285.62,923,XYZ Company,1/5/2013,12/4/2025,Out of Stock
+326,TechMaster,hybrid,Bianchi,4.29,283.09,266,Best Deals Inc.,9/18/2020,10/12/2025,Out of Stock
+327,MegaGizmo,road,Specialized,49.99,612.62,674,ABC Suppliers,7/12/2013,12/29/2025,Discontinued
+328,MegaGizmo,hybrid,Scott,14.99,484.53,487,ABC Suppliers,6/25/2010,6/6/2025,Discontinued
+329,SuperWidget,hybrid,Giant,19.99,794.78,904,123 Distributors,3/14/2019,4/11/2026,Out of Stock
+330,UltraThing,road,Scott,3.29,362.74,167,XYZ Company,7/30/2014,1/26/2026,Out of Stock
+331,TechMaster,road,Giant,15.99,938.08,584,ABC Suppliers,2/27/2020,4/5/2026,Discontinued
+332,PowerBlaster,hybrid,Trek,8.99,564.36,108,123 Distributors,1/26/2015,2/27/2026,Out of Stock
+333,MegaGizmo,road,Trek,39.99,562.14,962,Best Deals Inc.,10/9/2019,3/22/2026,Out of Stock
+334,MegaGizmo,hybrid,Giant,4.29,795.06,409,XYZ Company,1/6/2010,1/27/2026,Out of Stock
+335,UltraThing,road,Specialized,4.49,374.61,796,XYZ Company,10/9/2013,6/8/2025,Discontinued
+336,TechMaster,road,Bianchi,3.99,475.85,591,Best Deals Inc.,11/7/2015,7/22/2025,Out of Stock
+337,PowerBlaster,BMX,Bianchi,49.99,334.95,646,XYZ Company,4/1/2018,1/6/2026,Out of Stock
+338,TechMaster,hybrid,Specialized,1.99,916.09,790,Best Deals Inc.,4/19/2021,4/4/2026,Out of Stock
+339,PowerBlaster,cruiser,Bianchi,19.99,664.3,519,ABC Suppliers,12/10/2013,10/18/2025,Discontinued
+340,MegaGizmo,road,Trek,2.99,306.57,325,XYZ Company,6/29/2010,12/19/2025,Out of Stock
+341,TechMaster,road,Trek,6.49,773.61,815,XYZ Company,12/8/2015,10/30/2025,Discontinued
+342,UltraThing,mountain,Specialized,0.75,664.08,130,Best Deals Inc.,4/10/2014,3/8/2026,Out of Stock
+343,TechMaster,mountain,Trek,29.99,32.67,682,ABC Suppliers,3/29/2017,5/26/2025,Discontinued
+344,PowerBlaster,hybrid,Bianchi,34.99,874.03,719,XYZ Company,6/27/2016,5/13/2025,Out of Stock
+345,MegaGizmo,cruiser,Specialized,99.99,884.3,76,ABC Suppliers,5/11/2010,1/20/2026,Available
+346,PowerBlaster,BMX,Trek,4.49,483.19,293,XYZ Company,8/2/2013,8/26/2025,Discontinued
+347,SuperWidget,hybrid,Giant,12.99,990.56,537,123 Distributors,1/19/2016,7/9/2025,Out of Stock
+348,UltraThing,cruiser,Scott,49.99,502.28,276,123 Distributors,6/14/2019,3/10/2026,Discontinued
+349,MegaGizmo,road,Bianchi,4.99,280.89,716,Best Deals Inc.,9/18/2021,9/28/2025,Discontinued
+350,TechMaster,road,Giant,4.99,923.49,494,ABC Suppliers,6/1/2016,5/18/2025,Discontinued
+351,PowerBlaster,mountain,Trek,14.99,129.09,429,XYZ Company,8/4/2015,12/6/2025,Discontinued
+352,MegaGizmo,road,Bianchi,19.99,983.21,769,ABC Suppliers,12/29/2012,8/5/2025,Discontinued
+353,MegaGizmo,cruiser,Giant,6.99,879.6,400,Best Deals Inc.,4/7/2015,5/16/2025,Discontinued
+354,PowerBlaster,hybrid,Trek,4.99,767.24,32,XYZ Company,2/21/2011,2/16/2026,Discontinued
+355,PowerBlaster,BMX,Giant,39.99,72.29,960,XYZ Company,1/15/2015,11/11/2025,Available
+356,UltraThing,road,Scott,4.99,171.05,400,ABC Suppliers,6/8/2021,9/27/2025,Available
+357,PowerBlaster,cruiser,Trek,4.99,549.75,835,XYZ Company,11/18/2021,7/6/2025,Available
+358,TechMaster,hybrid,Cannondale,14.99,781.48,444,Best Deals Inc.,2/11/2011,1/15/2026,Discontinued
+359,TechMaster,BMX,Scott,79.99,441.71,155,123 Distributors,12/8/2019,12/28/2025,Out of Stock
+360,UltraThing,cruiser,Trek,39.99,642.54,256,Best Deals Inc.,9/14/2015,7/8/2025,Available
+361,MegaGizmo,cruiser,Specialized,89.99,419.26,162,123 Distributors,9/15/2012,1/19/2026,Available
+362,TechMaster,mountain,Trek,15.99,770.85,128,ABC Suppliers,5/21/2011,10/18/2025,Discontinued
+363,MegaGizmo,hybrid,Specialized,44.99,143.69,745,123 Distributors,9/2/2020,7/26/2025,Discontinued
+364,MegaGizmo,mountain,Cannondale,14.99,152.68,745,Best Deals Inc.,10/18/2013,10/28/2025,Discontinued
+365,UltraThing,hybrid,Bianchi,19.99,427.21,77,Best Deals Inc.,2/2/2021,3/29/2026,Discontinued
+366,MegaGizmo,mountain,Specialized,2.49,597.49,987,123 Distributors,8/10/2013,8/29/2025,Discontinued
+367,SuperWidget,hybrid,Scott,39.99,190.86,526,ABC Suppliers,8/26/2019,12/3/2025,Out of Stock
+368,TechMaster,road,Cannondale,39.99,718.92,707,XYZ Company,5/5/2019,8/18/2025,Available
+369,PowerBlaster,cruiser,Specialized,7.99,847.36,614,123 Distributors,6/7/2010,1/27/2026,Discontinued
+370,PowerBlaster,hybrid,Specialized,8.49,211.95,943,123 Distributors,7/19/2020,1/22/2026,Out of Stock
+371,SuperWidget,cruiser,Scott,14.99,488.28,23,ABC Suppliers,5/29/2014,8/18/2025,Discontinued
+372,TechMaster,road,Giant,3.59,864.7,206,123 Distributors,3/21/2018,9/25/2025,Available
+373,UltraThing,cruiser,Trek,4.29,523.73,629,123 Distributors,1/31/2020,9/30/2025,Available
+374,TechMaster,BMX,Specialized,3.99,512.5,86,123 Distributors,12/7/2013,2/4/2026,Discontinued
+375,SuperWidget,mountain,Scott,59.99,375.04,830,123 Distributors,7/10/2017,3/22/2026,Out of Stock
+376,TechMaster,hybrid,Bianchi,2.99,272.09,166,123 Distributors,11/12/2013,12/30/2025,Discontinued
+377,PowerBlaster,road,Scott,2.99,772.75,347,XYZ Company,4/16/2017,3/13/2026,Discontinued
+378,SuperWidget,mountain,Specialized,1.99,109.87,202,XYZ Company,4/25/2021,5/27/2025,Discontinued
+379,TechMaster,BMX,Bianchi,6.99,664.27,192,ABC Suppliers,6/4/2016,7/6/2025,Out of Stock
+380,MegaGizmo,mountain,Bianchi,49.99,977.76,817,ABC Suppliers,4/19/2018,2/27/2026,Discontinued
+381,SuperWidget,hybrid,Scott,6.49,309.21,298,ABC Suppliers,4/30/2020,8/9/2025,Out of Stock
+382,SuperWidget,road,Scott,3.99,549.01,969,123 Distributors,7/12/2014,4/23/2026,Available
+383,UltraThing,mountain,Scott,29.99,733.59,506,XYZ Company,5/20/2017,9/18/2025,Available
+384,MegaGizmo,hybrid,Giant,2.99,811.19,235,ABC Suppliers,11/26/2021,11/1/2025,Out of Stock
+385,TechMaster,hybrid,Cannondale,7.99,787.72,646,123 Distributors,9/25/2017,4/10/2026,Available
+386,SuperWidget,mountain,Cannondale,39.99,916.46,234,ABC Suppliers,7/16/2020,5/17/2025,Available
+387,SuperWidget,road,Bianchi,29.99,562.4,579,Best Deals Inc.,12/9/2010,9/19/2025,Discontinued
+388,TechMaster,cruiser,Trek,3.99,656.08,230,123 Distributors,10/13/2011,7/7/2025,Out of Stock
+389,TechMaster,BMX,Trek,34.99,782.33,987,123 Distributors,5/22/2017,6/4/2025,Available
+390,MegaGizmo,road,Giant,29.99,613.33,304,123 Distributors,12/7/2015,3/26/2026,Out of Stock
+391,UltraThing,road,Specialized,49.99,646.74,216,ABC Suppliers,2/23/2015,12/30/2025,Discontinued
+392,UltraThing,BMX,Bianchi,1.29,722.84,678,ABC Suppliers,4/20/2021,6/1/2025,Available
+393,PowerBlaster,cruiser,Trek,89.99,147.19,61,123 Distributors,7/25/2021,8/30/2025,Discontinued
+394,UltraThing,cruiser,Trek,3.5,235.57,449,123 Distributors,5/2/2013,12/21/2025,Out of Stock
+395,PowerBlaster,road,Specialized,34.99,262.54,305,Best Deals Inc.,11/3/2012,8/2/2025,Discontinued
+396,MegaGizmo,hybrid,Giant,3.99,200.29,660,Best Deals Inc.,9/5/2011,3/21/2026,Out of Stock
+397,MegaGizmo,mountain,Cannondale,3.29,404.34,957,XYZ Company,9/4/2013,4/16/2026,Discontinued
+398,SuperWidget,hybrid,Giant,99.99,750.42,971,Best Deals Inc.,6/18/2011,2/9/2026,Discontinued
+399,SuperWidget,mountain,Giant,89.99,930.31,388,Best Deals Inc.,12/19/2012,1/26/2026,Out of Stock
+400,TechMaster,road,Giant,4.99,238.16,595,ABC Suppliers,3/19/2013,10/19/2025,Out of Stock
+401,MegaGizmo,road,Giant,12.99,686.72,110,XYZ Company,1/3/2016,4/22/2026,Available
+402,PowerBlaster,cruiser,Trek,19.99,248.63,464,123 Distributors,7/14/2021,2/7/2026,Out of Stock
+403,MegaGizmo,BMX,Bianchi,89.99,660.84,905,XYZ Company,4/14/2010,11/25/2025,Available
+404,SuperWidget,road,Trek,79.99,978.11,97,123 Distributors,1/14/2012,8/13/2025,Out of Stock
+405,UltraThing,road,Giant,49.99,752.55,453,ABC Suppliers,6/5/2010,2/2/2026,Out of Stock
+406,MegaGizmo,cruiser,Specialized,14.99,279.63,190,ABC Suppliers,1/1/2010,8/16/2025,Discontinued
+407,TechMaster,cruiser,Trek,34.99,463.5,917,123 Distributors,10/13/2015,7/17/2025,Discontinued
+408,PowerBlaster,road,Bianchi,2.49,109.87,101,123 Distributors,12/1/2013,5/31/2025,Available
+409,SuperWidget,road,Bianchi,22.99,552.76,777,123 Distributors,11/29/2010,12/31/2025,Out of Stock
+410,MegaGizmo,mountain,Specialized,39.99,418.78,945,Best Deals Inc.,11/19/2013,2/3/2026,Discontinued
+411,UltraThing,cruiser,Scott,29.99,239.77,965,Best Deals Inc.,6/23/2020,9/9/2025,Available
+412,PowerBlaster,BMX,Specialized,49.99,872.51,420,Best Deals Inc.,10/27/2012,6/18/2025,Available
+413,PowerBlaster,road,Giant,4.99,281.72,43,XYZ Company,7/21/2013,3/22/2026,Discontinued
+414,TechMaster,road,Giant,2.29,580.76,226,ABC Suppliers,4/1/2012,1/24/2026,Discontinued
+415,TechMaster,hybrid,Scott,2.49,814.08,764,123 Distributors,7/29/2015,6/12/2025,Available
+416,SuperWidget,hybrid,Scott,39.99,496.7,234,ABC Suppliers,10/5/2015,7/1/2025,Discontinued
+417,UltraThing,mountain,Giant,1.49,590.47,319,123 Distributors,7/30/2014,3/7/2026,Out of Stock
+418,MegaGizmo,mountain,Trek,6.99,30.22,176,123 Distributors,9/18/2018,10/6/2025,Out of Stock
+419,TechMaster,hybrid,Bianchi,49.99,271.49,807,Best Deals Inc.,1/19/2018,8/11/2025,Out of Stock
+420,MegaGizmo,BMX,Giant,3.49,518.31,707,123 Distributors,11/29/2014,3/25/2026,Available
+421,PowerBlaster,cruiser,Specialized,9.99,891.29,639,123 Distributors,2/25/2016,1/22/2026,Out of Stock
+422,MegaGizmo,BMX,Scott,5.99,385.82,842,Best Deals Inc.,5/25/2016,4/15/2026,Available
+423,TechMaster,mountain,Cannondale,299.99,906.76,754,XYZ Company,9/5/2017,9/22/2025,Out of Stock
+424,TechMaster,mountain,Giant,14.99,679.16,0,Best Deals Inc.,3/22/2013,5/1/2025,Out of Stock
+425,UltraThing,hybrid,Specialized,1.29,912.06,340,Best Deals Inc.,12/8/2021,9/10/2025,Discontinued
+426,UltraThing,BMX,Cannondale,9.99,218.02,542,ABC Suppliers,4/4/2015,9/13/2025,Out of Stock
+427,UltraThing,cruiser,Giant,99.99,750.92,444,XYZ Company,6/22/2021,9/21/2025,Available
+428,TechMaster,cruiser,Trek,1.99,433.39,574,Best Deals Inc.,10/17/2021,10/12/2025,Available
+429,UltraThing,road,Specialized,39.99,396.56,969,123 Distributors,7/4/2020,4/22/2026,Discontinued
+430,SuperWidget,mountain,Trek,34.99,738.33,219,Best Deals Inc.,7/30/2013,8/16/2025,Discontinued
+431,MegaGizmo,cruiser,Giant,4.99,190.42,181,ABC Suppliers,3/1/2018,5/19/2025,Available
+432,UltraThing,BMX,Specialized,2.49,654.54,798,ABC Suppliers,10/29/2015,2/6/2026,Available
+433,SuperWidget,BMX,Specialized,5.99,49.93,281,ABC Suppliers,1/13/2010,11/3/2025,Out of Stock
+434,UltraThing,cruiser,Bianchi,6.49,377.8,964,123 Distributors,10/17/2012,8/10/2025,Out of Stock
+435,SuperWidget,cruiser,Giant,8.49,735.09,136,ABC Suppliers,6/23/2019,4/19/2026,Available
+436,MegaGizmo,road,Giant,79.99,989.47,422,ABC Suppliers,2/8/2011,2/6/2026,Available
+437,SuperWidget,mountain,Bianchi,5.49,826.96,307,ABC Suppliers,10/14/2014,7/14/2025,Discontinued
+438,SuperWidget,cruiser,Specialized,19.99,620.76,138,123 Distributors,8/22/2013,2/15/2026,Available
+439,SuperWidget,road,Trek,39.99,737.42,872,123 Distributors,4/9/2010,5/28/2025,Out of Stock
+440,TechMaster,road,Bianchi,14.99,107.18,538,ABC Suppliers,7/18/2014,10/23/2025,Discontinued
+441,TechMaster,BMX,Bianchi,29.99,206.15,640,ABC Suppliers,12/25/2021,4/25/2026,Out of Stock
+442,UltraThing,BMX,Trek,9.99,708.74,157,123 Distributors,11/12/2015,1/4/2026,Out of Stock
+443,MegaGizmo,BMX,Specialized,5.99,525.59,258,ABC Suppliers,1/3/2018,5/18/2025,Discontinued
+444,MegaGizmo,hybrid,Scott,59.99,231.3,755,123 Distributors,6/20/2013,7/23/2025,Out of Stock
+445,MegaGizmo,road,Giant,4.99,408.06,771,Best Deals Inc.,12/8/2012,1/20/2026,Out of Stock
+446,MegaGizmo,cruiser,Scott,5.49,933.61,647,Best Deals Inc.,5/9/2013,9/15/2025,Discontinued
+447,SuperWidget,BMX,Cannondale,49.99,672.53,322,123 Distributors,6/24/2011,2/25/2026,Discontinued
+448,PowerBlaster,mountain,Scott,14.99,590.04,793,Best Deals Inc.,4/10/2011,12/3/2025,Discontinued
+449,TechMaster,road,Giant,9.99,739.83,945,123 Distributors,11/25/2012,5/18/2025,Out of Stock
+450,UltraThing,hybrid,Bianchi,79.99,152.74,443,ABC Suppliers,1/2/2019,2/4/2026,Available
+451,MegaGizmo,cruiser,Trek,3.29,826.05,347,123 Distributors,9/27/2016,9/4/2025,Out of Stock
+452,TechMaster,road,Scott,2.99,541.71,783,Best Deals Inc.,2/12/2019,6/16/2025,Available
+453,TechMaster,road,Scott,5.29,262.01,81,XYZ Company,1/15/2019,7/15/2025,Discontinued
+454,SuperWidget,hybrid,Trek,3.29,17.16,201,ABC Suppliers,1/29/2014,2/22/2026,Out of Stock
+455,MegaGizmo,road,Scott,199.99,945.26,507,Best Deals Inc.,6/9/2015,6/13/2025,Discontinued
+456,MegaGizmo,mountain,Giant,3.49,531.39,207,Best Deals Inc.,6/17/2016,9/23/2025,Out of Stock
+457,MegaGizmo,mountain,Trek,22.99,620.83,712,ABC Suppliers,7/3/2015,5/20/2025,Available
+458,MegaGizmo,mountain,Scott,99.99,868.73,533,XYZ Company,4/3/2021,3/12/2026,Available
+459,UltraThing,road,Scott,3.49,424.69,688,123 Distributors,9/20/2018,11/22/2025,Available
+460,UltraThing,mountain,Specialized,3.29,786.12,716,Best Deals Inc.,11/2/2021,8/23/2025,Available
+461,PowerBlaster,road,Bianchi,39.99,295.67,899,XYZ Company,1/22/2018,9/16/2025,Available
+462,PowerBlaster,road,Specialized,12.99,925.24,194,XYZ Company,8/31/2016,2/20/2026,Out of Stock
+463,UltraThing,cruiser,Cannondale,18.99,721.32,425,Best Deals Inc.,11/4/2020,3/3/2026,Out of Stock
+464,MegaGizmo,BMX,Giant,14.99,786.91,477,ABC Suppliers,5/17/2021,1/12/2026,Discontinued
+465,MegaGizmo,BMX,Scott,199.99,41.07,164,123 Distributors,2/24/2012,8/7/2025,Available
+466,UltraThing,BMX,Giant,24.99,933.7,126,Best Deals Inc.,7/22/2014,1/23/2026,Available
+467,MegaGizmo,road,Trek,17.99,789.28,68,XYZ Company,3/30/2013,9/6/2025,Out of Stock
+468,PowerBlaster,cruiser,Scott,34.99,503.18,832,123 Distributors,4/24/2019,1/6/2026,Available
+469,TechMaster,BMX,Bianchi,59.99,314.92,509,Best Deals Inc.,9/15/2014,5/9/2025,Discontinued
+470,SuperWidget,cruiser,Giant,39.99,286.5,492,ABC Suppliers,2/13/2017,2/14/2026,Discontinued
+471,PowerBlaster,road,Giant,24.99,810.64,354,XYZ Company,1/9/2021,3/7/2026,Available
+472,SuperWidget,road,Cannondale,3.79,529.62,230,123 Distributors,9/16/2018,12/3/2025,Out of Stock
+473,PowerBlaster,hybrid,Scott,9.99,484.42,341,123 Distributors,10/3/2018,6/1/2025,Discontinued
+474,PowerBlaster,hybrid,Specialized,44.99,30.2,817,ABC Suppliers,11/14/2018,8/22/2025,Discontinued
+475,SuperWidget,road,Specialized,15.99,402.49,672,123 Distributors,12/18/2017,11/7/2025,Out of Stock
+476,SuperWidget,mountain,Cannondale,3.79,166.57,632,XYZ Company,4/7/2015,9/22/2025,Discontinued
+477,UltraThing,hybrid,Scott,4.99,145.84,113,Best Deals Inc.,2/4/2012,9/20/2025,Discontinued
+478,PowerBlaster,BMX,Giant,199.99,138.63,325,Best Deals Inc.,1/5/2021,9/30/2025,Out of Stock
+479,PowerBlaster,cruiser,Giant,89.99,638.38,713,XYZ Company,6/9/2014,3/14/2026,Available
+480,PowerBlaster,BMX,Cannondale,2.99,988.31,275,Best Deals Inc.,10/28/2020,11/5/2025,Available
+481,MegaGizmo,cruiser,Scott,3.29,103.44,939,123 Distributors,7/30/2015,5/6/2025,Discontinued
+482,SuperWidget,hybrid,Trek,4.49,707.26,75,Best Deals Inc.,3/6/2011,11/11/2025,Out of Stock
+483,SuperWidget,mountain,Trek,2.49,574.51,837,XYZ Company,2/19/2013,9/9/2025,Available
+484,MegaGizmo,hybrid,Trek,3.99,766.8,680,XYZ Company,4/3/2021,10/8/2025,Discontinued
+485,UltraThing,hybrid,Giant,1.29,689.27,391,ABC Suppliers,8/16/2019,7/23/2025,Discontinued
+486,UltraThing,mountain,Trek,49.99,263.0,605,XYZ Company,8/9/2017,2/28/2026,Out of Stock
+487,TechMaster,road,Specialized,34.99,222.87,164,XYZ Company,7/28/2010,1/17/2026,Available
+488,TechMaster,road,Specialized,59.99,31.63,915,123 Distributors,8/6/2013,9/8/2025,Out of Stock
+489,TechMaster,hybrid,Cannondale,34.99,510.01,677,XYZ Company,5/23/2018,9/23/2025,Discontinued
+490,PowerBlaster,mountain,Giant,24.99,51.8,184,Best Deals Inc.,6/30/2012,12/24/2025,Out of Stock
+491,PowerBlaster,cruiser,Specialized,49.99,841.04,215,Best Deals Inc.,8/20/2012,2/27/2026,Available
+492,MegaGizmo,hybrid,Giant,29.99,50.62,694,ABC Suppliers,8/27/2011,11/4/2025,Available
+493,SuperWidget,mountain,Giant,24.99,249.52,501,123 Distributors,11/2/2015,9/2/2025,Discontinued
+494,MegaGizmo,hybrid,Scott,19.99,536.13,598,XYZ Company,6/25/2015,3/14/2026,Discontinued
+495,TechMaster,road,Scott,49.99,885.41,651,123 Distributors,9/29/2014,5/1/2025,Out of Stock
+496,TechMaster,BMX,Scott,4.99,81.73,271,XYZ Company,7/18/2013,10/4/2025,Discontinued
+497,MegaGizmo,BMX,Trek,1.39,383.04,691,Best Deals Inc.,6/24/2013,3/27/2026,Discontinued
+498,PowerBlaster,road,Trek,2.99,850.13,790,XYZ Company,11/2/2018,2/27/2026,Available
+499,PowerBlaster,cruiser,Bianchi,4.89,819.74,232,XYZ Company,6/29/2010,1/20/2026,Discontinued
+500,MegaGizmo,BMX,Bianchi,4.99,88.04,35,XYZ Company,3/30/2015,11/11/2025,Discontinued
+501,PowerBlaster,road,Specialized,2.99,954.16,125,ABC Suppliers,12/23/2016,4/27/2026,Discontinued
+502,UltraThing,hybrid,Giant,34.99,924.65,289,Best Deals Inc.,12/19/2017,4/2/2026,Out of Stock
+503,MegaGizmo,hybrid,Trek,3.59,836.15,782,Best Deals Inc.,1/13/2018,2/7/2026,Available
+504,TechMaster,road,Bianchi,22.99,547.6,405,ABC Suppliers,3/31/2010,11/27/2025,Discontinued
+505,MegaGizmo,road,Specialized,2.29,542.65,796,Best Deals Inc.,11/29/2015,2/11/2026,Discontinued
+506,PowerBlaster,hybrid,Specialized,12.99,507.51,784,Best Deals Inc.,12/5/2012,8/28/2025,Out of Stock
+507,TechMaster,mountain,Specialized,3.99,733.87,706,XYZ Company,4/12/2014,6/13/2025,Available
+508,SuperWidget,cruiser,Specialized,129.99,405.11,589,Best Deals Inc.,2/18/2017,5/19/2025,Out of Stock
+509,PowerBlaster,hybrid,Cannondale,7.99,248.47,462,ABC Suppliers,2/12/2017,12/5/2025,Discontinued
+510,TechMaster,BMX,Cannondale,89.99,847.26,414,ABC Suppliers,2/2/2015,1/2/2026,Available
+511,TechMaster,mountain,Giant,12.99,386.18,696,123 Distributors,7/18/2020,12/14/2025,Available
+512,PowerBlaster,hybrid,Giant,12.99,697.36,184,ABC Suppliers,5/22/2017,9/4/2025,Out of Stock
+513,MegaGizmo,cruiser,Bianchi,19.99,831.75,570,XYZ Company,12/27/2012,9/1/2025,Discontinued
+514,PowerBlaster,mountain,Bianchi,109.99,557.96,592,ABC Suppliers,3/16/2019,3/12/2026,Out of Stock
+515,PowerBlaster,hybrid,Cannondale,99.99,629.41,844,123 Distributors,2/4/2014,11/12/2025,Available
+516,TechMaster,cruiser,Trek,29.99,984.68,862,Best Deals Inc.,2/9/2011,2/12/2026,Available
+517,PowerBlaster,BMX,Bianchi,8.49,712.46,467,ABC Suppliers,6/6/2020,10/18/2025,Available
+518,PowerBlaster,BMX,Cannondale,99.99,730.69,818,Best Deals Inc.,2/4/2016,10/5/2025,Available
+519,PowerBlaster,BMX,Giant,7.99,907.67,442,123 Distributors,1/23/2017,9/26/2025,Available
+520,SuperWidget,BMX,Scott,24.99,633.13,65,XYZ Company,7/11/2021,2/13/2026,Available
+521,TechMaster,hybrid,Scott,2.29,785.09,568,123 Distributors,4/6/2011,12/19/2025,Out of Stock
+522,MegaGizmo,mountain,Specialized,3.19,789.72,967,Best Deals Inc.,1/18/2017,9/20/2025,Available
+523,MegaGizmo,mountain,Scott,89.99,659.99,941,ABC Suppliers,10/2/2018,6/23/2025,Available
+524,PowerBlaster,BMX,Trek,3.29,55.65,223,ABC Suppliers,7/13/2015,6/11/2025,Discontinued
+525,PowerBlaster,road,Cannondale,4.99,314.19,195,ABC Suppliers,4/10/2015,2/12/2026,Available
+526,PowerBlaster,cruiser,Trek,129.99,705.57,619,XYZ Company,6/21/2017,1/28/2026,Out of Stock
+527,PowerBlaster,hybrid,Scott,39.99,826.47,516,ABC Suppliers,7/24/2015,9/23/2025,Discontinued
+528,SuperWidget,mountain,Scott,2.49,627.4,656,XYZ Company,9/1/2014,8/2/2025,Out of Stock
+529,PowerBlaster,road,Scott,2.49,763.94,416,Best Deals Inc.,8/28/2020,3/30/2026,Discontinued
+530,UltraThing,cruiser,Bianchi,34.99,436.28,240,Best Deals Inc.,5/10/2021,1/26/2026,Available
+531,PowerBlaster,road,Bianchi,24.99,481.9,232,Best Deals Inc.,6/23/2020,9/8/2025,Out of Stock
+532,SuperWidget,cruiser,Scott,22.99,359.83,835,Best Deals Inc.,9/25/2019,10/19/2025,Available
+533,MegaGizmo,BMX,Bianchi,49.99,138.99,832,Best Deals Inc.,7/15/2020,5/3/2025,Out of Stock
+534,SuperWidget,hybrid,Bianchi,2.49,726.89,70,123 Distributors,5/25/2016,1/11/2026,Available
+535,SuperWidget,mountain,Bianchi,1.79,711.65,373,XYZ Company,2/4/2012,11/17/2025,Discontinued
+536,PowerBlaster,BMX,Trek,39.99,214.32,143,ABC Suppliers,6/10/2017,7/26/2025,Discontinued
+537,UltraThing,hybrid,Bianchi,34.99,859.38,536,XYZ Company,11/11/2012,10/10/2025,Out of Stock
+538,MegaGizmo,mountain,Trek,24.99,91.03,285,123 Distributors,11/29/2019,12/22/2025,Available
+539,SuperWidget,hybrid,Scott,5.49,798.5,396,ABC Suppliers,10/18/2019,11/29/2025,Discontinued
+540,SuperWidget,road,Giant,89.99,197.36,931,Best Deals Inc.,5/12/2020,7/30/2025,Out of Stock
+541,SuperWidget,BMX,Bianchi,29.99,522.52,767,ABC Suppliers,3/20/2018,7/20/2025,Discontinued
+542,PowerBlaster,BMX,Bianchi,29.99,443.92,234,XYZ Company,3/16/2013,5/16/2025,Discontinued
+543,SuperWidget,hybrid,Specialized,29.99,157.87,100,XYZ Company,2/7/2010,5/2/2025,Discontinued
+544,SuperWidget,hybrid,Scott,49.99,407.04,618,123 Distributors,12/1/2013,11/28/2025,Available
+545,MegaGizmo,cruiser,Giant,99.99,540.53,233,XYZ Company,9/3/2012,5/31/2025,Available
+546,PowerBlaster,BMX,Trek,19.99,96.1,204,Best Deals Inc.,7/3/2021,7/25/2025,Available
+547,UltraThing,mountain,Cannondale,39.99,732.29,575,Best Deals Inc.,4/20/2014,12/20/2025,Discontinued
+548,PowerBlaster,road,Cannondale,29.99,995.37,124,123 Distributors,5/12/2020,7/14/2025,Out of Stock
+549,SuperWidget,road,Specialized,4.99,250.85,817,ABC Suppliers,7/9/2020,2/5/2026,Available
+550,PowerBlaster,BMX,Specialized,2.49,400.29,20,123 Distributors,3/25/2010,9/11/2025,Out of Stock
+551,UltraThing,cruiser,Scott,39.99,640.05,405,XYZ Company,12/5/2012,10/10/2025,Discontinued
+552,SuperWidget,cruiser,Giant,12.99,964.91,658,XYZ Company,3/27/2017,9/8/2025,Discontinued
+553,TechMaster,cruiser,Cannondale,3.79,254.32,958,XYZ Company,7/3/2018,11/23/2025,Available
+554,MegaGizmo,cruiser,Scott,1.99,520.07,659,123 Distributors,8/5/2020,11/4/2025,Available
+555,MegaGizmo,mountain,Giant,29.99,894.09,453,Best Deals Inc.,7/8/2020,9/17/2025,Available
+556,MegaGizmo,BMX,Trek,5.49,703.17,937,Best Deals Inc.,2/9/2017,5/6/2025,Available
+557,PowerBlaster,cruiser,Giant,5.49,268.09,179,123 Distributors,6/23/2016,1/10/2026,Discontinued
+558,TechMaster,cruiser,Specialized,6.49,988.33,327,ABC Suppliers,7/13/2015,9/9/2025,Out of Stock
+559,MegaGizmo,cruiser,Scott,2.79,132.78,75,XYZ Company,4/10/2019,9/11/2025,Discontinued
+560,TechMaster,mountain,Cannondale,4.99,288.46,757,XYZ Company,12/23/2018,1/29/2026,Discontinued
+561,PowerBlaster,mountain,Specialized,159.99,212.89,799,123 Distributors,2/1/2012,7/25/2025,Available
+562,PowerBlaster,BMX,Scott,79.99,363.97,584,XYZ Company,3/19/2012,1/8/2026,Out of Stock
+563,PowerBlaster,cruiser,Bianchi,8.99,961.39,827,123 Distributors,4/26/2016,1/5/2026,Available
+564,SuperWidget,cruiser,Specialized,2.49,279.09,661,ABC Suppliers,9/16/2016,7/16/2025,Available
+565,UltraThing,cruiser,Specialized,7.99,987.92,607,Best Deals Inc.,5/25/2012,5/28/2025,Out of Stock
+566,MegaGizmo,road,Cannondale,89.99,748.79,621,XYZ Company,9/11/2018,1/13/2026,Available
+567,MegaGizmo,BMX,Giant,1.89,262.15,348,123 Distributors,7/4/2021,1/11/2026,Out of Stock
+568,MegaGizmo,mountain,Trek,9.99,666.59,295,XYZ Company,8/16/2019,2/4/2026,Discontinued
+569,TechMaster,hybrid,Giant,19.99,374.68,349,Best Deals Inc.,1/11/2019,8/28/2025,Discontinued
+570,UltraThing,mountain,Specialized,3.49,785.04,901,ABC Suppliers,12/14/2010,11/1/2025,Available
+571,PowerBlaster,cruiser,Specialized,3.89,695.42,802,XYZ Company,11/8/2016,5/1/2025,Available
+572,PowerBlaster,hybrid,Scott,3.49,744.17,406,Best Deals Inc.,6/10/2010,3/20/2026,Out of Stock
+573,SuperWidget,road,Scott,14.99,544.32,12,XYZ Company,7/16/2015,11/12/2025,Discontinued
+574,MegaGizmo,hybrid,Specialized,4.99,673.3,133,Best Deals Inc.,12/28/2011,5/12/2025,Discontinued
+575,MegaGizmo,hybrid,Bianchi,39.99,823.42,637,123 Distributors,5/30/2020,2/16/2026,Discontinued
+576,SuperWidget,cruiser,Giant,29.99,316.46,311,123 Distributors,11/5/2012,3/18/2026,Discontinued
+577,UltraThing,cruiser,Trek,8.99,259.44,524,XYZ Company,11/29/2014,11/5/2025,Discontinued
+578,PowerBlaster,road,Giant,2.69,850.45,885,ABC Suppliers,4/2/2012,11/4/2025,Available
+579,TechMaster,cruiser,Giant,49.99,788.71,423,123 Distributors,11/19/2017,9/25/2025,Available
+580,PowerBlaster,cruiser,Cannondale,199.99,979.22,651,ABC Suppliers,9/11/2018,2/16/2026,Discontinued
+581,SuperWidget,hybrid,Specialized,3.29,971.49,922,123 Distributors,3/27/2018,8/28/2025,Available
+582,MegaGizmo,cruiser,Scott,59.99,729.37,395,Best Deals Inc.,12/10/2013,12/7/2025,Out of Stock
+583,UltraThing,BMX,Specialized,3.49,250.25,964,Best Deals Inc.,3/16/2011,4/23/2026,Discontinued
+584,SuperWidget,road,Giant,4.19,597.67,997,ABC Suppliers,9/26/2010,8/30/2025,Out of Stock
+585,SuperWidget,hybrid,Cannondale,25.99,412.89,962,123 Distributors,12/13/2014,8/24/2025,Out of Stock
+586,MegaGizmo,road,Giant,3.79,695.03,837,123 Distributors,4/3/2015,11/8/2025,Discontinued
+587,SuperWidget,mountain,Scott,14.99,853.95,734,XYZ Company,7/22/2014,6/10/2025,Available
+588,PowerBlaster,road,Specialized,2.49,109.05,78,Best Deals Inc.,1/31/2011,7/5/2025,Out of Stock
+589,MegaGizmo,cruiser,Cannondale,5.49,585.57,789,123 Distributors,1/3/2019,10/26/2025,Out of Stock
+590,UltraThing,BMX,Scott,49.99,62.96,879,ABC Suppliers,1/18/2013,5/21/2025,Out of Stock
+591,SuperWidget,mountain,Scott,6.49,52.79,941,XYZ Company,12/7/2020,5/31/2025,Available
+592,TechMaster,road,Cannondale,5.29,63.94,948,XYZ Company,1/13/2020,1/1/2026,Out of Stock
+593,MegaGizmo,hybrid,Bianchi,34.99,272.7,890,XYZ Company,10/20/2012,9/12/2025,Available
+594,TechMaster,hybrid,Bianchi,49.99,411.34,461,123 Distributors,6/16/2013,2/5/2026,Discontinued
+595,PowerBlaster,BMX,Specialized,34.99,522.29,965,ABC Suppliers,6/15/2020,5/16/2025,Available
+596,PowerBlaster,road,Scott,39.99,578.42,496,Best Deals Inc.,2/19/2021,9/15/2025,Discontinued
+597,SuperWidget,hybrid,Bianchi,5.49,516.34,446,XYZ Company,6/11/2010,8/9/2025,Available
+598,SuperWidget,road,Specialized,19.99,109.09,863,ABC Suppliers,6/1/2015,8/31/2025,Out of Stock
+599,SuperWidget,hybrid,Scott,12.99,869.87,573,ABC Suppliers,2/23/2021,5/19/2025,Out of Stock
+600,MegaGizmo,mountain,Bianchi,89.99,582.44,192,123 Distributors,6/20/2018,10/25/2025,Out of Stock
+601,TechMaster,hybrid,Specialized,7.99,333.79,914,ABC Suppliers,8/15/2014,11/7/2025,Out of Stock
+602,SuperWidget,cruiser,Bianchi,49.99,869.06,301,XYZ Company,2/24/2018,7/5/2025,Discontinued
+603,SuperWidget,hybrid,Trek,1.79,88.82,202,Best Deals Inc.,1/28/2021,5/22/2025,Available
+604,MegaGizmo,BMX,Giant,2.99,272.91,965,XYZ Company,12/23/2015,7/20/2025,Available
+605,UltraThing,BMX,Bianchi,59.99,199.58,718,Best Deals Inc.,5/9/2018,2/2/2026,Out of Stock
+606,SuperWidget,hybrid,Cannondale,5.49,906.27,114,ABC Suppliers,10/21/2012,10/18/2025,Out of Stock
+607,UltraThing,mountain,Scott,3.49,94.98,674,123 Distributors,6/30/2014,4/14/2026,Available
+608,MegaGizmo,hybrid,Giant,24.99,712.61,197,123 Distributors,6/2/2021,3/20/2026,Available
+609,TechMaster,cruiser,Scott,39.99,480.19,773,ABC Suppliers,4/20/2012,4/20/2026,Out of Stock
+610,SuperWidget,hybrid,Bianchi,2.99,550.09,264,123 Distributors,12/29/2019,12/14/2025,Available
+611,SuperWidget,hybrid,Specialized,4.99,382.34,963,Best Deals Inc.,7/2/2019,7/15/2025,Discontinued
+612,SuperWidget,road,Cannondale,3.39,526.79,715,ABC Suppliers,4/18/2015,2/4/2026,Out of Stock
+613,SuperWidget,hybrid,Scott,49.99,317.09,211,Best Deals Inc.,4/30/2017,8/11/2025,Out of Stock
+614,TechMaster,cruiser,Giant,44.99,23.85,541,XYZ Company,7/26/2014,10/30/2025,Out of Stock
+615,UltraThing,BMX,Giant,5.99,847.58,776,XYZ Company,3/8/2011,3/13/2026,Out of Stock
+616,TechMaster,mountain,Trek,199.99,586.5,357,XYZ Company,6/9/2018,12/29/2025,Discontinued
+617,TechMaster,BMX,Giant,3.99,388.64,22,123 Distributors,8/10/2013,5/15/2025,Discontinued
+618,UltraThing,road,Trek,69.99,174.18,683,XYZ Company,6/30/2011,2/20/2026,Out of Stock
+619,SuperWidget,road,Cannondale,29.99,951.51,530,ABC Suppliers,10/16/2016,7/10/2025,Available
+620,PowerBlaster,hybrid,Trek,44.99,348.06,755,XYZ Company,11/7/2020,6/15/2025,Discontinued
+621,MegaGizmo,cruiser,Giant,39.99,369.9,727,ABC Suppliers,8/3/2012,9/16/2025,Available
+622,SuperWidget,mountain,Scott,39.99,310.33,587,123 Distributors,1/28/2014,7/22/2025,Out of Stock
+623,UltraThing,cruiser,Trek,6.99,59.1,648,123 Distributors,3/9/2016,6/13/2025,Out of Stock
+624,MegaGizmo,hybrid,Giant,6.49,500.91,352,ABC Suppliers,12/18/2010,3/24/2026,Available
+625,MegaGizmo,hybrid,Bianchi,6.49,497.1,146,XYZ Company,6/9/2017,2/2/2026,Out of Stock
+626,UltraThing,mountain,Trek,69.99,248.31,55,ABC Suppliers,10/24/2021,11/28/2025,Available
+627,SuperWidget,cruiser,Scott,79.99,598.23,551,ABC Suppliers,11/10/2012,4/17/2026,Available
+628,PowerBlaster,cruiser,Giant,4.99,473.43,793,ABC Suppliers,8/18/2016,3/29/2026,Available
+629,SuperWidget,mountain,Specialized,4.29,999.71,678,XYZ Company,12/6/2019,7/14/2025,Out of Stock
+630,PowerBlaster,mountain,Bianchi,3.99,665.82,627,ABC Suppliers,4/9/2013,6/10/2025,Discontinued
+631,UltraThing,road,Trek,2.49,733.32,765,ABC Suppliers,8/23/2018,4/23/2026,Available
+632,UltraThing,hybrid,Trek,39.99,850.2,888,XYZ Company,12/23/2017,6/6/2025,Available
+633,TechMaster,BMX,Cannondale,49.99,965.09,857,ABC Suppliers,11/14/2021,11/6/2025,Discontinued
+634,TechMaster,mountain,Specialized,22.99,2.08,782,ABC Suppliers,12/17/2020,8/7/2025,Available
+635,MegaGizmo,cruiser,Scott,1.29,982.72,626,XYZ Company,8/5/2019,12/24/2025,Discontinued
+636,TechMaster,hybrid,Specialized,29.99,889.71,639,ABC Suppliers,2/9/2010,4/16/2026,Discontinued
+637,UltraThing,road,Trek,3.29,351.11,196,Best Deals Inc.,5/8/2021,1/13/2026,Out of Stock
+638,SuperWidget,mountain,Specialized,79.99,237.21,153,123 Distributors,4/2/2021,10/14/2025,Available
+639,TechMaster,road,Bianchi,199.99,566.65,29,ABC Suppliers,12/21/2018,7/30/2025,Discontinued
+640,SuperWidget,mountain,Cannondale,29.99,108.13,446,Best Deals Inc.,9/11/2016,12/27/2025,Discontinued
+641,UltraThing,hybrid,Bianchi,29.99,144.23,329,ABC Suppliers,2/14/2012,8/11/2025,Available
+642,UltraThing,road,Cannondale,5.49,785.21,388,XYZ Company,4/28/2010,10/19/2025,Available
+643,TechMaster,cruiser,Bianchi,399.99,504.59,395,XYZ Company,8/24/2016,12/28/2025,Available
+644,MegaGizmo,hybrid,Giant,4.49,95.1,331,123 Distributors,6/23/2011,8/2/2025,Out of Stock
+645,PowerBlaster,cruiser,Scott,99.99,882.42,28,123 Distributors,2/26/2017,6/24/2025,Discontinued
+646,PowerBlaster,cruiser,Scott,3.99,841.75,493,ABC Suppliers,7/26/2011,11/5/2025,Available
+647,UltraThing,road,Bianchi,3.99,734.44,930,XYZ Company,8/28/2016,9/23/2025,Discontinued
+648,PowerBlaster,mountain,Specialized,19.99,501.05,40,Best Deals Inc.,7/7/2021,8/1/2025,Discontinued
+649,UltraThing,cruiser,Cannondale,1.39,43.08,257,Best Deals Inc.,10/25/2020,12/3/2025,Out of Stock
+650,MegaGizmo,mountain,Specialized,19.99,871.92,952,XYZ Company,6/15/2014,9/23/2025,Out of Stock
+651,PowerBlaster,cruiser,Trek,6.99,397.54,258,123 Distributors,9/1/2018,8/28/2025,Out of Stock
+652,MegaGizmo,BMX,Trek,12.99,276.17,758,123 Distributors,11/17/2018,12/12/2025,Discontinued
+653,UltraThing,hybrid,Bianchi,22.99,578.33,188,Best Deals Inc.,6/22/2014,10/15/2025,Available
+654,UltraThing,BMX,Scott,22.99,35.01,143,123 Distributors,4/10/2020,5/23/2025,Out of Stock
+655,UltraThing,road,Trek,4.99,748.02,450,Best Deals Inc.,3/16/2020,11/18/2025,Out of Stock
+656,TechMaster,hybrid,Scott,2.49,554.86,408,Best Deals Inc.,7/10/2013,10/21/2025,Available
+657,MegaGizmo,mountain,Giant,1.99,458.43,837,123 Distributors,7/6/2010,7/18/2025,Out of Stock
+658,TechMaster,BMX,Giant,3.59,786.33,383,ABC Suppliers,6/22/2021,4/22/2026,Discontinued
+659,PowerBlaster,mountain,Specialized,9.99,247.31,567,XYZ Company,3/5/2011,12/12/2025,Discontinued
+660,TechMaster,cruiser,Cannondale,15.99,345.73,823,ABC Suppliers,4/24/2018,1/18/2026,Out of Stock
+661,UltraThing,mountain,Bianchi,19.99,477.07,154,123 Distributors,3/17/2014,8/10/2025,Discontinued
+662,SuperWidget,hybrid,Giant,3.99,626.02,415,XYZ Company,6/3/2012,5/18/2025,Discontinued
+663,SuperWidget,mountain,Trek,3.59,811.76,496,Best Deals Inc.,5/7/2020,11/22/2025,Discontinued
+664,SuperWidget,mountain,Specialized,8.49,914.22,164,ABC Suppliers,3/9/2016,1/14/2026,Out of Stock
+665,UltraThing,cruiser,Trek,2.99,36.91,130,Best Deals Inc.,4/20/2017,1/11/2026,Discontinued
+666,MegaGizmo,road,Cannondale,3.79,425.39,126,ABC Suppliers,10/31/2020,1/13/2026,Available
+667,MegaGizmo,road,Specialized,12.99,175.01,369,ABC Suppliers,12/18/2021,7/11/2025,Discontinued
+668,UltraThing,cruiser,Scott,4.99,120.03,538,123 Distributors,8/27/2012,6/17/2025,Available
+669,UltraThing,hybrid,Specialized,149.99,687.76,309,123 Distributors,3/9/2015,5/8/2025,Discontinued
+670,MegaGizmo,BMX,Giant,299.99,509.31,638,ABC Suppliers,12/31/2014,11/9/2025,Discontinued
+671,UltraThing,road,Trek,19.99,403.11,60,123 Distributors,10/18/2012,2/2/2026,Discontinued
+672,MegaGizmo,mountain,Bianchi,10.99,233.1,52,XYZ Company,3/1/2013,8/18/2025,Available
+673,TechMaster,road,Trek,15.99,5.94,525,ABC Suppliers,5/9/2011,4/28/2026,Discontinued
+674,TechMaster,road,Giant,39.99,739.67,240,XYZ Company,2/12/2010,5/9/2025,Available
+675,UltraThing,hybrid,Giant,14.99,414.57,892,XYZ Company,10/13/2013,7/10/2025,Out of Stock
+676,UltraThing,cruiser,Specialized,3.49,714.12,242,123 Distributors,3/2/2013,2/21/2026,Discontinued
+677,SuperWidget,mountain,Specialized,22.99,448.08,147,123 Distributors,8/29/2011,3/12/2026,Available
+678,UltraThing,cruiser,Bianchi,3.79,921.36,199,Best Deals Inc.,6/4/2019,8/12/2025,Out of Stock
+679,MegaGizmo,mountain,Specialized,39.99,449.63,531,123 Distributors,6/25/2018,12/10/2025,Available
+680,PowerBlaster,BMX,Specialized,58.99,760.46,26,123 Distributors,3/21/2021,11/7/2025,Out of Stock
+681,PowerBlaster,mountain,Giant,119.99,484.29,540,123 Distributors,6/18/2020,10/13/2025,Available
+682,TechMaster,mountain,Specialized,59.99,932.74,489,123 Distributors,10/14/2017,1/23/2026,Discontinued
+683,MegaGizmo,mountain,Scott,12.99,651.25,69,123 Distributors,2/14/2020,11/5/2025,Out of Stock
+684,PowerBlaster,hybrid,Bianchi,5.99,980.69,582,ABC Suppliers,8/29/2012,7/29/2025,Available
+685,TechMaster,mountain,Trek,3.99,148.72,291,XYZ Company,4/15/2012,1/2/2026,Out of Stock
+686,TechMaster,BMX,Specialized,2.99,782.47,671,ABC Suppliers,10/18/2020,3/7/2026,Out of Stock
+687,MegaGizmo,cruiser,Cannondale,4.49,309.32,129,123 Distributors,3/4/2020,5/29/2025,Out of Stock
+688,UltraThing,mountain,Scott,89.99,764.61,513,Best Deals Inc.,10/21/2021,5/12/2025,Discontinued
+689,TechMaster,hybrid,Trek,5.99,852.88,685,XYZ Company,3/26/2012,9/5/2025,Available
+690,TechMaster,BMX,Bianchi,10.99,499.16,463,ABC Suppliers,5/20/2018,2/13/2026,Available
+691,TechMaster,mountain,Giant,79.99,22.88,807,Best Deals Inc.,3/25/2015,3/5/2026,Out of Stock
+692,MegaGizmo,cruiser,Trek,4.79,499.28,639,Best Deals Inc.,5/11/2021,4/26/2026,Out of Stock
+693,TechMaster,cruiser,Giant,5.99,25.18,1,123 Distributors,2/24/2016,9/15/2025,Available
+694,SuperWidget,BMX,Bianchi,4.99,648.21,528,XYZ Company,4/13/2019,9/16/2025,Out of Stock
+695,UltraThing,cruiser,Trek,3.99,504.5,154,XYZ Company,1/15/2010,9/26/2025,Available
+696,SuperWidget,road,Scott,4.99,51.34,582,XYZ Company,4/16/2013,4/1/2026,Discontinued
+697,SuperWidget,cruiser,Bianchi,1.99,547.39,265,XYZ Company,3/20/2017,8/24/2025,Out of Stock
+698,TechMaster,mountain,Bianchi,4.99,399.13,928,123 Distributors,3/12/2010,2/19/2026,Available
+699,PowerBlaster,BMX,Specialized,12.99,159.58,365,123 Distributors,6/20/2016,3/24/2026,Discontinued
+700,TechMaster,road,Giant,3.29,74.5,116,XYZ Company,3/22/2017,12/6/2025,Discontinued
+701,PowerBlaster,cruiser,Specialized,8.99,440.09,747,Best Deals Inc.,4/4/2014,9/5/2025,Out of Stock
+702,MegaGizmo,BMX,Trek,39.99,277.53,858,123 Distributors,2/4/2020,6/10/2025,Available
+703,UltraThing,hybrid,Cannondale,59.99,859.12,27,123 Distributors,10/13/2011,8/27/2025,Available
+704,MegaGizmo,BMX,Cannondale,8.49,289.38,633,XYZ Company,6/30/2013,6/28/2025,Out of Stock
+705,SuperWidget,mountain,Specialized,199.99,648.66,794,XYZ Company,11/3/2020,6/10/2025,Available
+706,SuperWidget,BMX,Cannondale,3.99,615.05,48,Best Deals Inc.,10/9/2011,11/3/2025,Discontinued
+707,UltraThing,cruiser,Cannondale,2.99,776.82,419,XYZ Company,7/28/2011,2/11/2026,Out of Stock
+708,SuperWidget,hybrid,Cannondale,49.99,669.83,474,XYZ Company,7/30/2019,9/19/2025,Available
+709,SuperWidget,BMX,Cannondale,19.99,594.76,92,ABC Suppliers,11/2/2010,7/28/2025,Available
+710,SuperWidget,road,Trek,3.29,68.11,55,XYZ Company,2/24/2021,3/25/2026,Out of Stock
+711,UltraThing,road,Specialized,9.99,34.96,581,XYZ Company,8/9/2016,8/18/2025,Discontinued
+712,MegaGizmo,hybrid,Bianchi,39.99,125.29,744,Best Deals Inc.,1/27/2018,6/21/2025,Available
+713,TechMaster,BMX,Scott,2.99,472.07,635,Best Deals Inc.,7/21/2012,10/13/2025,Discontinued
+714,PowerBlaster,BMX,Giant,4.59,96.68,196,Best Deals Inc.,10/8/2014,3/16/2026,Discontinued
+715,SuperWidget,BMX,Cannondale,4.49,610.19,282,ABC Suppliers,6/16/2014,10/30/2025,Out of Stock
+716,UltraThing,BMX,Giant,6.49,314.37,609,Best Deals Inc.,6/17/2011,8/17/2025,Discontinued
+717,TechMaster,BMX,Scott,7.99,807.71,93,Best Deals Inc.,11/16/2018,7/16/2025,Discontinued
+718,PowerBlaster,road,Scott,2.79,849.78,295,XYZ Company,9/24/2021,10/31/2025,Out of Stock
+719,PowerBlaster,hybrid,Bianchi,3.99,400.38,329,Best Deals Inc.,10/24/2012,7/9/2025,Out of Stock
+720,PowerBlaster,BMX,Trek,5.99,719.64,247,XYZ Company,6/9/2019,12/3/2025,Out of Stock
+721,UltraThing,BMX,Bianchi,6.49,861.89,980,Best Deals Inc.,9/2/2017,4/20/2026,Out of Stock
+722,MegaGizmo,cruiser,Specialized,14.99,534.79,968,ABC Suppliers,6/6/2020,9/1/2025,Available
+723,PowerBlaster,road,Specialized,19.99,792.3,762,XYZ Company,5/23/2013,9/28/2025,Discontinued
+724,PowerBlaster,cruiser,Bianchi,4.49,680.91,976,Best Deals Inc.,5/7/2013,3/6/2026,Out of Stock
+725,UltraThing,road,Scott,49.99,417.33,642,Best Deals Inc.,3/12/2012,5/1/2025,Out of Stock
+726,UltraThing,mountain,Scott,99.99,298.71,310,Best Deals Inc.,7/10/2010,3/26/2026,Available
+727,TechMaster,hybrid,Trek,79.99,436.59,164,Best Deals Inc.,1/10/2017,6/28/2025,Out of Stock
+728,SuperWidget,hybrid,Scott,49.99,613.82,933,XYZ Company,2/1/2014,1/20/2026,Discontinued
+729,PowerBlaster,road,Giant,199.99,230.66,240,Best Deals Inc.,3/8/2015,10/11/2025,Available
+730,UltraThing,cruiser,Specialized,4.49,923.93,882,XYZ Company,9/5/2017,8/5/2025,Discontinued
+731,UltraThing,cruiser,Cannondale,129.99,162.2,987,ABC Suppliers,11/12/2010,2/27/2026,Out of Stock
+732,MegaGizmo,cruiser,Specialized,3.59,582.67,929,ABC Suppliers,12/8/2020,12/18/2025,Discontinued
+733,TechMaster,hybrid,Giant,3.99,852.45,651,Best Deals Inc.,11/25/2011,1/28/2026,Out of Stock
+734,TechMaster,road,Giant,3.99,474.36,408,ABC Suppliers,2/26/2017,12/15/2025,Available
+735,SuperWidget,BMX,Giant,4.49,246.77,309,123 Distributors,10/19/2018,12/20/2025,Discontinued
+736,SuperWidget,road,Trek,1.99,826.48,566,ABC Suppliers,6/3/2021,10/10/2025,Available
+737,UltraThing,hybrid,Specialized,2.99,309.53,612,ABC Suppliers,1/14/2017,1/29/2026,Available
+738,MegaGizmo,road,Scott,19.99,844.45,374,ABC Suppliers,3/30/2011,3/11/2026,Discontinued
+739,MegaGizmo,mountain,Scott,3.49,777.2,625,Best Deals Inc.,6/27/2017,2/24/2026,Available
+740,TechMaster,hybrid,Scott,3.29,947.71,693,123 Distributors,4/3/2017,4/23/2026,Discontinued
+741,MegaGizmo,road,Cannondale,3.99,600.04,764,Best Deals Inc.,2/21/2011,4/26/2026,Available
+742,MegaGizmo,mountain,Bianchi,2.49,557.72,254,123 Distributors,6/28/2010,5/9/2025,Out of Stock
+743,MegaGizmo,cruiser,Scott,2.99,447.58,42,XYZ Company,3/3/2017,7/12/2025,Discontinued
+744,SuperWidget,BMX,Trek,4.79,58.92,701,Best Deals Inc.,10/25/2019,6/27/2025,Out of Stock
+745,PowerBlaster,BMX,Bianchi,14.99,442.53,600,123 Distributors,4/4/2021,2/10/2026,Available
+746,MegaGizmo,cruiser,Trek,15.99,578.36,137,ABC Suppliers,10/5/2018,2/23/2026,Discontinued
+747,UltraThing,hybrid,Bianchi,249.99,881.07,419,XYZ Company,12/16/2012,10/3/2025,Discontinued
+748,MegaGizmo,cruiser,Scott,59.99,322.42,195,ABC Suppliers,12/16/2015,6/10/2025,Out of Stock
+749,SuperWidget,road,Specialized,129.99,102.65,292,Best Deals Inc.,11/30/2011,3/10/2026,Available
+750,TechMaster,mountain,Bianchi,29.99,335.68,22,XYZ Company,7/18/2013,2/18/2026,Out of Stock
+751,PowerBlaster,hybrid,Bianchi,3.49,143.37,354,ABC Suppliers,9/5/2019,5/8/2025,Available
+752,UltraThing,mountain,Bianchi,3.99,693.08,149,XYZ Company,8/4/2013,5/14/2025,Discontinued
+753,TechMaster,BMX,Bianchi,5.49,679.77,781,ABC Suppliers,12/24/2021,1/6/2026,Discontinued
+754,MegaGizmo,hybrid,Trek,12.99,516.02,54,ABC Suppliers,7/24/2021,10/10/2025,Available
+755,PowerBlaster,cruiser,Bianchi,2.99,344.92,819,123 Distributors,10/12/2020,12/21/2025,Discontinued
+756,SuperWidget,road,Scott,49.99,150.79,556,123 Distributors,6/2/2020,3/31/2026,Out of Stock
+757,SuperWidget,road,Trek,5.99,359.05,50,Best Deals Inc.,8/13/2021,5/7/2025,Out of Stock
+758,SuperWidget,mountain,Cannondale,3.49,403.97,255,XYZ Company,12/30/2011,10/31/2025,Out of Stock
+759,UltraThing,cruiser,Giant,2.99,819.17,40,ABC Suppliers,6/9/2010,12/27/2025,Available
+760,MegaGizmo,cruiser,Trek,4.19,578.71,866,Best Deals Inc.,6/14/2017,10/29/2025,Out of Stock
+761,PowerBlaster,road,Specialized,4.49,806.95,610,Best Deals Inc.,4/4/2019,7/12/2025,Out of Stock
+762,SuperWidget,hybrid,Bianchi,3.49,641.25,659,ABC Suppliers,11/23/2019,4/21/2026,Discontinued
+763,MegaGizmo,road,Giant,34.99,345.88,802,Best Deals Inc.,5/6/2016,12/15/2025,Available
+764,UltraThing,BMX,Scott,69.99,196.6,401,XYZ Company,4/27/2012,9/15/2025,Discontinued
+765,MegaGizmo,BMX,Cannondale,79.99,80.33,370,ABC Suppliers,2/4/2017,1/7/2026,Discontinued
+766,PowerBlaster,BMX,Bianchi,4.99,202.71,117,ABC Suppliers,5/14/2012,11/10/2025,Available
+767,TechMaster,mountain,Bianchi,3.49,666.84,72,XYZ Company,11/16/2011,10/21/2025,Discontinued
+768,MegaGizmo,cruiser,Trek,10.99,300.35,312,123 Distributors,2/7/2019,3/22/2026,Out of Stock
+769,TechMaster,mountain,Cannondale,39.99,350.52,889,123 Distributors,11/9/2021,2/2/2026,Out of Stock
+770,SuperWidget,hybrid,Scott,29.99,858.67,972,Best Deals Inc.,9/11/2019,7/11/2025,Discontinued
+771,PowerBlaster,mountain,Bianchi,99.99,854.8,343,ABC Suppliers,4/5/2012,5/11/2025,Out of Stock
+772,TechMaster,BMX,Trek,3.99,754.09,44,XYZ Company,2/15/2013,7/12/2025,Discontinued
+773,PowerBlaster,mountain,Cannondale,24.99,743.25,543,Best Deals Inc.,1/7/2013,9/15/2025,Available
+774,PowerBlaster,road,Giant,1.99,937.12,293,123 Distributors,4/15/2020,1/12/2026,Available
+775,UltraThing,hybrid,Bianchi,4.29,378.76,473,XYZ Company,11/24/2018,5/25/2025,Discontinued
+776,TechMaster,BMX,Specialized,24.99,718.7,132,ABC Suppliers,9/26/2016,9/16/2025,Out of Stock
+777,PowerBlaster,cruiser,Bianchi,39.99,605.69,580,XYZ Company,3/4/2019,6/26/2025,Available
+778,PowerBlaster,cruiser,Cannondale,3.49,989.3,783,ABC Suppliers,3/17/2011,4/4/2026,Out of Stock
+779,SuperWidget,BMX,Giant,34.99,401.01,902,Best Deals Inc.,4/29/2014,4/23/2026,Out of Stock
+780,MegaGizmo,hybrid,Trek,5.49,309.79,983,ABC Suppliers,6/11/2019,12/11/2025,Discontinued
+781,MegaGizmo,cruiser,Giant,3.99,283.64,69,Best Deals Inc.,7/21/2014,7/22/2025,Out of Stock
+782,UltraThing,cruiser,Cannondale,22.99,270.59,483,123 Distributors,3/10/2018,12/7/2025,Available
+783,PowerBlaster,mountain,Scott,9.99,833.14,954,123 Distributors,9/4/2016,5/28/2025,Available
+784,PowerBlaster,BMX,Specialized,5.29,215.74,146,ABC Suppliers,10/19/2013,4/7/2026,Out of Stock
+785,SuperWidget,road,Trek,2.59,871.2,57,XYZ Company,6/16/2011,1/21/2026,Out of Stock
+786,MegaGizmo,mountain,Scott,24.99,551.98,886,XYZ Company,9/1/2013,12/22/2025,Out of Stock
+787,PowerBlaster,mountain,Scott,4.99,798.73,157,Best Deals Inc.,8/24/2010,8/1/2025,Discontinued
+788,PowerBlaster,hybrid,Scott,2.49,759.98,515,XYZ Company,1/21/2020,7/31/2025,Discontinued
+789,UltraThing,cruiser,Bianchi,2.49,401.54,817,ABC Suppliers,10/31/2018,1/30/2026,Out of Stock
+790,SuperWidget,cruiser,Giant,3.79,262.59,332,XYZ Company,2/4/2011,1/24/2026,Out of Stock
+791,UltraThing,mountain,Bianchi,49.99,625.13,525,Best Deals Inc.,4/2/2013,9/14/2025,Discontinued
+792,TechMaster,mountain,Trek,79.99,120.82,46,ABC Suppliers,8/30/2017,1/3/2026,Discontinued
+793,SuperWidget,mountain,Bianchi,29.99,654.86,100,XYZ Company,6/4/2021,12/17/2025,Discontinued
+794,PowerBlaster,road,Giant,3.29,765.74,673,XYZ Company,2/16/2012,9/2/2025,Available
+795,PowerBlaster,road,Specialized,5.99,751.23,595,ABC Suppliers,5/3/2020,4/22/2026,Out of Stock
+796,UltraThing,cruiser,Giant,5.79,192.01,27,XYZ Company,1/15/2020,10/6/2025,Discontinued
+797,SuperWidget,hybrid,Giant,29.99,301.3,457,ABC Suppliers,5/12/2013,1/13/2026,Out of Stock
+798,TechMaster,BMX,Trek,2.49,346.2,120,ABC Suppliers,2/4/2015,6/8/2025,Out of Stock
+799,PowerBlaster,mountain,Specialized,59.99,243.97,204,XYZ Company,9/16/2016,10/15/2025,Discontinued
+800,PowerBlaster,BMX,Specialized,24.99,206.78,335,XYZ Company,4/8/2017,1/6/2026,Out of Stock
+801,TechMaster,BMX,Scott,4.99,406.02,878,123 Distributors,1/16/2010,4/9/2026,Out of Stock
+802,MegaGizmo,mountain,Trek,4.49,631.59,220,ABC Suppliers,1/3/2021,3/16/2026,Discontinued
+803,SuperWidget,hybrid,Giant,39.99,977.11,628,XYZ Company,4/20/2018,12/22/2025,Available
+804,SuperWidget,mountain,Scott,59.99,124.85,792,XYZ Company,6/23/2015,4/14/2026,Discontinued
+805,TechMaster,road,Scott,20.99,846.92,484,123 Distributors,4/21/2021,4/17/2026,Discontinued
+806,PowerBlaster,BMX,Cannondale,22.99,177.19,647,Best Deals Inc.,11/20/2020,4/26/2026,Out of Stock
+807,MegaGizmo,mountain,Scott,34.99,540.51,539,XYZ Company,1/26/2020,9/20/2025,Available
+808,MegaGizmo,cruiser,Specialized,24.99,318.65,697,Best Deals Inc.,1/22/2021,8/3/2025,Available
+809,UltraThing,hybrid,Trek,2.49,653.46,78,ABC Suppliers,5/31/2016,9/28/2025,Available
+810,SuperWidget,hybrid,Trek,4.99,761.91,854,123 Distributors,12/22/2021,12/18/2025,Available
+811,TechMaster,hybrid,Specialized,79.99,747.44,615,ABC Suppliers,12/20/2017,10/8/2025,Out of Stock
+812,MegaGizmo,BMX,Giant,19.99,75.35,754,ABC Suppliers,4/3/2021,3/4/2026,Out of Stock
+813,MegaGizmo,hybrid,Scott,49.99,688.75,346,123 Distributors,4/30/2015,9/13/2025,Out of Stock
+814,SuperWidget,cruiser,Scott,69.99,118.42,661,XYZ Company,1/19/2011,12/15/2025,Available
+815,MegaGizmo,hybrid,Giant,49.99,729.27,771,Best Deals Inc.,12/19/2020,8/2/2025,Out of Stock
+816,TechMaster,BMX,Specialized,2.99,617.35,505,Best Deals Inc.,12/15/2018,8/28/2025,Available
+817,TechMaster,hybrid,Specialized,6.89,168.13,284,XYZ Company,10/2/2021,3/30/2026,Out of Stock
+818,MegaGizmo,BMX,Cannondale,39.99,836.67,156,123 Distributors,3/4/2016,5/28/2025,Available
+819,MegaGizmo,hybrid,Giant,4.99,905.89,41,XYZ Company,4/3/2010,9/15/2025,Out of Stock
+820,TechMaster,cruiser,Cannondale,49.99,667.44,813,ABC Suppliers,7/20/2016,2/7/2026,Available
+821,PowerBlaster,hybrid,Trek,27.99,119.05,652,123 Distributors,12/14/2019,7/22/2025,Out of Stock
+822,UltraThing,hybrid,Cannondale,15.99,238.09,150,Best Deals Inc.,4/15/2011,8/19/2025,Discontinued
+823,TechMaster,BMX,Scott,3.49,872.72,613,123 Distributors,11/8/2015,11/13/2025,Available
+824,SuperWidget,road,Trek,4.99,438.56,875,Best Deals Inc.,5/5/2014,4/7/2026,Out of Stock
+825,SuperWidget,mountain,Scott,9.99,181.69,675,Best Deals Inc.,8/3/2015,6/10/2025,Discontinued
+826,PowerBlaster,hybrid,Specialized,34.99,669.62,324,Best Deals Inc.,3/15/2011,7/15/2025,Out of Stock
+827,PowerBlaster,mountain,Specialized,2.49,660.77,5,XYZ Company,7/9/2020,1/26/2026,Out of Stock
+828,MegaGizmo,cruiser,Specialized,12.99,812.29,758,XYZ Company,5/31/2019,8/21/2025,Available
+829,UltraThing,BMX,Scott,9.99,56.35,696,ABC Suppliers,3/25/2018,11/16/2025,Available
+830,MegaGizmo,hybrid,Bianchi,19.99,840.7,38,Best Deals Inc.,5/25/2020,5/17/2025,Out of Stock
+831,UltraThing,hybrid,Scott,3.49,629.83,736,123 Distributors,9/8/2021,3/27/2026,Available
+832,MegaGizmo,mountain,Bianchi,3.49,681.91,908,ABC Suppliers,9/11/2016,3/6/2026,Out of Stock
+833,SuperWidget,hybrid,Trek,2.09,308.81,148,Best Deals Inc.,4/24/2013,8/8/2025,Available
+834,PowerBlaster,road,Scott,29.99,585.33,644,Best Deals Inc.,7/27/2020,10/4/2025,Out of Stock
+835,MegaGizmo,mountain,Trek,5.99,637.78,982,XYZ Company,1/30/2017,12/14/2025,Out of Stock
+836,TechMaster,hybrid,Scott,4.49,4.04,745,123 Distributors,9/29/2013,6/25/2025,Out of Stock
+837,SuperWidget,cruiser,Cannondale,2.99,817.35,727,XYZ Company,12/15/2015,11/13/2025,Available
+838,SuperWidget,road,Specialized,5.29,964.38,598,ABC Suppliers,1/12/2010,12/19/2025,Discontinued
+839,TechMaster,BMX,Specialized,24.99,550.48,259,ABC Suppliers,3/21/2018,6/13/2025,Discontinued
+840,UltraThing,BMX,Cannondale,4.99,710.26,828,123 Distributors,5/2/2014,12/16/2025,Available
+841,MegaGizmo,mountain,Bianchi,49.99,223.45,913,XYZ Company,2/26/2017,12/20/2025,Discontinued
+842,PowerBlaster,hybrid,Cannondale,5.99,106.81,92,ABC Suppliers,8/21/2018,2/17/2026,Out of Stock
+843,MegaGizmo,hybrid,Cannondale,2.49,378.33,931,ABC Suppliers,1/26/2012,8/1/2025,Discontinued
+844,UltraThing,cruiser,Bianchi,24.99,280.49,374,Best Deals Inc.,10/25/2014,8/13/2025,Out of Stock
+845,SuperWidget,mountain,Scott,3.29,421.94,383,XYZ Company,10/3/2020,8/7/2025,Discontinued
+846,SuperWidget,road,Bianchi,49.99,255.26,152,123 Distributors,11/19/2012,9/23/2025,Discontinued
+847,UltraThing,cruiser,Scott,29.99,217.72,664,XYZ Company,5/13/2017,7/12/2025,Available
+848,TechMaster,road,Scott,1.99,587.66,15,Best Deals Inc.,2/28/2021,12/28/2025,Discontinued
+849,UltraThing,cruiser,Giant,22.99,928.66,955,Best Deals Inc.,8/26/2014,11/21/2025,Discontinued
+850,MegaGizmo,cruiser,Scott,39.99,289.67,373,123 Distributors,12/8/2019,2/26/2026,Out of Stock
+851,TechMaster,mountain,Giant,4.29,811.71,847,XYZ Company,5/28/2016,6/12/2025,Discontinued
+852,UltraThing,road,Cannondale,3.99,493.82,760,123 Distributors,9/5/2019,6/8/2025,Available
+853,PowerBlaster,BMX,Specialized,1.99,404.0,870,123 Distributors,2/1/2018,10/2/2025,Out of Stock
+854,PowerBlaster,road,Giant,45,324.08,201,Best Deals Inc.,5/16/2011,10/12/2025,Available
+855,TechMaster,hybrid,Bianchi,49.99,840.05,335,ABC Suppliers,11/27/2015,2/19/2026,Available
+856,PowerBlaster,mountain,Giant,39.99,233.78,870,Best Deals Inc.,2/20/2015,10/2/2025,Discontinued
+857,MegaGizmo,cruiser,Cannondale,2.99,771.8,639,123 Distributors,7/24/2020,12/19/2025,Out of Stock
+858,MegaGizmo,mountain,Scott,39.99,307.85,951,ABC Suppliers,2/21/2019,7/5/2025,Available
+859,TechMaster,BMX,Trek,39.99,524.45,776,Best Deals Inc.,5/16/2016,5/10/2025,Out of Stock
+860,MegaGizmo,hybrid,Cannondale,29.99,297.47,295,Best Deals Inc.,2/2/2016,7/16/2025,Discontinued
+861,PowerBlaster,BMX,Specialized,5.49,138.21,919,Best Deals Inc.,6/4/2012,2/20/2026,Available
+862,UltraThing,mountain,Giant,19.99,725.92,288,ABC Suppliers,9/9/2013,3/1/2026,Discontinued
+863,MegaGizmo,hybrid,Cannondale,34.99,845.07,35,ABC Suppliers,5/25/2014,12/2/2025,Out of Stock
+864,UltraThing,mountain,Trek,9.99,784.86,594,XYZ Company,6/4/2016,11/12/2025,Out of Stock
+865,PowerBlaster,mountain,Cannondale,2.29,442.38,154,XYZ Company,10/18/2017,6/27/2025,Out of Stock
+866,PowerBlaster,cruiser,Scott,10.99,515.65,581,XYZ Company,8/29/2015,12/23/2025,Discontinued
+867,SuperWidget,cruiser,Giant,29.99,354.16,375,XYZ Company,1/10/2011,11/29/2025,Available
+868,MegaGizmo,BMX,Giant,6.49,540.34,923,XYZ Company,8/6/2013,7/23/2025,Discontinued
+869,UltraThing,cruiser,Specialized,2.99,218.68,543,123 Distributors,5/8/2012,5/4/2025,Available
+870,SuperWidget,road,Bianchi,39.99,139.19,98,123 Distributors,10/23/2016,8/30/2025,Available
+871,SuperWidget,hybrid,Scott,2.99,823.12,800,XYZ Company,6/11/2013,3/23/2026,Out of Stock
+872,UltraThing,road,Scott,1.89,927.93,786,XYZ Company,11/16/2011,10/17/2025,Available
+873,TechMaster,road,Scott,39.99,321.02,492,Best Deals Inc.,7/30/2012,5/25/2025,Available
+874,PowerBlaster,road,Specialized,3.99,838.72,201,ABC Suppliers,5/6/2010,1/14/2026,Available
+875,TechMaster,hybrid,Giant,29.99,599.03,593,ABC Suppliers,9/26/2017,3/4/2026,Out of Stock
+876,SuperWidget,cruiser,Scott,99.99,286.07,155,ABC Suppliers,10/31/2012,2/6/2026,Out of Stock
+877,SuperWidget,cruiser,Cannondale,2.89,84.31,324,123 Distributors,6/30/2011,9/13/2025,Out of Stock
+878,UltraThing,road,Trek,9.99,259.55,121,Best Deals Inc.,2/11/2012,2/12/2026,Discontinued
+879,MegaGizmo,mountain,Specialized,4.49,6.84,163,Best Deals Inc.,7/19/2019,6/28/2025,Out of Stock
+880,SuperWidget,hybrid,Bianchi,249.99,876.82,1000,XYZ Company,1/19/2016,5/14/2025,Available
+881,MegaGizmo,hybrid,Bianchi,99.99,615.57,675,ABC Suppliers,2/28/2020,12/15/2025,Available
+882,TechMaster,hybrid,Giant,4.99,658.44,468,Best Deals Inc.,5/3/2011,10/2/2025,Available
+883,MegaGizmo,road,Bianchi,3.59,563.05,784,ABC Suppliers,10/20/2021,6/23/2025,Available
+884,SuperWidget,mountain,Giant,12.99,828.85,860,123 Distributors,6/18/2015,12/17/2025,Out of Stock
+885,SuperWidget,hybrid,Cannondale,3.49,664.48,904,123 Distributors,2/15/2014,11/15/2025,Out of Stock
+886,SuperWidget,BMX,Scott,2.79,273.7,94,123 Distributors,9/26/2020,7/24/2025,Available
+887,SuperWidget,cruiser,Specialized,14.99,567.03,775,123 Distributors,12/22/2017,2/19/2026,Discontinued
+888,PowerBlaster,cruiser,Giant,44.99,246.5,993,ABC Suppliers,9/25/2010,5/25/2025,Discontinued
+889,PowerBlaster,BMX,Scott,34.99,723.76,156,ABC Suppliers,9/8/2010,11/13/2025,Discontinued
+890,PowerBlaster,hybrid,Trek,2.99,22.23,883,123 Distributors,5/19/2018,7/14/2025,Discontinued
+891,SuperWidget,road,Giant,29.99,637.61,145,ABC Suppliers,8/24/2017,5/30/2025,Discontinued
+892,UltraThing,BMX,Specialized,6.49,394.04,656,ABC Suppliers,3/9/2018,1/16/2026,Out of Stock
+893,UltraThing,hybrid,Bianchi,2.49,360.49,930,Best Deals Inc.,3/11/2018,3/2/2026,Out of Stock
+894,SuperWidget,BMX,Giant,4.79,800.86,778,Best Deals Inc.,7/2/2015,7/28/2025,Out of Stock
+895,SuperWidget,cruiser,Giant,15.99,473.73,400,123 Distributors,7/19/2019,3/16/2026,Available
+896,SuperWidget,BMX,Giant,39.99,950.96,775,XYZ Company,5/5/2011,8/2/2025,Discontinued
+897,PowerBlaster,hybrid,Scott,19.99,623.12,406,ABC Suppliers,12/28/2010,9/27/2025,Available
+898,SuperWidget,cruiser,Cannondale,2.49,442.75,990,Best Deals Inc.,6/20/2017,12/14/2025,Discontinued
+899,PowerBlaster,cruiser,Bianchi,2.99,392.91,440,123 Distributors,7/22/2020,11/21/2025,Out of Stock
+900,SuperWidget,cruiser,Trek,2.49,830.57,499,Best Deals Inc.,12/26/2017,8/26/2025,Out of Stock
+901,TechMaster,cruiser,Bianchi,19.99,155.3,508,123 Distributors,8/19/2012,1/13/2026,Available
+902,MegaGizmo,cruiser,Specialized,27.99,298.38,346,123 Distributors,9/5/2020,2/15/2026,Available
+903,TechMaster,BMX,Cannondale,11.99,326.76,78,XYZ Company,1/1/2015,1/28/2026,Available
+904,MegaGizmo,hybrid,Trek,3.49,535.71,501,XYZ Company,6/19/2010,8/5/2025,Out of Stock
+905,UltraThing,mountain,Cannondale,2.99,549.34,100,XYZ Company,1/27/2021,10/28/2025,Discontinued
+906,SuperWidget,road,Giant,49.99,205.77,916,Best Deals Inc.,3/18/2019,4/16/2026,Available
+907,TechMaster,BMX,Trek,29.99,531.09,491,XYZ Company,1/11/2012,1/15/2026,Available
+908,UltraThing,BMX,Bianchi,19.99,248.6,952,ABC Suppliers,6/20/2014,12/13/2025,Out of Stock
+909,TechMaster,BMX,Cannondale,59.99,937.77,263,ABC Suppliers,7/30/2013,6/23/2025,Discontinued
+910,MegaGizmo,cruiser,Scott,4.19,715.18,411,123 Distributors,10/28/2020,12/27/2025,Discontinued
+911,TechMaster,road,Bianchi,5.29,872.06,588,Best Deals Inc.,1/16/2010,8/4/2025,Out of Stock
+912,SuperWidget,hybrid,Specialized,24.99,647.9,46,ABC Suppliers,10/24/2016,5/11/2025,Discontinued
+913,MegaGizmo,road,Trek,3.39,163.73,251,XYZ Company,10/30/2021,12/13/2025,Discontinued
+914,SuperWidget,road,Bianchi,29.99,304.58,675,123 Distributors,12/19/2020,1/16/2026,Available
+915,TechMaster,road,Bianchi,5.99,836.12,253,Best Deals Inc.,7/19/2013,6/6/2025,Discontinued
+916,TechMaster,BMX,Trek,22.99,243.94,673,123 Distributors,12/10/2017,5/26/2025,Discontinued
+917,PowerBlaster,cruiser,Giant,4.99,976.71,477,XYZ Company,7/3/2015,11/4/2025,Available
+918,MegaGizmo,cruiser,Specialized,8.49,159.98,812,ABC Suppliers,5/23/2018,11/26/2025,Out of Stock
+919,SuperWidget,mountain,Cannondale,3.99,331.82,76,Best Deals Inc.,9/12/2016,7/25/2025,Available
+920,UltraThing,hybrid,Trek,18.99,339.97,437,ABC Suppliers,4/16/2019,2/17/2026,Discontinued
+921,PowerBlaster,road,Giant,2.99,44.54,949,Best Deals Inc.,2/27/2021,9/10/2025,Available
+922,PowerBlaster,mountain,Giant,49.95,765.66,614,Best Deals Inc.,7/28/2015,1/5/2026,Out of Stock
+923,SuperWidget,hybrid,Trek,29.99,140.96,739,123 Distributors,8/26/2012,2/1/2026,Out of Stock
+924,TechMaster,cruiser,Scott,29.99,327.18,85,XYZ Company,11/17/2012,12/27/2025,Available
+925,MegaGizmo,road,Trek,3.79,645.27,232,ABC Suppliers,11/11/2015,4/24/2026,Out of Stock
+926,PowerBlaster,BMX,Giant,5.99,305.86,578,Best Deals Inc.,12/30/2010,5/29/2025,Out of Stock
+927,MegaGizmo,cruiser,Bianchi,3.99,249.97,716,XYZ Company,10/2/2018,11/29/2025,Discontinued
+928,MegaGizmo,cruiser,Scott,5.99,658.58,546,123 Distributors,7/18/2016,8/4/2025,Out of Stock
+929,SuperWidget,mountain,Scott,1.29,268.21,849,123 Distributors,4/22/2016,6/25/2025,Available
+930,TechMaster,cruiser,Trek,2.49,280.72,68,ABC Suppliers,7/14/2011,12/15/2025,Available
+931,SuperWidget,BMX,Cannondale,14.99,990.56,803,ABC Suppliers,5/15/2018,11/13/2025,Available
+932,SuperWidget,road,Cannondale,1.79,430.85,560,Best Deals Inc.,9/19/2020,11/27/2025,Out of Stock
+933,SuperWidget,mountain,Cannondale,4.49,721.42,477,Best Deals Inc.,10/14/2012,11/5/2025,Out of Stock
+934,UltraThing,BMX,Giant,4.49,379.0,673,XYZ Company,12/17/2020,7/24/2025,Out of Stock
+935,TechMaster,hybrid,Scott,39.99,925.75,635,123 Distributors,7/2/2010,8/12/2025,Discontinued
+936,MegaGizmo,cruiser,Cannondale,29.99,535.64,982,ABC Suppliers,7/5/2020,1/11/2026,Discontinued
+937,SuperWidget,mountain,Specialized,5.49,865.07,680,XYZ Company,5/26/2020,4/1/2026,Discontinued
+938,PowerBlaster,hybrid,Cannondale,44.99,243.57,157,ABC Suppliers,7/4/2013,6/30/2025,Discontinued
+939,SuperWidget,hybrid,Giant,3.99,969.38,655,XYZ Company,2/25/2018,11/29/2025,Out of Stock
+940,UltraThing,mountain,Specialized,34.99,934.25,918,123 Distributors,1/18/2016,7/5/2025,Out of Stock
+941,UltraThing,hybrid,Scott,4.29,555.62,66,123 Distributors,5/5/2021,11/4/2025,Discontinued
+942,PowerBlaster,mountain,Specialized,2.49,337.32,970,Best Deals Inc.,8/23/2014,11/1/2025,Available
+943,SuperWidget,hybrid,Cannondale,49.99,259.12,927,Best Deals Inc.,5/27/2021,4/17/2026,Available
+944,UltraThing,hybrid,Specialized,29.99,190.31,236,Best Deals Inc.,7/5/2011,10/18/2025,Available
+945,UltraThing,cruiser,Giant,49.99,679.3,436,Best Deals Inc.,7/10/2012,8/1/2025,Out of Stock
+946,MegaGizmo,road,Trek,24.99,378.17,903,ABC Suppliers,3/11/2014,4/21/2026,Discontinued
+947,SuperWidget,mountain,Bianchi,54.99,583.03,143,XYZ Company,8/19/2021,2/8/2026,Out of Stock
+948,UltraThing,BMX,Trek,3.29,777.19,422,Best Deals Inc.,10/27/2017,9/17/2025,Available
+949,UltraThing,cruiser,Bianchi,299.99,605.26,813,ABC Suppliers,7/15/2017,6/23/2025,Available
+950,PowerBlaster,hybrid,Cannondale,6.29,833.91,334,ABC Suppliers,4/22/2012,12/14/2025,Available
+951,PowerBlaster,road,Giant,22.99,647.83,638,XYZ Company,10/6/2013,6/15/2025,Available
+952,TechMaster,mountain,Scott,29.99,452.84,960,Best Deals Inc.,1/21/2014,3/10/2026,Out of Stock
+953,PowerBlaster,mountain,Cannondale,89.99,658.86,906,Best Deals Inc.,4/4/2010,10/27/2025,Discontinued
+954,UltraThing,mountain,Giant,4.5,213.91,649,123 Distributors,4/5/2018,4/7/2026,Available
+955,TechMaster,hybrid,Specialized,9.99,827.6,231,ABC Suppliers,8/5/2015,6/29/2025,Available
+956,SuperWidget,hybrid,Giant,24.99,713.86,404,Best Deals Inc.,1/19/2012,9/9/2025,Discontinued
+957,PowerBlaster,hybrid,Bianchi,29.99,443.57,997,Best Deals Inc.,12/13/2014,12/10/2025,Discontinued
+958,UltraThing,mountain,Specialized,5.99,851.54,909,XYZ Company,9/9/2010,1/22/2026,Available
+959,PowerBlaster,hybrid,Cannondale,299.99,235.45,984,XYZ Company,2/16/2020,4/26/2026,Discontinued
+960,TechMaster,BMX,Bianchi,24.99,729.85,479,ABC Suppliers,2/2/2021,11/17/2025,Out of Stock
+961,SuperWidget,BMX,Bianchi,3.49,73.2,288,123 Distributors,7/27/2016,10/17/2025,Discontinued
+962,MegaGizmo,hybrid,Specialized,9.99,459.07,857,XYZ Company,5/2/2010,6/28/2025,Discontinued
+963,PowerBlaster,road,Giant,199.99,820.84,178,Best Deals Inc.,11/3/2020,5/12/2025,Available
+964,UltraThing,mountain,Bianchi,14.99,245.75,74,XYZ Company,6/25/2011,10/11/2025,Out of Stock
+965,SuperWidget,mountain,Bianchi,12.99,297.06,929,ABC Suppliers,5/2/2015,2/24/2026,Available
+966,MegaGizmo,road,Cannondale,2.99,492.03,206,XYZ Company,10/8/2021,3/13/2026,Out of Stock
+967,TechMaster,hybrid,Giant,9.99,18.19,135,123 Distributors,4/17/2017,11/13/2025,Out of Stock
+968,MegaGizmo,road,Scott,14.99,467.04,688,XYZ Company,8/14/2015,1/20/2026,Out of Stock
+969,MegaGizmo,BMX,Bianchi,4.29,868.41,414,Best Deals Inc.,12/15/2016,12/28/2025,Discontinued
+970,UltraThing,BMX,Bianchi,3.99,562.67,434,Best Deals Inc.,3/27/2010,7/18/2025,Available
+971,MegaGizmo,cruiser,Bianchi,49.99,556.68,917,Best Deals Inc.,1/29/2020,9/24/2025,Discontinued
+972,UltraThing,mountain,Specialized,2.99,933.25,771,ABC Suppliers,3/31/2014,1/15/2026,Out of Stock
+973,TechMaster,mountain,Scott,3.49,684.79,709,Best Deals Inc.,11/10/2012,4/22/2026,Discontinued
+974,MegaGizmo,road,Cannondale,89.99,935.89,999,XYZ Company,5/25/2020,2/1/2026,Discontinued
+975,PowerBlaster,hybrid,Cannondale,2.49,81.59,505,XYZ Company,8/5/2019,11/6/2025,Out of Stock
+976,TechMaster,road,Trek,19.99,552.62,211,ABC Suppliers,12/12/2011,6/11/2025,Discontinued
+977,UltraThing,BMX,Bianchi,4.29,294.65,860,123 Distributors,12/11/2017,3/1/2026,Out of Stock
+978,TechMaster,mountain,Specialized,2.99,737.2,831,XYZ Company,8/27/2019,4/19/2026,Out of Stock
+979,MegaGizmo,cruiser,Giant,2.99,109.44,213,123 Distributors,12/23/2015,3/23/2026,Available
+980,TechMaster,hybrid,Specialized,49.95,94.43,401,ABC Suppliers,12/28/2020,12/9/2025,Discontinued
+981,SuperWidget,mountain,Giant,4.29,927.45,239,ABC Suppliers,10/19/2020,1/19/2026,Out of Stock
+982,UltraThing,mountain,Trek,14.99,142.0,167,XYZ Company,12/22/2010,11/28/2025,Out of Stock
+983,MegaGizmo,BMX,Giant,4.99,499.46,530,123 Distributors,3/1/2019,9/17/2025,Discontinued
+984,SuperWidget,cruiser,Bianchi,29.99,237.41,71,XYZ Company,4/23/2017,8/12/2025,Out of Stock
+985,UltraThing,road,Scott,249.99,452.86,874,XYZ Company,7/20/2019,5/26/2025,Out of Stock
+986,SuperWidget,hybrid,Bianchi,3.49,845.73,303,Best Deals Inc.,4/7/2010,12/1/2025,Discontinued
+987,SuperWidget,mountain,Bianchi,3.99,529.42,163,Best Deals Inc.,6/11/2011,8/23/2025,Discontinued
+988,MegaGizmo,cruiser,Scott,3.99,863.4,310,123 Distributors,2/13/2015,1/31/2026,Out of Stock
+989,TechMaster,mountain,Specialized,49.99,848.73,559,123 Distributors,4/10/2016,7/28/2025,Available
+990,UltraThing,mountain,Bianchi,3.99,668.28,973,Best Deals Inc.,11/1/2017,6/26/2025,Out of Stock
+991,UltraThing,BMX,Trek,24.99,584.98,931,Best Deals Inc.,9/28/2013,10/17/2025,Discontinued
+992,UltraThing,BMX,Trek,39.99,257.68,363,ABC Suppliers,12/5/2018,3/14/2026,Out of Stock
+993,TechMaster,BMX,Bianchi,39.99,320.44,276,123 Distributors,6/19/2017,1/4/2026,Out of Stock
+994,PowerBlaster,road,Scott,49.99,991.38,16,Best Deals Inc.,6/12/2021,3/28/2026,Discontinued
+995,TechMaster,mountain,Bianchi,14.99,450.19,178,XYZ Company,9/22/2015,1/17/2026,Discontinued
+996,UltraThing,road,Trek,14.99,448.88,500,Best Deals Inc.,5/30/2014,2/9/2026,Available
+997,PowerBlaster,BMX,Giant,39.99,785.64,278,ABC Suppliers,9/20/2011,6/21/2025,Discontinued
+998,SuperWidget,BMX,Specialized,3.99,763.9,71,ABC Suppliers,3/17/2015,5/28/2025,Available
+999,SuperWidget,road,Specialized,3.29,702.34,743,Best Deals Inc.,11/18/2011,7/24/2025,Available
+1000,UltraThing,mountain,Scott,39.99,512.7,145,123 Distributors,10/1/2018,5/23/2025,Out of Stock
