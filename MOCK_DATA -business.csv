@@ -1,0 +1,1001 @@
+product_id,product_name,category,bike_size,brand,price,cost,stock_quantity,supplier,date_added,last_sold_date,status
+1,Speed Demon,mountain,medium,Specialized,4550.32,3632.7,731,Meevee,8/25/2018,1/12/2020,Available
+2,Mountain Beast,BMX,small,Trek,4651.52,2066.89,709,Oyonder,4/17/2019,9/12/2020,Available
+3,Trail Blazer,mountain,small,Trek,4494.56,1085.98,997,Twitternation,3/9/2019,11/10/2021,Discontinued
+4,Speed Demon,hybrid,medium,Giant,4726.19,2766.96,831,Yadel,5/26/2018,4/30/2021,Discontinued
+5,Mountain Beast,road,medium,Cannondale,4260.05,3360.81,603,Babbleset,1/8/2018,12/22/2021,Discontinued
+6,Urban Cruiser,BMX,extra-large,Specialized,4202.32,2027.57,839,Fatz,3/9/2019,9/7/2021,Out of Stock
+7,Mountain Beast,cruiser,extra-large,Giant,1748.78,3900.21,676,Jamia,9/6/2018,3/27/2021,Discontinued
+8,Urban Cruiser,hybrid,medium,Trek,2853.74,1774.51,417,Gabvine,11/3/2018,9/25/2021,Available
+9,Urban Cruiser,BMX,extra-large,Scott,1259.07,1843.31,30,Eare,6/21/2019,5/18/2021,Out of Stock
+10,Speed Demon,mountain,large,Giant,644.8,2885.84,701,Meemm,11/19/2019,1/30/2021,Discontinued
+11,Urban Cruiser,road,extra-large,Scott,1095.13,3795.56,539,Brainlounge,3/19/2019,11/18/2021,Out of Stock
+12,Speed Demon,hybrid,extra-large,Cannondale,903.56,2002.04,966,Oyondu,11/25/2018,11/18/2020,Available
+13,Urban Cruiser,road,large,Specialized,1417.86,1118.29,740,Mydo,8/29/2019,12/19/2020,Available
+14,Trail Blazer,hybrid,large,Trek,1401.01,1659.3,369,Avaveo,9/16/2018,8/12/2021,Out of Stock
+15,City Slicker,BMX,small,Giant,2090.36,1146.35,76,Twitterbridge,12/6/2018,2/11/2021,Available
+16,City Slicker,hybrid,medium,Specialized,4491.32,1215.09,688,Zoomdog,5/18/2019,12/15/2021,Out of Stock
+17,Mountain Beast,road,large,Trek,1076.0,2662.65,449,Podcat,9/22/2019,1/22/2020,Discontinued
+18,Trail Blazer,road,medium,Trek,1694.65,413.44,429,Edgeify,2/15/2019,2/12/2020,Available
+19,Urban Cruiser,road,medium,Trek,1491.51,1922.95,687,Wordware,1/14/2019,7/19/2020,Available
+20,Speed Demon,cruiser,large,Cannondale,2574.84,1927.82,913,Izio,2/24/2019,11/20/2021,Available
+21,City Slicker,hybrid,large,Giant,813.02,292.98,607,Livetube,8/18/2018,11/16/2020,Out of Stock
+22,Urban Cruiser,cruiser,large,Scott,4621.09,3373.19,868,Photospace,6/23/2018,8/15/2021,Available
+23,City Slicker,hybrid,large,Cannondale,2744.86,72.91,50,Jetpulse,10/23/2019,12/2/2021,Out of Stock
+24,Trail Blazer,cruiser,large,Scott,2492.85,240.15,439,Mybuzz,10/31/2018,5/2/2021,Discontinued
+25,Trail Blazer,hybrid,extra-large,Giant,2959.9,3753.39,562,Latz,8/9/2018,1/2/2021,Available
+26,Speed Demon,hybrid,small,Trek,1704.73,1107.37,814,Mynte,3/26/2019,9/27/2021,Out of Stock
+27,Urban Cruiser,cruiser,medium,Trek,2889.19,1015.14,780,Reallinks,10/2/2018,4/29/2021,Out of Stock
+28,Urban Cruiser,road,small,Giant,166.21,3364.7,291,Brightbean,11/30/2018,9/1/2021,Out of Stock
+29,Urban Cruiser,cruiser,large,Giant,3287.7,3464.1,158,Twimm,9/14/2018,10/25/2021,Available
+30,Mountain Beast,BMX,large,Specialized,2969.76,599.24,722,Buzzshare,1/25/2019,9/24/2021,Available
+31,Speed Demon,hybrid,small,Giant,3507.95,2807.47,89,LiveZ,11/27/2019,5/26/2021,Out of Stock
+32,Trail Blazer,cruiser,medium,Specialized,3038.78,3644.56,145,Roomm,3/4/2018,3/20/2020,Discontinued
+33,Mountain Beast,road,small,Specialized,4748.43,667.43,206,Quimba,7/6/2019,3/18/2020,Discontinued
+34,Speed Demon,mountain,medium,Scott,1574.93,3725.41,622,Babblestorm,12/15/2019,12/30/2020,Available
+35,Speed Demon,mountain,large,Specialized,3739.16,3164.92,474,Lazzy,9/27/2018,1/31/2021,Out of Stock
+36,Urban Cruiser,mountain,medium,Giant,3918.84,2069.9,693,Feedfire,12/23/2019,11/15/2021,Available
+37,City Slicker,road,large,Cannondale,1821.92,1426.09,455,Voonyx,11/5/2018,6/6/2020,Discontinued
+38,Urban Cruiser,cruiser,small,Giant,1815.62,1825.46,416,Realcube,10/19/2019,11/25/2021,Available
+39,City Slicker,mountain,small,Trek,2424.24,2888.82,839,Minyx,1/22/2019,9/23/2020,Available
+40,Trail Blazer,road,extra-large,Trek,4577.05,2139.42,212,Dazzlesphere,3/30/2019,2/11/2020,Discontinued
+41,Mountain Beast,BMX,extra-large,Giant,1748.79,3948.2,784,Skilith,3/21/2018,11/13/2021,Out of Stock
+42,Trail Blazer,cruiser,extra-large,Specialized,280.57,1723.67,824,Ailane,3/29/2018,2/20/2021,Available
+43,Urban Cruiser,mountain,large,Specialized,1517.37,2789.14,283,Vitz,1/31/2019,11/15/2021,Available
+44,City Slicker,mountain,extra-large,Specialized,3658.37,2773.96,88,Zoomcast,9/16/2018,12/2/2020,Available
+45,Speed Demon,BMX,medium,Specialized,1323.81,3432.72,722,Quaxo,5/8/2018,7/12/2020,Discontinued
+46,Mountain Beast,cruiser,extra-large,Specialized,3950.68,1397.25,127,Browsetype,2/2/2018,2/17/2021,Available
+47,Speed Demon,road,large,Scott,631.49,865.08,46,Shuffletag,4/21/2019,12/29/2020,Available
+48,Speed Demon,road,large,Cannondale,3473.41,1556.88,836,Voonder,1/16/2019,4/5/2021,Available
+49,Trail Blazer,mountain,large,Scott,1961.97,2106.68,969,Edgeclub,5/30/2018,10/3/2021,Out of Stock
+50,Trail Blazer,cruiser,extra-large,Specialized,4640.75,3592.25,340,Mydeo,6/10/2018,3/19/2020,Available
+51,Speed Demon,mountain,large,Trek,1381.65,2032.94,862,Blogspan,3/3/2018,5/15/2021,Discontinued
+52,Trail Blazer,BMX,extra-large,Cannondale,395.14,1482.18,931,Meevee,3/14/2018,1/4/2020,Discontinued
+53,Trail Blazer,cruiser,large,Specialized,782.07,369.15,522,Chatterbridge,11/3/2019,5/8/2020,Available
+54,Trail Blazer,BMX,small,Cannondale,4663.56,3449.9,351,Wordware,4/29/2018,3/10/2021,Discontinued
+55,Speed Demon,BMX,medium,Giant,275.05,226.81,786,Skivee,6/8/2018,5/17/2020,Discontinued
+56,Urban Cruiser,hybrid,medium,Giant,4658.26,1604.54,960,Zoonoodle,7/15/2018,8/19/2020,Out of Stock
+57,Speed Demon,mountain,small,Scott,4215.64,2391.45,429,Wikido,7/29/2018,2/8/2021,Out of Stock
+58,City Slicker,BMX,large,Specialized,1504.29,3047.63,540,Thoughtstorm,5/10/2019,1/7/2020,Available
+59,Speed Demon,mountain,medium,Specialized,4668.99,1532.51,132,Realpoint,2/16/2019,9/29/2021,Discontinued
+60,City Slicker,road,small,Scott,3377.5,2490.22,742,Jatri,2/1/2018,1/28/2021,Out of Stock
+61,Speed Demon,hybrid,extra-large,Specialized,4796.93,276.29,33,Kayveo,5/9/2019,10/18/2020,Out of Stock
+62,Trail Blazer,hybrid,large,Cannondale,2453.61,266.37,354,Realmix,11/20/2019,2/8/2020,Available
+63,City Slicker,hybrid,large,Giant,1805.47,1227.7,223,Oodoo,10/5/2019,8/17/2020,Discontinued
+64,Trail Blazer,hybrid,small,Scott,3107.88,2674.42,816,Flipbug,7/30/2019,10/23/2020,Discontinued
+65,Urban Cruiser,cruiser,large,Giant,2696.76,2026.36,453,Fivebridge,7/11/2019,5/6/2020,Available
+66,City Slicker,cruiser,extra-large,Specialized,4137.39,1347.3,162,Dabtype,11/20/2019,7/19/2020,Out of Stock
+67,Trail Blazer,road,small,Cannondale,1103.01,3497.49,54,Fivebridge,10/6/2019,8/7/2021,Available
+68,City Slicker,road,extra-large,Trek,2111.43,2229.16,250,Mudo,9/29/2018,5/24/2020,Available
+69,Mountain Beast,hybrid,small,Specialized,465.69,538.92,429,Brightdog,5/22/2019,1/18/2020,Out of Stock
+70,Trail Blazer,mountain,small,Cannondale,1929.83,1014.45,712,Kayveo,2/24/2018,5/9/2021,Available
+71,City Slicker,BMX,small,Specialized,1352.21,2460.97,485,Nlounge,6/23/2019,10/5/2020,Discontinued
+72,City Slicker,road,medium,Trek,1516.49,2105.13,495,Brightdog,11/24/2018,8/21/2021,Available
+73,Urban Cruiser,cruiser,small,Trek,2152.46,1781.87,18,Topicstorm,2/27/2019,9/10/2021,Discontinued
+74,Speed Demon,mountain,extra-large,Giant,537.57,2368.34,698,Skyndu,9/29/2018,6/15/2021,Discontinued
+75,Urban Cruiser,BMX,small,Cannondale,2257.59,1872.72,465,Eabox,11/12/2018,8/12/2020,Out of Stock
+76,City Slicker,BMX,small,Specialized,3370.59,379.09,505,Dynazzy,7/30/2018,8/12/2021,Available
+77,City Slicker,BMX,extra-large,Specialized,3165.73,3626.18,145,Livetube,1/29/2019,4/22/2020,Available
+78,Speed Demon,BMX,extra-large,Trek,3859.03,2872.47,293,Oyope,6/8/2018,1/23/2021,Out of Stock
+79,Mountain Beast,mountain,large,Cannondale,2950.73,1650.95,944,Twimm,11/8/2019,4/20/2021,Discontinued
+80,City Slicker,BMX,small,Scott,3043.77,813.18,882,Dabshots,4/30/2018,8/19/2020,Available
+81,Mountain Beast,hybrid,medium,Giant,4695.83,960.94,774,Wikizz,8/12/2018,11/8/2020,Out of Stock
+82,Trail Blazer,mountain,extra-large,Trek,3058.07,1933.82,31,Yakijo,11/16/2019,10/28/2020,Discontinued
+83,Speed Demon,mountain,extra-large,Giant,3474.99,911.0,574,Tagtune,9/4/2019,8/1/2020,Discontinued
+84,Mountain Beast,BMX,large,Cannondale,611.81,1728.62,154,Livefish,6/27/2019,12/14/2021,Available
+85,City Slicker,mountain,small,Giant,3023.29,812.16,527,Gigaclub,12/2/2018,9/14/2021,Discontinued
+86,Urban Cruiser,hybrid,large,Specialized,4369.45,1046.92,492,Quinu,7/5/2018,8/3/2021,Out of Stock
+87,Urban Cruiser,cruiser,extra-large,Giant,753.33,3466.61,141,Twinte,11/27/2018,10/29/2020,Out of Stock
+88,Speed Demon,hybrid,small,Giant,1011.3,3278.55,472,Kare,3/7/2018,5/6/2020,Discontinued
+89,City Slicker,mountain,extra-large,Cannondale,280.16,497.85,226,Dabjam,6/10/2018,2/27/2020,Discontinued
+90,Trail Blazer,hybrid,small,Giant,2056.42,3330.26,501,Fatz,8/22/2018,9/1/2021,Available
+91,Urban Cruiser,cruiser,small,Specialized,867.56,1927.37,457,Tazzy,7/20/2018,11/2/2021,Available
+92,Trail Blazer,cruiser,small,Scott,4872.61,2674.36,996,Centizu,3/18/2018,9/27/2020,Available
+93,Mountain Beast,BMX,extra-large,Cannondale,1212.34,639.18,42,Devify,10/23/2019,5/14/2020,Discontinued
+94,Mountain Beast,cruiser,medium,Trek,252.87,579.92,472,Shuffletag,8/20/2018,7/6/2021,Discontinued
+95,Speed Demon,road,medium,Cannondale,2367.53,2270.7,867,Wordware,4/12/2018,4/28/2021,Out of Stock
+96,City Slicker,road,large,Cannondale,3926.11,1221.18,785,Miboo,11/8/2019,5/12/2021,Discontinued
+97,Urban Cruiser,road,extra-large,Giant,3243.54,1484.35,472,Yakijo,3/11/2019,1/5/2021,Available
+98,Speed Demon,cruiser,large,Giant,3926.17,2081.59,155,Aibox,12/25/2018,1/13/2021,Available
+99,Trail Blazer,mountain,medium,Specialized,3861.66,933.02,132,Geba,9/14/2019,4/24/2021,Out of Stock
+100,Speed Demon,mountain,large,Giant,4399.52,3531.29,549,Shufflester,10/12/2019,12/13/2020,Out of Stock
+101,Urban Cruiser,cruiser,large,Giant,1541.83,3723.51,301,Chatterpoint,12/21/2019,9/26/2020,Out of Stock
+102,Urban Cruiser,cruiser,large,Cannondale,3175.57,1537.61,532,Janyx,7/4/2018,12/2/2020,Available
+103,Speed Demon,cruiser,large,Scott,514.98,1325.37,577,Eadel,1/20/2018,1/15/2021,Available
+104,Urban Cruiser,road,medium,Scott,3806.47,2860.23,941,Leenti,6/27/2019,7/5/2020,Out of Stock
+105,Urban Cruiser,BMX,extra-large,Cannondale,976.2,3127.24,708,Zoomcast,7/22/2019,7/18/2020,Available
+106,Trail Blazer,hybrid,extra-large,Cannondale,3388.81,1075.15,826,Topicware,9/17/2019,12/3/2020,Available
+107,City Slicker,hybrid,large,Cannondale,3730.71,2839.76,648,Centimia,8/14/2019,5/13/2021,Out of Stock
+108,Mountain Beast,mountain,large,Trek,4259.35,3592.35,746,Skinte,2/6/2019,12/14/2021,Available
+109,City Slicker,cruiser,medium,Specialized,868.56,292.07,184,Yambee,7/1/2018,11/7/2021,Out of Stock
+110,City Slicker,cruiser,small,Cannondale,1863.49,3575.87,150,Viva,2/27/2018,1/29/2021,Out of Stock
+111,Trail Blazer,road,medium,Cannondale,3356.21,3932.35,202,Blognation,7/28/2019,5/26/2020,Available
+112,Trail Blazer,road,small,Trek,1999.95,3807.8,301,Leenti,9/28/2018,10/24/2021,Available
+113,City Slicker,mountain,large,Giant,90.83,1021.16,522,Twitterworks,9/16/2019,6/11/2020,Discontinued
+114,Trail Blazer,cruiser,medium,Giant,1423.83,1213.72,882,Blogpad,6/9/2018,4/21/2021,Discontinued
+115,City Slicker,BMX,extra-large,Trek,1926.92,2299.99,49,Yoveo,4/14/2019,3/9/2021,Available
+116,Trail Blazer,mountain,large,Scott,989.6,3078.7,140,Gigabox,11/6/2019,10/5/2020,Discontinued
+117,Speed Demon,BMX,small,Trek,1329.18,2001.99,960,Realpoint,6/22/2019,9/19/2021,Out of Stock
+118,Speed Demon,hybrid,small,Trek,977.11,3902.28,933,Skimia,2/7/2019,12/8/2021,Discontinued
+119,Trail Blazer,mountain,small,Specialized,4573.02,1332.43,704,Photospace,5/17/2018,1/17/2021,Out of Stock
+120,Trail Blazer,BMX,large,Cannondale,1920.12,64.91,101,Zoomdog,11/4/2019,6/20/2021,Out of Stock
+121,Urban Cruiser,BMX,small,Scott,3640.21,3483.5,573,Twinder,11/7/2018,11/5/2020,Out of Stock
+122,Trail Blazer,BMX,large,Giant,4243.2,2208.88,764,Nlounge,3/10/2019,7/20/2021,Out of Stock
+123,Speed Demon,road,medium,Cannondale,2048.09,1177.91,354,Browseblab,2/22/2018,12/10/2021,Discontinued
+124,Mountain Beast,cruiser,small,Cannondale,3506.87,2431.72,186,Teklist,1/29/2019,10/24/2021,Available
+125,Trail Blazer,cruiser,large,Trek,1881.96,1053.57,700,Vimbo,4/29/2018,2/24/2021,Available
+126,City Slicker,hybrid,small,Cannondale,1780.44,2355.1,116,Wordware,7/31/2019,8/20/2021,Out of Stock
+127,Trail Blazer,mountain,small,Scott,4686.3,2827.25,72,Feedfish,2/18/2019,3/20/2020,Available
+128,Urban Cruiser,BMX,extra-large,Giant,2524.65,3758.69,940,Zooveo,3/16/2019,6/2/2021,Out of Stock
+129,Mountain Beast,cruiser,small,Cannondale,2759.07,2857.47,96,Zooxo,5/12/2019,9/2/2020,Discontinued
+130,Urban Cruiser,mountain,small,Specialized,3789.39,1507.81,667,Podcat,6/3/2019,10/19/2021,Out of Stock
+131,City Slicker,cruiser,large,Specialized,2977.15,1116.18,511,Shufflester,3/21/2019,7/1/2021,Out of Stock
+132,City Slicker,mountain,small,Scott,443.58,3995.24,727,Gabspot,11/20/2019,7/11/2020,Discontinued
+133,Speed Demon,BMX,extra-large,Giant,1905.37,856.16,118,Flipstorm,4/16/2018,6/20/2020,Available
+134,Mountain Beast,cruiser,large,Trek,4121.46,2868.44,866,Twitterlist,2/6/2019,4/22/2021,Out of Stock
+135,City Slicker,mountain,medium,Cannondale,3817.03,418.17,586,Rhybox,1/18/2019,12/14/2020,Out of Stock
+136,Trail Blazer,BMX,small,Specialized,817.04,2815.51,15,Ntag,10/26/2019,9/1/2020,Available
+137,Trail Blazer,road,extra-large,Scott,3031.82,1066.58,612,Livetube,1/18/2019,10/11/2020,Out of Stock
+138,Urban Cruiser,mountain,large,Specialized,4860.82,2480.69,64,Gigashots,6/9/2019,5/6/2020,Out of Stock
+139,Trail Blazer,mountain,large,Cannondale,1709.96,2263.83,29,Twimbo,3/1/2019,1/29/2020,Discontinued
+140,City Slicker,road,extra-large,Trek,4998.54,3215.75,221,Jaxspan,12/11/2018,3/23/2020,Discontinued
+141,Mountain Beast,hybrid,extra-large,Cannondale,940.88,3631.85,424,Yodoo,6/15/2019,2/11/2020,Available
+142,Mountain Beast,road,large,Specialized,4728.54,196.92,69,Demimbu,6/8/2018,4/16/2020,Out of Stock
+143,City Slicker,road,small,Scott,143.37,948.0,403,Aimbu,1/1/2018,2/21/2021,Discontinued
+144,Urban Cruiser,cruiser,medium,Giant,835.78,599.24,609,Oba,6/6/2019,12/24/2021,Available
+145,Speed Demon,BMX,small,Scott,2512.17,1099.3,372,Abata,3/29/2019,10/27/2020,Available
+146,Urban Cruiser,hybrid,medium,Trek,643.3,3201.56,997,Quimm,4/16/2019,10/26/2021,Out of Stock
+147,Trail Blazer,cruiser,extra-large,Cannondale,712.07,551.97,611,Bluezoom,4/16/2018,10/12/2020,Discontinued
+148,City Slicker,cruiser,extra-large,Cannondale,2620.97,2214.05,775,Twitternation,4/4/2018,4/2/2021,Out of Stock
+149,Speed Demon,hybrid,small,Giant,404.51,288.88,922,Tagopia,6/23/2018,3/10/2021,Available
+150,Urban Cruiser,mountain,small,Scott,2426.19,1145.23,45,Devcast,1/21/2019,3/12/2020,Available
+151,Trail Blazer,BMX,large,Specialized,3072.01,460.7,438,Thoughtbridge,10/13/2018,7/29/2021,Out of Stock
+152,Urban Cruiser,cruiser,medium,Cannondale,4636.7,2888.53,190,Photospace,7/16/2019,11/14/2020,Available
+153,City Slicker,hybrid,medium,Cannondale,3028.43,35.89,753,Dynabox,7/19/2019,2/5/2021,Discontinued
+154,Urban Cruiser,BMX,medium,Trek,758.76,1374.16,281,Fadeo,3/30/2019,9/19/2020,Discontinued
+155,Urban Cruiser,mountain,small,Specialized,2117.79,270.24,947,Twitterwire,11/18/2019,5/3/2021,Discontinued
+156,Speed Demon,mountain,extra-large,Specialized,4745.65,2856.26,89,Eayo,3/15/2019,12/24/2020,Out of Stock
+157,Mountain Beast,cruiser,medium,Cannondale,4578.57,1033.8,276,Brainlounge,5/21/2018,4/7/2021,Available
+158,Urban Cruiser,mountain,medium,Trek,1604.16,1609.11,110,Meeveo,11/9/2019,1/6/2020,Discontinued
+159,Trail Blazer,hybrid,medium,Giant,4408.22,1025.44,554,Browsezoom,11/29/2018,5/7/2020,Available
+160,Trail Blazer,mountain,small,Cannondale,4168.09,866.73,86,Rhynyx,11/1/2019,4/20/2021,Out of Stock
+161,Urban Cruiser,road,large,Trek,4727.2,2443.05,676,Zoombeat,3/1/2019,5/5/2021,Out of Stock
+162,Trail Blazer,road,extra-large,Specialized,2582.1,1897.9,183,Feedmix,1/1/2018,5/28/2020,Out of Stock
+163,Speed Demon,cruiser,medium,Scott,1669.35,1417.69,764,Innojam,9/25/2019,8/18/2021,Out of Stock
+164,Mountain Beast,mountain,small,Cannondale,568.46,3286.62,189,Kazio,6/11/2018,6/14/2020,Discontinued
+165,City Slicker,mountain,large,Scott,4622.09,529.61,792,Oozz,11/1/2018,8/2/2020,Discontinued
+166,City Slicker,mountain,small,Trek,684.76,2786.52,105,Lazzy,3/3/2018,6/1/2021,Out of Stock
+167,Trail Blazer,road,extra-large,Specialized,260.94,2936.75,363,Trudeo,7/23/2018,1/23/2021,Discontinued
+168,Speed Demon,hybrid,extra-large,Trek,2723.21,721.6,941,Bluezoom,12/31/2018,11/28/2020,Available
+169,Trail Blazer,cruiser,large,Giant,4189.04,3165.43,960,Youtags,10/3/2019,9/29/2020,Discontinued
+170,Urban Cruiser,BMX,large,Giant,2364.85,1333.43,222,Demizz,5/7/2018,3/16/2021,Discontinued
+171,City Slicker,BMX,small,Scott,4471.43,1921.23,903,Ailane,3/2/2019,2/7/2021,Out of Stock
+172,Mountain Beast,hybrid,extra-large,Scott,631.49,1387.0,611,Aibox,4/19/2019,9/30/2021,Out of Stock
+173,Mountain Beast,mountain,extra-large,Trek,1111.92,3683.57,396,Voolia,10/30/2018,5/4/2020,Discontinued
+174,City Slicker,road,extra-large,Cannondale,3120.49,2834.04,969,Realbuzz,9/24/2018,12/17/2020,Discontinued
+175,Mountain Beast,road,large,Giant,571.99,312.43,565,Dynazzy,12/12/2019,8/18/2021,Discontinued
+176,Urban Cruiser,cruiser,extra-large,Giant,1684.24,3921.42,992,Dazzlesphere,7/13/2018,2/4/2020,Out of Stock
+177,Trail Blazer,road,small,Scott,153.49,2796.82,720,Youspan,4/23/2018,2/23/2021,Available
+178,Mountain Beast,mountain,small,Trek,2934.73,1522.58,329,Dabvine,2/13/2018,10/18/2020,Available
+179,City Slicker,BMX,small,Trek,126.8,1047.37,274,Voonyx,12/30/2019,11/1/2021,Discontinued
+180,Mountain Beast,road,small,Scott,3895.45,1045.82,181,Janyx,8/13/2019,12/11/2021,Out of Stock
+181,Trail Blazer,mountain,medium,Trek,3458.92,3052.31,646,Babblestorm,6/22/2018,6/13/2021,Available
+182,City Slicker,road,large,Trek,4779.45,1144.82,966,Jaxbean,3/20/2019,7/7/2021,Out of Stock
+183,Trail Blazer,road,small,Giant,3369.78,611.27,965,Leexo,9/8/2019,9/13/2021,Available
+184,Speed Demon,road,large,Trek,376.72,574.01,845,Livepath,12/20/2018,2/15/2020,Discontinued
+185,Mountain Beast,cruiser,extra-large,Specialized,2750.89,1906.6,765,Kwimbee,11/7/2018,12/15/2020,Out of Stock
+186,Speed Demon,BMX,extra-large,Trek,3469.27,1968.59,107,Babbleset,3/28/2019,12/8/2020,Discontinued
+187,Trail Blazer,mountain,extra-large,Giant,4551.52,2852.74,629,Photojam,6/27/2019,12/11/2021,Discontinued
+188,Trail Blazer,cruiser,small,Giant,369.39,517.27,49,Thoughtblab,2/16/2019,11/13/2020,Out of Stock
+189,Urban Cruiser,mountain,small,Scott,1708.6,3937.05,835,Rhybox,11/2/2018,9/20/2020,Discontinued
+190,Mountain Beast,hybrid,large,Scott,77.78,3258.92,985,Tambee,3/21/2018,9/22/2021,Out of Stock
+191,City Slicker,mountain,large,Giant,1496.58,3940.76,436,Zooxo,10/17/2019,7/14/2020,Available
+192,Speed Demon,mountain,small,Scott,3600.91,3019.53,145,Topiclounge,11/2/2019,12/19/2020,Available
+193,Urban Cruiser,road,medium,Scott,3644.16,2063.25,454,Blogpad,3/2/2019,7/7/2020,Discontinued
+194,Mountain Beast,mountain,large,Specialized,4977.56,2443.04,776,Mymm,11/6/2018,6/20/2020,Available
+195,Speed Demon,cruiser,small,Giant,4293.61,1883.61,127,Kayveo,4/15/2018,3/30/2020,Out of Stock
+196,Urban Cruiser,mountain,extra-large,Scott,3368.74,326.87,989,Divape,1/19/2018,1/9/2021,Discontinued
+197,Trail Blazer,hybrid,medium,Trek,1741.38,3812.56,867,Digitube,5/30/2018,10/17/2020,Available
+198,City Slicker,road,small,Scott,3267.98,3020.59,957,Chatterbridge,2/21/2018,5/29/2020,Available
+199,City Slicker,cruiser,small,Cannondale,1589.86,211.91,82,Photobug,7/17/2018,6/14/2021,Out of Stock
+200,Trail Blazer,road,medium,Trek,2559.73,2853.41,354,Vimbo,12/22/2019,9/9/2020,Out of Stock
+201,Urban Cruiser,hybrid,small,Cannondale,684.98,3836.03,465,Oyoloo,3/26/2018,8/22/2021,Available
+202,Trail Blazer,road,medium,Trek,2760.99,482.54,198,Jaxspan,7/30/2018,12/7/2021,Available
+203,Urban Cruiser,BMX,medium,Specialized,2600.92,113.03,139,Bluejam,5/25/2019,12/18/2021,Available
+204,Speed Demon,hybrid,extra-large,Giant,637.92,857.19,808,Devpoint,10/31/2019,5/20/2020,Available
+205,Speed Demon,cruiser,small,Trek,467.3,1265.89,310,Vinder,6/8/2019,10/4/2021,Available
+206,City Slicker,hybrid,extra-large,Specialized,56.5,50.44,251,Meembee,4/24/2018,2/11/2021,Out of Stock
+207,Urban Cruiser,road,large,Scott,3810.52,227.08,290,Yata,1/31/2019,11/15/2021,Out of Stock
+208,Urban Cruiser,BMX,large,Trek,1853.36,2720.28,611,JumpXS,12/28/2018,9/27/2021,Available
+209,Urban Cruiser,road,large,Trek,1996.77,2744.01,38,Plambee,11/6/2018,4/5/2020,Available
+210,Speed Demon,cruiser,small,Trek,2256.86,2741.72,307,Yacero,5/22/2018,9/6/2020,Out of Stock
+211,Trail Blazer,road,extra-large,Giant,2810.74,2847.81,819,Yodoo,1/7/2018,4/28/2020,Available
+212,Mountain Beast,BMX,medium,Specialized,3299.34,3083.17,286,Trunyx,10/4/2019,1/17/2020,Discontinued
+213,City Slicker,BMX,medium,Cannondale,237.78,1852.81,526,Thoughtblab,11/11/2018,8/12/2020,Available
+214,Trail Blazer,cruiser,large,Scott,4705.65,2143.11,603,Topiclounge,1/18/2019,1/12/2021,Out of Stock
+215,Speed Demon,road,extra-large,Cannondale,1774.03,1902.23,311,Youbridge,8/31/2018,8/25/2021,Discontinued
+216,City Slicker,hybrid,large,Cannondale,833.5,3035.89,789,Dynava,12/10/2018,6/23/2020,Discontinued
+217,Trail Blazer,BMX,small,Specialized,3011.12,2879.82,284,Vimbo,6/27/2018,11/24/2020,Out of Stock
+218,Mountain Beast,cruiser,small,Trek,3565.07,815.85,125,Feednation,6/4/2019,11/3/2020,Discontinued
+219,Urban Cruiser,BMX,extra-large,Scott,4029.84,3083.05,351,Mudo,12/17/2019,1/28/2020,Discontinued
+220,Urban Cruiser,cruiser,large,Trek,2351.61,790.19,25,Linklinks,12/30/2018,1/27/2020,Discontinued
+221,Urban Cruiser,cruiser,large,Specialized,1209.0,2458.15,278,Twimm,7/31/2018,9/29/2020,Discontinued
+222,Mountain Beast,road,large,Scott,4903.79,854.12,65,Bluejam,8/8/2018,7/10/2020,Discontinued
+223,City Slicker,mountain,small,Giant,4260.13,3103.25,647,Katz,10/1/2018,11/7/2021,Available
+224,Speed Demon,mountain,small,Cannondale,4922.22,3330.38,874,Gabtype,3/25/2019,1/8/2021,Out of Stock
+225,Mountain Beast,cruiser,large,Specialized,4219.0,3984.83,910,Innotype,6/10/2018,6/8/2021,Out of Stock
+226,Mountain Beast,BMX,extra-large,Trek,3210.04,463.73,121,Thoughtbridge,7/25/2019,3/31/2020,Discontinued
+227,Urban Cruiser,hybrid,medium,Cannondale,1318.7,1178.24,597,Linkbuzz,9/9/2018,12/25/2021,Discontinued
+228,Speed Demon,mountain,medium,Giant,4266.87,2326.6,23,Zooveo,11/24/2019,1/11/2021,Discontinued
+229,Mountain Beast,hybrid,extra-large,Giant,442.09,3333.02,636,Viva,2/12/2019,9/29/2021,Available
+230,Urban Cruiser,hybrid,small,Specialized,2575.14,1359.47,234,Wikizz,8/11/2019,2/20/2021,Out of Stock
+231,Speed Demon,hybrid,medium,Trek,213.3,1139.36,756,Yombu,2/4/2018,2/24/2021,Available
+232,Urban Cruiser,hybrid,large,Cannondale,2939.17,2104.39,350,Photobug,1/12/2018,3/14/2021,Out of Stock
+233,City Slicker,road,extra-large,Scott,4935.16,314.92,47,Eimbee,3/27/2018,1/5/2021,Discontinued
+234,Speed Demon,road,small,Specialized,608.16,2855.75,399,Wordware,2/25/2019,10/15/2021,Discontinued
+235,Mountain Beast,BMX,medium,Specialized,677.88,459.6,30,Realpoint,5/19/2019,3/24/2020,Available
+236,Trail Blazer,mountain,large,Giant,1201.44,285.71,913,Vitz,2/7/2019,11/10/2021,Discontinued
+237,Speed Demon,BMX,small,Giant,2020.16,3352.99,634,Meeveo,7/9/2018,3/10/2021,Out of Stock
+238,Mountain Beast,cruiser,small,Scott,1249.34,222.16,603,Yoveo,5/15/2018,9/18/2021,Available
+239,Urban Cruiser,cruiser,large,Specialized,2387.25,1658.34,59,Topiclounge,6/4/2018,10/6/2020,Out of Stock
+240,Urban Cruiser,mountain,medium,Trek,2681.98,2586.46,545,Youbridge,3/19/2018,10/5/2021,Out of Stock
+241,Mountain Beast,mountain,small,Trek,2270.88,2799.09,177,Lajo,8/13/2018,8/5/2021,Available
+242,Trail Blazer,road,large,Specialized,4367.48,2335.09,779,Wordify,11/23/2019,10/15/2021,Available
+243,Mountain Beast,hybrid,medium,Scott,521.52,2966.02,309,Yambee,10/16/2018,9/21/2020,Available
+244,Urban Cruiser,hybrid,large,Trek,1000.71,2531.53,319,Photobug,12/16/2018,4/14/2021,Available
+245,Mountain Beast,cruiser,extra-large,Giant,3190.64,1075.67,23,Wordtune,11/17/2019,10/6/2020,Available
+246,Trail Blazer,cruiser,medium,Giant,3215.52,1431.51,916,Dabshots,10/18/2019,11/15/2020,Available
+247,City Slicker,cruiser,medium,Cannondale,3248.18,3305.08,205,Meembee,12/20/2019,9/3/2021,Available
+248,Mountain Beast,road,medium,Specialized,3283.4,1560.88,320,Voolia,9/14/2019,7/16/2021,Discontinued
+249,Speed Demon,BMX,large,Specialized,3312.75,1835.92,892,Edgeify,5/4/2019,3/5/2020,Available
+250,Urban Cruiser,BMX,extra-large,Specialized,3618.71,2820.32,419,Mudo,10/11/2018,6/15/2021,Out of Stock
+251,City Slicker,hybrid,medium,Cannondale,293.34,2021.59,214,Latz,12/7/2018,9/30/2021,Available
+252,City Slicker,hybrid,medium,Specialized,4014.02,1714.17,266,Flipstorm,3/8/2019,1/14/2020,Available
+253,City Slicker,mountain,extra-large,Giant,4501.88,3660.53,659,Realfire,2/8/2018,11/13/2020,Available
+254,City Slicker,mountain,medium,Cannondale,173.89,1125.83,210,Buzzshare,12/19/2019,3/6/2021,Available
+255,Urban Cruiser,mountain,extra-large,Giant,4946.66,2438.13,645,Ntags,10/18/2018,10/10/2020,Discontinued
+256,City Slicker,BMX,medium,Giant,3059.31,1153.33,394,Kwilith,1/21/2019,2/22/2020,Out of Stock
+257,Urban Cruiser,hybrid,small,Trek,4269.81,370.77,263,Fiveclub,3/7/2018,6/8/2021,Out of Stock
+258,Trail Blazer,cruiser,medium,Trek,472.96,1806.03,446,Roodel,3/7/2019,6/12/2020,Out of Stock
+259,Urban Cruiser,cruiser,medium,Trek,4836.64,807.92,303,Devshare,3/8/2019,3/21/2021,Available
+260,Urban Cruiser,cruiser,small,Cannondale,4662.18,1319.38,367,Meevee,5/28/2019,4/14/2021,Discontinued
+261,Urban Cruiser,BMX,large,Cannondale,2527.96,314.13,877,Vitz,6/10/2019,7/1/2020,Discontinued
+262,Trail Blazer,mountain,extra-large,Scott,2037.53,1751.81,747,Flipbug,11/5/2018,1/6/2020,Out of Stock
+263,Speed Demon,BMX,large,Scott,1344.4,2915.2,917,Dabtype,5/17/2018,7/29/2021,Available
+264,Trail Blazer,hybrid,small,Giant,3640.44,86.89,565,Realblab,4/10/2018,1/18/2020,Available
+265,Mountain Beast,BMX,extra-large,Trek,1359.3,3178.11,96,Tagopia,4/7/2018,5/28/2021,Available
+266,Urban Cruiser,hybrid,extra-large,Trek,3888.76,1390.4,559,Skinder,10/16/2018,7/8/2020,Available
+267,City Slicker,hybrid,extra-large,Giant,4604.41,2098.12,544,Livetube,8/17/2018,12/29/2020,Out of Stock
+268,Trail Blazer,road,extra-large,Trek,1738.88,3715.67,738,Dablist,11/8/2018,7/31/2021,Available
+269,Speed Demon,road,large,Specialized,4027.99,1382.21,104,Skidoo,4/25/2018,3/14/2021,Out of Stock
+270,City Slicker,BMX,extra-large,Cannondale,1252.75,867.46,370,Cogilith,7/5/2019,6/23/2021,Available
+271,Trail Blazer,cruiser,small,Specialized,2234.54,3802.17,721,Realbuzz,5/3/2019,12/17/2021,Available
+272,Trail Blazer,cruiser,small,Scott,4228.32,3510.73,40,Tagopia,7/10/2019,6/15/2020,Out of Stock
+273,City Slicker,cruiser,small,Scott,1464.51,2361.46,765,Vinte,12/27/2018,9/2/2020,Available
+274,City Slicker,road,extra-large,Cannondale,2990.94,3183.09,674,Skinte,12/26/2018,7/23/2021,Discontinued
+275,Trail Blazer,BMX,extra-large,Scott,437.72,1338.34,557,Eidel,7/22/2019,4/11/2021,Discontinued
+276,Urban Cruiser,mountain,small,Cannondale,4211.97,2039.79,868,Jaxbean,9/20/2019,2/6/2021,Discontinued
+277,Speed Demon,cruiser,extra-large,Specialized,502.17,1170.25,380,Jabbersphere,5/18/2018,10/14/2021,Discontinued
+278,Mountain Beast,BMX,medium,Scott,3130.1,3175.22,169,Devify,11/28/2018,8/24/2020,Discontinued
+279,City Slicker,cruiser,small,Scott,4988.72,1174.91,470,Zooxo,6/3/2019,6/7/2020,Discontinued
+280,Trail Blazer,hybrid,small,Specialized,1241.41,3112.3,491,Zoovu,6/26/2018,1/3/2020,Discontinued
+281,Urban Cruiser,hybrid,extra-large,Specialized,1497.55,1702.28,238,Meezzy,5/11/2019,8/23/2020,Available
+282,City Slicker,mountain,extra-large,Trek,1803.16,1408.76,972,Dazzlesphere,10/10/2019,3/18/2021,Available
+283,Trail Blazer,mountain,small,Trek,2757.54,1749.24,133,Wordware,12/29/2018,4/10/2021,Discontinued
+284,Trail Blazer,cruiser,small,Giant,694.91,401.05,958,JumpXS,3/1/2018,1/27/2020,Available
+285,Mountain Beast,road,medium,Giant,3924.8,3861.54,871,Divape,1/4/2019,6/7/2020,Available
+286,Mountain Beast,BMX,small,Specialized,2555.83,1068.52,138,Gabvine,8/7/2018,8/16/2020,Out of Stock
+287,Mountain Beast,BMX,medium,Cannondale,2884.99,2977.97,262,Skiba,6/21/2019,3/17/2020,Discontinued
+288,City Slicker,cruiser,large,Specialized,1683.96,588.2,564,Voolith,8/31/2018,1/14/2021,Out of Stock
+289,Urban Cruiser,mountain,small,Specialized,3920.4,1284.86,10,Brainlounge,4/17/2018,9/9/2021,Discontinued
+290,Speed Demon,BMX,small,Cannondale,1146.73,1960.19,869,Yadel,1/27/2019,4/17/2021,Out of Stock
+291,City Slicker,mountain,extra-large,Scott,771.22,3613.63,323,Twitterworks,8/5/2019,12/13/2020,Discontinued
+292,City Slicker,BMX,large,Specialized,2408.4,921.58,179,Photofeed,5/22/2018,2/13/2020,Out of Stock
+293,City Slicker,hybrid,medium,Cannondale,1550.46,1231.03,297,Wordify,2/14/2019,12/15/2020,Available
+294,Urban Cruiser,cruiser,small,Scott,744.47,290.27,871,Yamia,4/30/2019,6/26/2020,Available
+295,City Slicker,hybrid,medium,Specialized,2409.66,202.62,847,Eadel,6/3/2019,3/12/2021,Out of Stock
+296,Speed Demon,hybrid,extra-large,Cannondale,1627.59,2033.71,315,Linktype,1/14/2018,11/2/2020,Discontinued
+297,City Slicker,cruiser,small,Scott,2975.92,2484.38,176,Leenti,10/20/2018,4/29/2021,Out of Stock
+298,Mountain Beast,BMX,small,Giant,1932.37,2254.88,770,Digitube,3/24/2018,4/30/2020,Available
+299,Trail Blazer,cruiser,small,Giant,1555.55,1473.73,831,Jayo,10/9/2019,5/20/2021,Discontinued
+300,Speed Demon,cruiser,large,Specialized,4871.53,1880.87,36,Quamba,1/24/2019,8/25/2021,Discontinued
+301,Trail Blazer,cruiser,large,Specialized,1165.16,946.26,508,Gevee,12/13/2018,7/26/2020,Available
+302,Speed Demon,BMX,small,Specialized,2859.31,3798.35,792,Photobug,9/3/2018,2/2/2020,Discontinued
+303,Mountain Beast,road,large,Specialized,3182.38,945.08,774,Trilith,1/19/2019,12/14/2020,Discontinued
+304,Trail Blazer,road,extra-large,Giant,1865.78,2417.76,16,Reallinks,8/6/2018,1/7/2020,Available
+305,Mountain Beast,cruiser,medium,Cannondale,1954.03,1072.18,621,Youbridge,1/27/2019,4/22/2020,Available
+306,Trail Blazer,cruiser,extra-large,Cannondale,2814.02,1378.52,899,Blogpad,10/1/2018,11/20/2021,Out of Stock
+307,Speed Demon,cruiser,extra-large,Cannondale,3230.39,1794.44,683,LiveZ,5/20/2019,1/12/2020,Out of Stock
+308,Trail Blazer,road,extra-large,Trek,1915.56,1498.41,921,Oloo,5/7/2019,11/26/2020,Out of Stock
+309,Urban Cruiser,road,small,Scott,1159.59,403.25,1,Npath,4/21/2018,12/17/2020,Out of Stock
+310,Mountain Beast,cruiser,extra-large,Trek,3610.4,1919.08,700,Katz,12/24/2019,1/4/2021,Out of Stock
+311,Speed Demon,hybrid,medium,Giant,3089.23,2595.6,152,Midel,12/7/2018,6/2/2021,Available
+312,Urban Cruiser,hybrid,medium,Scott,2134.46,2380.05,8,Gabtune,9/4/2018,3/16/2021,Available
+313,Mountain Beast,BMX,small,Scott,992.68,2269.59,978,Yakitri,2/17/2019,1/12/2021,Discontinued
+314,Mountain Beast,road,large,Giant,1327.27,1575.5,428,Buzzdog,4/28/2018,3/26/2020,Discontinued
+315,Urban Cruiser,road,medium,Specialized,1819.71,1471.29,530,Midel,2/4/2018,8/17/2020,Available
+316,Speed Demon,hybrid,extra-large,Trek,4404.66,581.51,879,Riffwire,6/28/2018,8/23/2020,Discontinued
+317,Mountain Beast,BMX,extra-large,Cannondale,4989.22,2449.47,164,Yodel,2/18/2018,6/5/2020,Out of Stock
+318,City Slicker,cruiser,small,Specialized,1070.5,2655.97,339,Browsedrive,7/3/2019,7/4/2020,Available
+319,City Slicker,cruiser,large,Giant,1816.59,2683.62,58,Topicstorm,6/23/2019,2/19/2021,Available
+320,Trail Blazer,BMX,medium,Giant,4231.66,2338.24,109,Kaymbo,9/10/2019,2/28/2020,Discontinued
+321,Speed Demon,road,large,Trek,4180.79,968.51,773,Jabbercube,4/26/2019,6/29/2021,Discontinued
+322,Mountain Beast,BMX,extra-large,Scott,2390.73,1309.08,496,Fadeo,1/11/2018,3/25/2021,Available
+323,Speed Demon,hybrid,small,Specialized,4276.63,2105.91,353,Fiveclub,10/7/2019,1/30/2021,Available
+324,Mountain Beast,mountain,medium,Specialized,1134.76,333.18,906,Devbug,7/9/2019,4/4/2021,Available
+325,Urban Cruiser,mountain,large,Trek,3715.24,1795.33,290,Tavu,9/7/2019,5/12/2021,Discontinued
+326,City Slicker,cruiser,medium,Giant,617.14,550.42,761,Aivee,8/22/2018,2/12/2020,Discontinued
+327,Speed Demon,hybrid,extra-large,Cannondale,1862.4,3506.74,731,Quire,8/2/2018,10/3/2021,Out of Stock
+328,Mountain Beast,BMX,large,Specialized,4862.64,135.07,825,Twitterbeat,11/16/2018,6/23/2021,Discontinued
+329,City Slicker,road,medium,Scott,3592.66,972.72,725,Topicstorm,5/6/2018,5/11/2020,Discontinued
+330,Speed Demon,BMX,large,Scott,1723.78,2648.33,610,Chatterpoint,8/28/2018,12/29/2021,Discontinued
+331,City Slicker,cruiser,large,Specialized,88.95,312.33,948,Jabbersphere,12/18/2018,7/1/2021,Discontinued
+332,Speed Demon,mountain,small,Specialized,4631.37,2329.92,117,Kazio,3/23/2019,2/14/2020,Available
+333,Speed Demon,cruiser,small,Scott,4793.55,1117.85,150,Youbridge,6/28/2019,6/22/2021,Out of Stock
+334,Speed Demon,mountain,large,Specialized,523.49,1924.12,748,Realbuzz,5/2/2018,5/4/2021,Out of Stock
+335,Speed Demon,mountain,large,Cannondale,1480.43,1983.59,948,Meedoo,10/27/2018,8/26/2020,Discontinued
+336,Urban Cruiser,cruiser,extra-large,Giant,844.89,712.47,831,Yata,4/11/2019,4/19/2021,Discontinued
+337,Speed Demon,mountain,extra-large,Trek,857.23,2280.33,225,Dabtype,10/15/2019,12/10/2021,Available
+338,Speed Demon,road,extra-large,Giant,4314.3,2496.73,199,Gabcube,1/7/2018,2/12/2021,Discontinued
+339,Trail Blazer,road,large,Scott,3867.97,1117.33,306,Skiptube,8/8/2018,10/8/2021,Out of Stock
+340,Trail Blazer,mountain,medium,Scott,4701.9,388.61,345,Edgewire,7/14/2018,12/22/2020,Out of Stock
+341,City Slicker,cruiser,extra-large,Scott,3387.97,1643.57,253,Dynabox,11/3/2018,9/17/2020,Discontinued
+342,City Slicker,cruiser,small,Specialized,4050.43,1726.9,381,Realblab,11/10/2018,10/28/2021,Discontinued
+343,City Slicker,cruiser,extra-large,Specialized,521.1,290.99,397,Kwideo,11/30/2018,3/23/2021,Available
+344,City Slicker,BMX,large,Giant,3132.29,1172.68,334,Thoughtblab,5/11/2019,8/6/2021,Discontinued
+345,Urban Cruiser,cruiser,medium,Giant,4846.7,1758.02,447,Tagcat,3/6/2018,11/22/2021,Available
+346,Urban Cruiser,road,large,Scott,1837.5,762.12,80,Ntags,4/19/2018,4/16/2021,Discontinued
+347,Speed Demon,BMX,medium,Specialized,1797.39,2041.56,407,Tagcat,9/6/2018,5/13/2020,Out of Stock
+348,Mountain Beast,road,large,Trek,3838.78,983.92,198,Flashset,4/12/2018,7/8/2020,Available
+349,Mountain Beast,cruiser,small,Giant,4212.39,245.43,157,Zoozzy,11/6/2019,3/14/2020,Available
+350,Mountain Beast,BMX,small,Trek,1589.72,322.01,126,Camido,3/28/2018,8/14/2021,Discontinued
+351,Trail Blazer,cruiser,extra-large,Scott,1478.12,270.4,498,Ainyx,5/6/2018,10/26/2021,Discontinued
+352,Mountain Beast,BMX,extra-large,Cannondale,4875.37,2950.24,2,Shuffledrive,1/5/2019,6/26/2020,Out of Stock
+353,Speed Demon,road,small,Trek,4943.68,1908.4,498,Mycat,5/12/2018,2/11/2020,Out of Stock
+354,Mountain Beast,road,medium,Cannondale,4466.51,1393.84,856,Eazzy,8/8/2019,1/23/2021,Discontinued
+355,City Slicker,BMX,small,Scott,1231.2,2516.33,983,Shufflebeat,2/12/2019,2/12/2021,Available
+356,Mountain Beast,BMX,small,Cannondale,4664.08,2035.83,343,Wordware,12/8/2019,1/1/2021,Discontinued
+357,Trail Blazer,road,extra-large,Cannondale,1886.7,2015.31,453,Mybuzz,2/28/2018,1/21/2021,Out of Stock
+358,Urban Cruiser,road,medium,Specialized,3127.77,284.75,952,Gabspot,7/30/2019,8/1/2021,Out of Stock
+359,Trail Blazer,road,extra-large,Cannondale,3209.5,1425.14,804,Riffwire,9/16/2019,7/26/2020,Available
+360,City Slicker,mountain,small,Trek,2023.03,3865.42,183,Gabtype,3/24/2018,11/15/2021,Discontinued
+361,Mountain Beast,hybrid,large,Trek,1438.13,1169.08,485,Rhynoodle,11/28/2018,4/25/2021,Discontinued
+362,Speed Demon,cruiser,large,Giant,115.66,142.14,500,Innojam,5/22/2019,7/10/2020,Discontinued
+363,Trail Blazer,hybrid,medium,Scott,1549.8,1102.6,638,Eamia,11/5/2019,9/8/2021,Out of Stock
+364,Mountain Beast,mountain,small,Trek,885.81,1705.08,826,Linktype,8/31/2018,5/6/2020,Discontinued
+365,Mountain Beast,cruiser,small,Trek,2849.94,1678.48,441,Browsecat,9/3/2019,8/8/2021,Available
+366,Speed Demon,cruiser,small,Specialized,4251.67,1156.09,868,Roomm,7/12/2019,8/4/2020,Available
+367,Trail Blazer,hybrid,extra-large,Cannondale,4860.8,3636.22,299,Avaveo,2/22/2018,1/25/2020,Available
+368,Trail Blazer,hybrid,medium,Scott,2528.56,2434.93,429,Divavu,6/6/2019,7/16/2020,Available
+369,Urban Cruiser,road,medium,Scott,214.74,928.19,456,Flipbug,8/14/2019,4/25/2020,Discontinued
+370,Speed Demon,mountain,medium,Specialized,4578.69,3948.99,866,Dynabox,9/13/2019,2/7/2021,Available
+371,City Slicker,cruiser,large,Cannondale,572.53,168.26,469,Shuffledrive,4/3/2019,4/2/2020,Discontinued
+372,Urban Cruiser,hybrid,extra-large,Cannondale,2089.2,3788.75,549,Zoonder,2/9/2018,3/2/2020,Available
+373,Speed Demon,cruiser,medium,Scott,2569.18,1026.95,115,Jaxspan,12/20/2018,8/21/2021,Out of Stock
+374,Mountain Beast,road,medium,Scott,752.88,358.33,67,Brainsphere,4/7/2018,12/12/2020,Discontinued
+375,Urban Cruiser,BMX,small,Giant,2042.95,1614.64,106,Katz,5/4/2018,10/8/2020,Out of Stock
+376,Trail Blazer,mountain,extra-large,Specialized,2157.45,1573.41,414,Oba,6/12/2019,5/5/2020,Out of Stock
+377,Speed Demon,road,medium,Trek,4484.51,424.85,657,Abatz,6/28/2019,9/5/2021,Discontinued
+378,City Slicker,road,large,Giant,4857.08,1020.22,659,Flashdog,2/3/2018,4/19/2021,Available
+379,Mountain Beast,cruiser,extra-large,Trek,1735.7,549.25,666,Brainbox,12/30/2019,1/11/2020,Available
+380,Mountain Beast,BMX,extra-large,Cannondale,595.67,3938.75,789,Livetube,4/29/2019,12/12/2020,Available
+381,Trail Blazer,cruiser,small,Trek,869.46,250.5,597,Feedfish,12/20/2019,6/11/2020,Out of Stock
+382,Trail Blazer,hybrid,large,Specialized,3774.29,735.48,244,Livefish,9/4/2019,10/6/2020,Available
+383,City Slicker,BMX,large,Trek,1815.53,2295.34,301,Chatterpoint,10/3/2019,3/30/2021,Available
+384,City Slicker,mountain,small,Giant,4983.85,3859.88,701,Lazzy,4/8/2019,10/20/2021,Out of Stock
+385,Urban Cruiser,BMX,small,Cannondale,1775.25,3667.58,518,Lazzy,5/21/2018,11/15/2021,Discontinued
+386,Speed Demon,cruiser,extra-large,Scott,344.36,2111.23,126,Mymm,3/9/2019,12/25/2021,Out of Stock
+387,Speed Demon,mountain,large,Specialized,3554.94,2277.12,713,Twiyo,11/3/2019,12/24/2020,Discontinued
+388,Mountain Beast,hybrid,large,Scott,4381.51,3529.93,682,Jaxnation,2/5/2018,2/27/2021,Discontinued
+389,Urban Cruiser,mountain,large,Giant,4485.7,1948.85,374,Zoomzone,7/5/2018,5/23/2021,Out of Stock
+390,Mountain Beast,road,large,Giant,3081.12,1044.13,493,Lajo,2/28/2018,4/4/2020,Out of Stock
+391,Mountain Beast,road,extra-large,Scott,4390.13,1422.29,630,Lazz,11/11/2018,11/24/2021,Discontinued
+392,Mountain Beast,cruiser,extra-large,Giant,2194.28,839.94,814,Meetz,9/16/2019,10/8/2021,Discontinued
+393,City Slicker,cruiser,extra-large,Trek,2642.12,2229.54,632,Zava,8/18/2018,3/8/2021,Discontinued
+394,City Slicker,cruiser,medium,Trek,3772.23,2386.29,350,BlogXS,11/17/2018,7/25/2020,Discontinued
+395,Trail Blazer,cruiser,extra-large,Cannondale,4016.9,3194.19,200,Brightdog,6/11/2018,9/22/2020,Out of Stock
+396,Urban Cruiser,hybrid,large,Cannondale,3358.28,2519.42,689,Dynabox,7/30/2018,11/6/2020,Available
+397,Trail Blazer,mountain,small,Cannondale,1702.15,331.92,601,Gabspot,1/11/2019,12/15/2021,Available
+398,City Slicker,road,medium,Cannondale,2599.74,2979.96,775,Yombu,11/10/2019,10/15/2021,Discontinued
+399,City Slicker,road,extra-large,Scott,1802.37,1730.03,501,Dabvine,11/14/2019,5/14/2021,Out of Stock
+400,City Slicker,BMX,medium,Giant,177.8,3398.06,205,Oodoo,4/10/2018,5/19/2020,Available
+401,Mountain Beast,road,extra-large,Trek,4738.94,1546.64,624,Quatz,9/30/2019,10/1/2020,Out of Stock
+402,Speed Demon,hybrid,large,Giant,1135.83,650.42,583,Twimm,7/30/2018,6/23/2020,Discontinued
+403,City Slicker,cruiser,extra-large,Cannondale,2203.79,3740.16,388,Gigaclub,6/5/2018,3/31/2021,Out of Stock
+404,Urban Cruiser,road,medium,Scott,2508.31,3760.41,306,Gabspot,12/22/2018,2/26/2021,Out of Stock
+405,City Slicker,BMX,small,Specialized,3558.3,3463.61,461,Reallinks,11/6/2019,1/3/2021,Discontinued
+406,Speed Demon,BMX,extra-large,Specialized,4100.11,394.67,79,Skinix,4/4/2018,12/11/2021,Discontinued
+407,City Slicker,mountain,large,Giant,3289.66,125.36,550,Zazio,5/14/2018,10/4/2020,Available
+408,Urban Cruiser,BMX,large,Cannondale,1218.89,943.59,990,Plambee,7/18/2018,9/9/2021,Discontinued
+409,Mountain Beast,hybrid,small,Giant,3653.23,3606.2,611,Mycat,10/7/2018,10/29/2020,Available
+410,Mountain Beast,cruiser,large,Trek,529.04,1367.58,42,Jayo,6/18/2019,7/21/2020,Out of Stock
+411,Mountain Beast,hybrid,large,Cannondale,2626.55,546.26,399,Realcube,10/11/2018,6/11/2020,Discontinued
+412,Urban Cruiser,BMX,large,Specialized,950.5,1531.55,179,Lazz,6/28/2018,5/31/2020,Available
+413,City Slicker,cruiser,small,Specialized,1501.86,713.81,803,Centimia,10/1/2018,6/17/2020,Available
+414,Urban Cruiser,cruiser,extra-large,Cannondale,3959.23,1493.55,42,Gabtype,4/12/2018,5/11/2021,Available
+415,Trail Blazer,cruiser,large,Giant,4016.7,1114.28,196,Meezzy,12/3/2019,11/20/2020,Available
+416,Urban Cruiser,hybrid,small,Scott,3913.93,2921.98,693,Yakitri,1/25/2019,12/17/2020,Available
+417,City Slicker,cruiser,extra-large,Scott,3867.44,1360.25,786,Buzzshare,3/18/2019,9/25/2020,Discontinued
+418,Mountain Beast,cruiser,small,Scott,760.02,1717.3,303,Realcube,2/27/2019,4/24/2021,Available
+419,Speed Demon,mountain,extra-large,Scott,4479.62,2730.49,324,Snaptags,10/24/2019,4/15/2020,Out of Stock
+420,Urban Cruiser,road,medium,Scott,4316.93,960.79,284,Tagfeed,8/18/2019,6/14/2020,Out of Stock
+421,City Slicker,road,extra-large,Trek,639.61,2884.93,903,Devify,4/11/2018,10/23/2020,Out of Stock
+422,Urban Cruiser,mountain,large,Giant,2218.77,3507.72,822,Ainyx,4/17/2018,6/12/2021,Discontinued
+423,City Slicker,hybrid,extra-large,Specialized,3373.25,791.22,158,Mydeo,4/2/2018,3/20/2020,Available
+424,City Slicker,mountain,small,Trek,590.28,1557.26,122,Rhynoodle,10/3/2018,4/5/2020,Discontinued
+425,Urban Cruiser,BMX,extra-large,Specialized,4359.93,2926.9,570,Zoomzone,3/10/2018,8/26/2020,Available
+426,Trail Blazer,road,large,Trek,2809.69,3003.3,763,Thoughtworks,3/11/2019,12/10/2021,Available
+427,Trail Blazer,road,small,Specialized,689.58,3379.92,101,Nlounge,5/18/2019,3/4/2020,Out of Stock
+428,Urban Cruiser,BMX,medium,Trek,611.58,2359.9,647,Centidel,3/21/2018,10/21/2020,Available
+429,City Slicker,hybrid,small,Giant,2381.72,922.88,457,Yodo,7/3/2018,3/3/2021,Out of Stock
+430,City Slicker,hybrid,medium,Giant,1676.68,2659.27,786,InnoZ,1/30/2019,6/18/2021,Discontinued
+431,City Slicker,mountain,small,Cannondale,955.24,1991.24,799,Skimia,8/24/2018,12/14/2021,Available
+432,City Slicker,hybrid,extra-large,Scott,1563.61,345.49,410,Eamia,1/25/2019,2/1/2021,Available
+433,Urban Cruiser,BMX,large,Cannondale,1138.13,2213.25,955,Meeveo,11/6/2018,3/4/2020,Discontinued
+434,Trail Blazer,mountain,small,Giant,4099.8,3134.4,597,Youspan,6/7/2018,9/14/2021,Discontinued
+435,Trail Blazer,road,large,Cannondale,4531.94,1037.23,993,Photospace,11/29/2018,5/26/2021,Available
+436,City Slicker,cruiser,large,Cannondale,4673.8,657.38,132,Feedmix,3/17/2018,7/19/2020,Available
+437,Trail Blazer,hybrid,extra-large,Scott,3756.25,2496.43,405,DabZ,5/18/2018,11/29/2020,Available
+438,City Slicker,hybrid,small,Cannondale,206.85,2003.79,332,Babbleblab,7/17/2018,9/7/2020,Available
+439,Urban Cruiser,hybrid,small,Trek,1566.34,2621.45,593,Oyoloo,3/15/2018,3/3/2021,Discontinued
+440,Speed Demon,mountain,small,Trek,533.68,972.97,784,Tanoodle,6/6/2018,6/23/2021,Out of Stock
+441,Mountain Beast,hybrid,small,Trek,4532.78,1065.96,119,Livepath,8/26/2018,7/16/2021,Out of Stock
+442,Urban Cruiser,BMX,large,Cannondale,1037.35,2632.82,233,Buzzshare,11/25/2019,4/24/2021,Out of Stock
+443,Mountain Beast,BMX,medium,Trek,1352.03,1530.42,846,Leenti,9/26/2018,11/7/2020,Available
+444,Speed Demon,BMX,medium,Trek,417.82,279.67,585,Aivee,1/31/2019,6/22/2020,Available
+445,Mountain Beast,mountain,extra-large,Cannondale,1253.14,333.24,210,Kaymbo,9/29/2018,1/29/2020,Out of Stock
+446,Trail Blazer,road,large,Specialized,4158.28,2759.21,859,Browsebug,5/28/2019,2/7/2020,Discontinued
+447,Urban Cruiser,hybrid,large,Specialized,2158.46,3139.77,963,Quinu,10/11/2019,11/4/2021,Discontinued
+448,Speed Demon,hybrid,extra-large,Cannondale,1049.85,3296.48,510,Oyoba,3/7/2018,4/14/2021,Available
+449,Trail Blazer,cruiser,large,Scott,3628.92,1491.21,19,Buzzshare,1/29/2018,8/23/2021,Available
+450,City Slicker,mountain,small,Specialized,2430.77,3874.04,63,Jaxspan,7/21/2019,1/4/2020,Available
+451,Speed Demon,BMX,large,Cannondale,381.42,3070.92,11,JumpXS,5/22/2019,3/4/2021,Discontinued
+452,City Slicker,road,small,Specialized,3799.73,539.43,408,Yodel,3/21/2019,5/31/2021,Available
+453,Speed Demon,cruiser,small,Trek,1255.16,2842.02,963,Yakijo,8/19/2018,4/6/2020,Out of Stock
+454,City Slicker,road,extra-large,Cannondale,3944.67,2122.33,369,Fliptune,5/6/2018,1/11/2020,Available
+455,Speed Demon,road,small,Giant,2735.85,3407.92,395,Quinu,6/23/2019,10/13/2021,Available
+456,City Slicker,road,large,Trek,2102.62,3515.26,255,Shufflebeat,8/18/2018,10/25/2021,Available
+457,Speed Demon,mountain,large,Giant,4674.1,1450.66,19,Twinte,7/18/2018,4/10/2020,Discontinued
+458,Trail Blazer,mountain,large,Scott,1859.17,3332.44,114,Chatterpoint,5/23/2018,10/8/2020,Discontinued
+459,Mountain Beast,BMX,small,Scott,3067.5,663.99,449,Voomm,5/25/2018,8/6/2020,Available
+460,Urban Cruiser,hybrid,medium,Trek,3296.73,618.02,710,Skyble,1/26/2019,12/10/2020,Discontinued
+461,City Slicker,mountain,large,Trek,762.7,2436.1,944,Mynte,10/4/2019,1/23/2020,Available
+462,Urban Cruiser,hybrid,small,Trek,1701.99,2389.02,604,Browseblab,2/26/2019,1/27/2020,Out of Stock
+463,Urban Cruiser,cruiser,small,Giant,325.55,2548.43,456,Demimbu,3/7/2018,7/18/2021,Out of Stock
+464,Speed Demon,road,medium,Trek,1085.65,2660.97,19,Edgetag,5/17/2019,9/29/2020,Discontinued
+465,City Slicker,cruiser,small,Trek,3792.12,689.78,991,Jaxworks,11/3/2018,5/25/2020,Discontinued
+466,Urban Cruiser,cruiser,large,Trek,804.73,3274.67,236,Yoveo,2/22/2018,6/13/2020,Available
+467,City Slicker,hybrid,extra-large,Cannondale,2831.14,2548.96,473,Kwilith,2/8/2018,9/9/2021,Discontinued
+468,Speed Demon,cruiser,medium,Scott,4228.36,3379.17,899,Twitterworks,3/21/2019,5/10/2020,Available
+469,City Slicker,road,large,Trek,4905.1,3889.67,851,Aivee,7/17/2019,5/9/2020,Available
+470,City Slicker,cruiser,extra-large,Trek,2615.48,3082.52,274,Oyope,4/26/2018,10/2/2020,Discontinued
+471,Urban Cruiser,BMX,extra-large,Specialized,3474.89,2627.22,544,Riffwire,9/29/2018,7/22/2020,Discontinued
+472,Urban Cruiser,hybrid,small,Trek,2868.04,3579.5,341,Yamia,5/14/2018,1/14/2020,Discontinued
+473,City Slicker,road,extra-large,Cannondale,332.97,390.36,913,Oyoyo,1/31/2019,2/5/2020,Out of Stock
+474,Trail Blazer,road,extra-large,Specialized,1638.47,1519.53,163,Skyba,2/4/2018,12/9/2020,Available
+475,Mountain Beast,BMX,large,Specialized,2022.17,3358.26,878,Podcat,1/7/2018,5/22/2020,Available
+476,Urban Cruiser,hybrid,extra-large,Specialized,3845.01,397.53,399,Eabox,9/10/2018,11/4/2021,Discontinued
+477,Urban Cruiser,road,medium,Trek,3305.64,3782.57,620,Cogilith,8/14/2019,11/9/2020,Available
+478,Speed Demon,hybrid,small,Giant,2176.01,3508.08,609,Jazzy,7/13/2018,2/27/2021,Out of Stock
+479,Trail Blazer,cruiser,small,Trek,4279.63,455.35,795,Tekfly,6/3/2018,11/27/2021,Out of Stock
+480,Mountain Beast,mountain,small,Scott,3461.35,163.26,773,Avamba,1/1/2018,12/21/2020,Available
+481,Speed Demon,hybrid,small,Specialized,1946.93,1571.86,382,Yacero,11/10/2019,3/14/2020,Discontinued
+482,Trail Blazer,hybrid,small,Specialized,4916.6,1498.7,449,Teklist,4/18/2019,4/19/2021,Discontinued
+483,City Slicker,road,extra-large,Trek,2177.76,2876.69,912,Aimbu,2/28/2019,7/14/2020,Discontinued
+484,Speed Demon,mountain,medium,Giant,4507.16,3669.15,507,Npath,8/11/2018,10/29/2020,Available
+485,Speed Demon,mountain,extra-large,Trek,501.46,1588.35,59,Kare,3/12/2018,4/21/2021,Out of Stock
+486,City Slicker,mountain,medium,Giant,4533.52,1027.93,765,Flashspan,11/27/2019,9/18/2021,Available
+487,Trail Blazer,road,large,Giant,3899.76,1386.73,778,Wordpedia,6/17/2019,5/3/2020,Available
+488,Urban Cruiser,mountain,extra-large,Specialized,207.11,87.49,482,Realbuzz,3/2/2018,9/25/2021,Discontinued
+489,Urban Cruiser,cruiser,medium,Specialized,1984.78,158.13,83,Geba,9/24/2019,8/27/2021,Out of Stock
+490,Mountain Beast,road,extra-large,Scott,1436.88,1976.42,423,Kazu,8/22/2019,2/12/2020,Available
+491,City Slicker,road,medium,Giant,3259.89,2716.54,484,Dynazzy,4/26/2018,3/22/2021,Available
+492,Trail Blazer,road,small,Trek,1634.76,2222.44,916,Skibox,2/27/2019,2/29/2020,Out of Stock
+493,Trail Blazer,BMX,medium,Trek,772.49,2028.03,269,Meetz,9/7/2019,4/2/2020,Out of Stock
+494,Trail Blazer,BMX,medium,Giant,365.73,2339.96,617,Yadel,5/14/2018,7/23/2020,Out of Stock
+495,Speed Demon,mountain,large,Specialized,4801.02,3268.02,142,Skipfire,1/3/2019,10/21/2020,Discontinued
+496,Urban Cruiser,hybrid,medium,Cannondale,1386.33,962.51,43,Skidoo,12/4/2019,1/28/2020,Discontinued
+497,Mountain Beast,cruiser,extra-large,Cannondale,2585.11,488.22,355,Realblab,1/8/2018,12/11/2021,Available
+498,Trail Blazer,hybrid,medium,Specialized,2955.32,1355.66,908,Wordpedia,6/4/2018,12/22/2021,Discontinued
+499,Speed Demon,mountain,small,Cannondale,3755.48,1220.2,771,Zoomzone,1/3/2019,7/29/2020,Available
+500,Trail Blazer,cruiser,medium,Cannondale,2850.6,2531.79,277,Mynte,10/9/2018,11/11/2020,Available
+501,Trail Blazer,hybrid,medium,Trek,258.74,704.11,279,Tekfly,1/28/2019,8/11/2020,Discontinued
+502,Trail Blazer,hybrid,medium,Cannondale,2509.69,2142.63,721,Buzzdog,2/27/2018,3/29/2021,Discontinued
+503,Mountain Beast,road,large,Giant,2828.92,2798.33,282,Skinix,5/4/2019,9/18/2021,Out of Stock
+504,Speed Demon,hybrid,medium,Cannondale,1989.26,1641.73,219,Oodoo,5/3/2019,9/1/2020,Available
+505,Urban Cruiser,hybrid,large,Cannondale,4082.03,3363.46,143,Zoovu,1/18/2018,4/14/2021,Discontinued
+506,Mountain Beast,hybrid,medium,Scott,2818.94,744.01,332,Twitternation,8/19/2019,9/1/2020,Discontinued
+507,Urban Cruiser,BMX,large,Scott,90.44,377.36,791,Dabvine,4/17/2018,12/19/2021,Available
+508,Mountain Beast,hybrid,medium,Cannondale,83.33,3158.25,513,Mudo,9/29/2019,12/17/2021,Out of Stock
+509,Urban Cruiser,mountain,extra-large,Giant,2913.27,3689.95,997,Blognation,3/7/2018,5/24/2021,Discontinued
+510,Trail Blazer,cruiser,medium,Specialized,394.07,2493.64,359,Leenti,8/10/2018,4/13/2020,Out of Stock
+511,Mountain Beast,BMX,small,Giant,2294.88,411.29,517,Blogpad,4/18/2019,3/26/2021,Out of Stock
+512,Speed Demon,BMX,small,Cannondale,3751.77,1445.87,141,Kayveo,8/9/2018,10/23/2020,Out of Stock
+513,Trail Blazer,hybrid,small,Giant,1365.65,3182.73,859,Meemm,2/20/2019,3/30/2020,Available
+514,Mountain Beast,BMX,extra-large,Cannondale,4505.83,3280.77,252,Kayveo,8/12/2019,12/19/2020,Available
+515,Speed Demon,BMX,medium,Cannondale,1993.61,828.4,716,Gabtune,1/9/2018,5/17/2021,Out of Stock
+516,Mountain Beast,hybrid,medium,Scott,1869.83,2549.31,635,Kimia,3/30/2019,11/23/2021,Out of Stock
+517,Trail Blazer,hybrid,medium,Cannondale,4391.94,3029.92,137,Rhycero,1/28/2018,10/3/2020,Out of Stock
+518,Trail Blazer,cruiser,large,Scott,3253.39,1335.96,900,Skiptube,10/7/2019,3/4/2020,Available
+519,City Slicker,road,medium,Cannondale,3311.56,1243.37,204,Abatz,5/8/2018,6/17/2021,Available
+520,Urban Cruiser,cruiser,large,Giant,207.24,496.1,870,Eimbee,11/29/2018,12/16/2021,Discontinued
+521,Urban Cruiser,mountain,small,Giant,3680.58,532.94,271,Jabbercube,5/5/2018,12/28/2021,Discontinued
+522,City Slicker,road,extra-large,Trek,3637.28,412.51,549,Pixoboo,10/17/2019,8/28/2020,Discontinued
+523,Mountain Beast,BMX,large,Giant,1232.56,1084.99,2,Oyope,8/2/2018,8/7/2021,Available
+524,Mountain Beast,road,small,Scott,4536.93,345.33,782,Rhycero,7/7/2018,7/9/2020,Available
+525,Mountain Beast,mountain,large,Specialized,4202.04,2560.07,410,Vipe,8/16/2019,1/13/2021,Discontinued
+526,Urban Cruiser,mountain,large,Specialized,3366.5,2632.15,747,BlogXS,1/12/2018,10/7/2021,Out of Stock
+527,City Slicker,cruiser,extra-large,Specialized,2776.78,1169.6,10,Quire,3/1/2019,11/20/2021,Out of Stock
+528,Speed Demon,cruiser,medium,Scott,3314.02,1569.1,364,Yombu,4/9/2019,5/5/2021,Available
+529,Speed Demon,BMX,medium,Scott,444.39,865.52,965,Zoomcast,8/15/2019,11/2/2020,Discontinued
+530,City Slicker,BMX,small,Cannondale,1437.34,3698.17,444,Mydo,9/17/2018,2/26/2020,Available
+531,City Slicker,road,medium,Specialized,4092.4,2726.05,434,Eabox,6/24/2018,10/7/2020,Discontinued
+532,Urban Cruiser,hybrid,small,Trek,3547.21,1951.3,722,Edgeify,12/1/2018,1/10/2020,Available
+533,Trail Blazer,BMX,medium,Specialized,4403.97,2280.49,885,Wikido,12/1/2019,3/29/2021,Out of Stock
+534,Speed Demon,cruiser,large,Specialized,4719.25,138.9,445,Skyba,5/13/2019,9/16/2020,Discontinued
+535,Mountain Beast,mountain,large,Specialized,707.67,3578.78,327,Skipstorm,2/2/2019,12/27/2020,Out of Stock
+536,City Slicker,hybrid,extra-large,Giant,189.51,3828.32,602,Leexo,4/1/2018,5/26/2021,Discontinued
+537,Mountain Beast,cruiser,large,Giant,1412.87,912.3,798,Jetwire,12/22/2018,5/31/2020,Out of Stock
+538,City Slicker,mountain,large,Cannondale,2095.97,1037.25,289,Youtags,10/17/2018,3/12/2021,Out of Stock
+539,Trail Blazer,cruiser,small,Trek,1892.14,1645.4,206,Browsezoom,8/24/2018,8/4/2021,Available
+540,Speed Demon,road,medium,Trek,4107.37,964.33,375,Tambee,3/25/2018,12/5/2021,Available
+541,Trail Blazer,hybrid,large,Trek,3587.57,1290.33,844,Devbug,9/4/2019,12/27/2020,Out of Stock
+542,Urban Cruiser,road,medium,Specialized,927.41,1020.0,470,Yambee,2/17/2018,9/26/2020,Available
+543,Trail Blazer,cruiser,small,Specialized,1927.31,1857.13,682,Quinu,5/9/2019,7/11/2020,Discontinued
+544,Urban Cruiser,cruiser,large,Giant,3265.96,2947.1,382,Gabtune,9/2/2019,9/14/2020,Out of Stock
+545,Urban Cruiser,cruiser,extra-large,Trek,214.92,3526.65,917,Photofeed,11/17/2018,10/14/2021,Out of Stock
+546,Mountain Beast,hybrid,large,Cannondale,1130.32,3535.96,39,Gigaclub,3/26/2019,8/18/2020,Discontinued
+547,Mountain Beast,hybrid,small,Trek,1048.29,2275.13,657,Zooveo,3/9/2018,8/12/2021,Discontinued
+548,Mountain Beast,road,small,Cannondale,809.29,1209.64,533,Babblestorm,8/6/2019,3/1/2020,Out of Stock
+549,Trail Blazer,mountain,large,Trek,4325.06,2393.66,270,Realfire,5/2/2019,3/6/2021,Discontinued
+550,Speed Demon,cruiser,medium,Specialized,2829.11,976.19,714,Agivu,2/19/2019,11/16/2021,Available
+551,Trail Blazer,mountain,medium,Scott,1766.14,468.68,715,Twinte,2/9/2019,3/3/2021,Discontinued
+552,City Slicker,road,extra-large,Cannondale,4134.9,368.61,331,Thoughtmix,4/12/2019,9/30/2021,Out of Stock
+553,Mountain Beast,BMX,extra-large,Giant,999.22,1526.49,212,Jetpulse,12/4/2019,2/11/2020,Out of Stock
+554,Trail Blazer,cruiser,small,Trek,3712.66,1472.97,549,Quimba,6/18/2019,3/28/2020,Discontinued
+555,Urban Cruiser,hybrid,small,Trek,2290.49,3924.56,484,Fivechat,3/10/2019,8/14/2020,Discontinued
+556,Urban Cruiser,BMX,large,Cannondale,2602.06,270.27,654,Buzzshare,6/13/2018,12/7/2021,Available
+557,Mountain Beast,hybrid,medium,Cannondale,1595.14,644.06,39,Twitternation,7/25/2018,2/8/2021,Available
+558,Mountain Beast,mountain,medium,Specialized,239.65,3507.66,262,Jabbercube,7/27/2019,8/16/2020,Discontinued
+559,Mountain Beast,mountain,medium,Trek,1678.53,2878.66,339,Dynava,11/8/2018,5/13/2021,Out of Stock
+560,Speed Demon,mountain,medium,Specialized,463.75,694.25,427,Realfire,3/14/2019,3/10/2021,Available
+561,Urban Cruiser,road,large,Scott,4401.89,625.01,904,Topdrive,2/27/2018,4/30/2021,Discontinued
+562,Speed Demon,hybrid,small,Giant,3080.31,3563.1,149,Buzzdog,6/15/2019,5/29/2020,Discontinued
+563,Mountain Beast,mountain,small,Giant,1987.04,2859.7,796,Fliptune,10/6/2018,6/30/2021,Discontinued
+564,Trail Blazer,road,large,Scott,4842.34,804.78,480,Lazz,8/22/2019,2/11/2021,Discontinued
+565,Trail Blazer,road,small,Giant,3024.11,997.88,609,Eadel,8/17/2019,6/15/2020,Discontinued
+566,Urban Cruiser,road,large,Scott,61.36,820.42,694,Skyba,2/25/2018,11/2/2020,Out of Stock
+567,City Slicker,cruiser,large,Trek,444.48,1770.17,456,Zoomcast,10/2/2019,7/18/2021,Discontinued
+568,Speed Demon,cruiser,small,Scott,280.7,2701.55,228,Jayo,6/27/2018,7/20/2020,Available
+569,Trail Blazer,road,small,Giant,1059.52,1330.96,81,Yambee,10/30/2019,4/6/2020,Available
+570,Urban Cruiser,BMX,extra-large,Specialized,4810.76,833.91,539,Zoomcast,8/16/2018,5/25/2021,Discontinued
+571,Mountain Beast,mountain,large,Scott,3954.43,3908.88,736,Livetube,10/12/2018,8/24/2021,Discontinued
+572,City Slicker,BMX,extra-large,Cannondale,4710.45,3996.28,518,Skippad,7/18/2018,11/23/2021,Discontinued
+573,Trail Blazer,BMX,small,Cannondale,930.93,1426.53,558,Lazz,8/22/2018,4/25/2020,Out of Stock
+574,Speed Demon,hybrid,medium,Trek,370.69,105.79,703,Photolist,11/7/2018,8/29/2020,Available
+575,Mountain Beast,hybrid,small,Scott,636.98,185.13,688,Skyble,6/16/2019,3/28/2020,Available
+576,Urban Cruiser,BMX,medium,Giant,1087.87,3616.73,620,Fivechat,11/29/2019,2/18/2020,Available
+577,City Slicker,mountain,small,Specialized,3943.17,645.91,307,Trilia,1/1/2019,10/24/2021,Available
+578,City Slicker,road,small,Cannondale,1470.26,1289.16,715,Skalith,10/22/2019,11/16/2021,Discontinued
+579,City Slicker,BMX,medium,Giant,3380.95,835.06,513,Realpoint,8/22/2018,8/4/2020,Out of Stock
+580,Trail Blazer,cruiser,extra-large,Scott,2664.67,2041.24,265,Meedoo,1/22/2018,8/8/2020,Discontinued
+581,Mountain Beast,BMX,large,Specialized,92.48,1090.89,744,Gabcube,6/20/2018,1/1/2021,Out of Stock
+582,City Slicker,road,extra-large,Specialized,1336.69,1352.45,481,Zoovu,3/13/2019,9/17/2021,Available
+583,City Slicker,mountain,small,Scott,1022.36,2771.28,843,Meemm,5/13/2019,10/4/2020,Out of Stock
+584,Trail Blazer,road,small,Giant,3451.91,857.26,936,Meezzy,11/9/2019,10/2/2020,Available
+585,City Slicker,BMX,large,Trek,3605.66,675.1,146,Fliptune,9/16/2018,3/4/2020,Out of Stock
+586,Speed Demon,road,medium,Trek,1728.92,2647.09,129,Realbuzz,1/17/2018,5/27/2020,Discontinued
+587,City Slicker,BMX,medium,Trek,3680.64,1505.93,569,Agimba,9/5/2019,11/21/2020,Available
+588,Mountain Beast,cruiser,extra-large,Trek,589.61,2338.54,348,Brainlounge,6/2/2019,11/4/2020,Out of Stock
+589,Urban Cruiser,cruiser,extra-large,Specialized,3732.13,2532.0,759,Photolist,4/4/2018,11/8/2020,Discontinued
+590,Mountain Beast,BMX,large,Trek,3004.33,1190.04,678,Zooxo,9/23/2019,4/1/2020,Available
+591,Speed Demon,hybrid,small,Trek,2645.07,2404.4,744,Thoughtbeat,12/19/2018,8/12/2020,Available
+592,Urban Cruiser,cruiser,large,Giant,1428.08,3852.85,33,Yamia,11/4/2018,5/25/2021,Available
+593,Mountain Beast,road,medium,Cannondale,703.48,3080.06,846,Photobug,10/1/2019,7/12/2020,Out of Stock
+594,Urban Cruiser,mountain,medium,Trek,780.41,1645.25,719,Devpulse,8/10/2019,9/19/2020,Discontinued
+595,Urban Cruiser,BMX,extra-large,Trek,3313.87,1740.16,6,Thoughtstorm,3/23/2019,1/12/2021,Available
+596,Mountain Beast,cruiser,large,Specialized,706.7,3134.87,630,Einti,2/24/2019,7/14/2020,Discontinued
+597,Speed Demon,cruiser,medium,Cannondale,3449.95,3268.72,796,Flipbug,12/17/2019,5/2/2021,Available
+598,Mountain Beast,cruiser,small,Specialized,795.23,2586.87,756,Zoomlounge,1/13/2018,11/26/2020,Available
+599,Speed Demon,cruiser,medium,Trek,3256.49,737.22,903,Twinder,3/31/2018,12/19/2020,Discontinued
+600,City Slicker,hybrid,medium,Giant,1369.42,2580.14,142,Realblab,12/16/2019,10/1/2021,Out of Stock
+601,City Slicker,road,small,Trek,308.78,3235.51,329,Zoombeat,7/20/2019,8/22/2021,Out of Stock
+602,City Slicker,mountain,small,Specialized,2621.18,1131.6,599,Devpoint,2/3/2019,12/22/2020,Available
+603,Urban Cruiser,mountain,large,Specialized,1250.03,2861.72,255,Ozu,10/3/2019,1/9/2021,Discontinued
+604,Trail Blazer,hybrid,small,Scott,1262.28,2934.03,897,Skimia,4/9/2018,5/4/2020,Available
+605,Mountain Beast,hybrid,extra-large,Trek,637.29,819.29,285,Skajo,8/7/2019,3/27/2020,Available
+606,City Slicker,road,large,Scott,718.96,3843.2,961,Zooxo,7/30/2018,3/16/2021,Discontinued
+607,Trail Blazer,mountain,small,Scott,2298.4,3122.07,692,Snaptags,12/25/2019,5/5/2020,Discontinued
+608,Trail Blazer,cruiser,large,Specialized,4896.51,881.08,380,Skilith,6/9/2018,7/16/2020,Out of Stock
+609,Mountain Beast,road,extra-large,Scott,1249.46,2350.67,728,Dynazzy,10/22/2018,7/27/2021,Available
+610,Mountain Beast,road,extra-large,Giant,569.34,2571.1,699,Linklinks,10/19/2019,7/16/2021,Discontinued
+611,Speed Demon,road,extra-large,Giant,108.94,3196.47,648,Linktype,6/16/2019,10/2/2021,Discontinued
+612,Speed Demon,road,small,Scott,1591.26,373.58,309,Aibox,1/4/2019,11/10/2020,Available
+613,Mountain Beast,road,medium,Giant,3470.49,345.06,380,Devcast,9/19/2018,10/12/2020,Out of Stock
+614,Mountain Beast,BMX,medium,Specialized,2926.05,3227.3,32,DabZ,6/19/2019,12/13/2021,Available
+615,Urban Cruiser,hybrid,extra-large,Scott,3911.2,150.45,726,Vinte,1/19/2019,11/4/2021,Out of Stock
+616,City Slicker,mountain,extra-large,Specialized,1804.89,2832.23,829,Rhybox,2/7/2018,9/16/2021,Available
+617,Speed Demon,mountain,extra-large,Cannondale,520.03,1895.85,31,Kazu,5/8/2018,8/11/2020,Available
+618,City Slicker,hybrid,medium,Trek,945.15,2650.67,725,Zoozzy,2/6/2019,3/21/2020,Out of Stock
+619,Trail Blazer,mountain,extra-large,Scott,793.96,232.48,288,Riffwire,3/2/2019,10/5/2021,Discontinued
+620,Urban Cruiser,road,extra-large,Trek,4339.7,1822.4,83,Topiclounge,10/19/2018,8/24/2021,Out of Stock
+621,City Slicker,BMX,small,Giant,4177.35,1471.28,241,Avaveo,9/22/2019,3/14/2020,Available
+622,City Slicker,BMX,extra-large,Giant,2172.33,1201.97,307,Brainbox,1/17/2018,3/17/2021,Available
+623,Mountain Beast,hybrid,large,Cannondale,156.99,1926.47,101,Eamia,3/9/2019,1/10/2020,Out of Stock
+624,Trail Blazer,hybrid,extra-large,Giant,962.36,1203.56,947,Skajo,5/30/2019,7/2/2020,Available
+625,Urban Cruiser,cruiser,medium,Scott,178.78,3544.94,160,Thoughtstorm,6/26/2018,9/28/2020,Out of Stock
+626,Mountain Beast,cruiser,extra-large,Specialized,254.86,1853.47,980,Skippad,4/23/2019,8/24/2020,Discontinued
+627,Urban Cruiser,road,extra-large,Cannondale,2971.31,2334.0,973,Fliptune,8/27/2019,9/11/2021,Out of Stock
+628,Mountain Beast,cruiser,extra-large,Cannondale,1544.89,2179.92,292,Babbleblab,5/5/2019,11/4/2020,Discontinued
+629,Trail Blazer,mountain,extra-large,Specialized,3489.63,1806.9,671,Avamba,8/6/2018,2/1/2020,Out of Stock
+630,Mountain Beast,cruiser,extra-large,Specialized,3588.52,106.54,285,Dabtype,10/18/2019,9/8/2021,Discontinued
+631,City Slicker,hybrid,large,Specialized,1728.17,1439.89,14,Voonder,4/27/2019,11/24/2020,Available
+632,Trail Blazer,cruiser,medium,Trek,4023.03,828.6,270,Jaxnation,8/13/2018,8/11/2021,Available
+633,City Slicker,cruiser,large,Trek,3494.93,1245.63,907,Oloo,2/5/2019,11/5/2021,Available
+634,Speed Demon,cruiser,medium,Specialized,617.14,2571.77,862,Photojam,10/12/2018,10/25/2020,Out of Stock
+635,Urban Cruiser,BMX,large,Cannondale,1583.79,3961.77,512,Topiczoom,12/9/2019,10/7/2020,Available
+636,Urban Cruiser,mountain,extra-large,Giant,1697.33,1790.21,612,Skidoo,11/29/2018,4/5/2021,Out of Stock
+637,City Slicker,mountain,small,Giant,2111.05,3976.25,179,Twimm,12/8/2018,4/14/2020,Out of Stock
+638,City Slicker,mountain,large,Specialized,1097.27,3688.31,548,Skalith,8/3/2019,7/18/2020,Out of Stock
+639,Mountain Beast,hybrid,large,Scott,1901.37,2362.19,238,Brainlounge,4/10/2019,9/5/2020,Available
+640,Urban Cruiser,road,extra-large,Trek,2297.92,1588.2,961,Trudoo,9/30/2018,8/30/2021,Available
+641,City Slicker,BMX,extra-large,Scott,3757.45,617.67,754,Dynabox,12/9/2019,7/31/2020,Available
+642,Speed Demon,road,medium,Specialized,527.98,634.36,387,Minyx,8/30/2019,6/28/2020,Discontinued
+643,City Slicker,mountain,extra-large,Trek,4346.43,3039.42,317,Miboo,7/16/2019,9/24/2020,Out of Stock
+644,Speed Demon,road,small,Cannondale,762.45,2889.85,844,Geba,3/2/2018,5/10/2020,Out of Stock
+645,Trail Blazer,road,medium,Trek,3564.41,2055.83,877,Miboo,7/16/2019,4/20/2021,Discontinued
+646,Trail Blazer,hybrid,large,Giant,3902.22,713.86,159,Flipstorm,12/21/2019,11/2/2020,Available
+647,Speed Demon,road,small,Cannondale,2151.7,1024.68,484,Babblestorm,7/15/2019,11/8/2020,Discontinued
+648,Speed Demon,hybrid,small,Specialized,4980.9,1962.19,210,Jetwire,2/20/2018,9/18/2020,Out of Stock
+649,Urban Cruiser,hybrid,small,Specialized,1597.04,45.94,375,Quimm,7/20/2018,11/5/2020,Available
+650,Trail Blazer,mountain,large,Scott,4126.67,658.01,829,Browsedrive,4/19/2019,9/24/2020,Available
+651,Trail Blazer,mountain,small,Cannondale,3711.38,3603.11,339,Youbridge,1/24/2018,6/23/2020,Available
+652,City Slicker,mountain,large,Specialized,2599.83,2377.04,518,Linklinks,6/14/2018,5/29/2020,Discontinued
+653,Trail Blazer,BMX,extra-large,Scott,924.48,3840.63,55,Dablist,5/21/2019,8/24/2020,Discontinued
+654,City Slicker,mountain,large,Cannondale,2377.22,2221.17,159,Jaxbean,5/19/2018,7/31/2021,Discontinued
+655,Mountain Beast,hybrid,large,Scott,4921.61,763.29,822,Photobug,12/28/2018,6/11/2020,Out of Stock
+656,Trail Blazer,mountain,medium,Trek,4892.73,1759.19,739,Realblab,8/22/2019,2/10/2021,Out of Stock
+657,Speed Demon,road,extra-large,Specialized,532.23,3298.02,289,Tazz,1/6/2018,9/14/2021,Available
+658,City Slicker,BMX,medium,Specialized,1717.37,1120.28,314,Livetube,3/26/2019,11/3/2021,Out of Stock
+659,Trail Blazer,road,extra-large,Trek,2133.33,3768.95,850,Tagcat,7/16/2019,6/11/2021,Available
+660,Mountain Beast,hybrid,small,Specialized,4040.36,3220.01,153,Zoombox,12/6/2018,4/16/2020,Available
+661,City Slicker,road,small,Giant,1874.27,1039.79,696,Geba,7/20/2019,5/28/2020,Available
+662,Speed Demon,hybrid,large,Specialized,4637.11,2575.86,440,Devshare,10/29/2018,1/4/2020,Out of Stock
+663,Speed Demon,mountain,large,Scott,4026.38,1364.9,736,Jayo,3/8/2019,7/20/2020,Available
+664,Urban Cruiser,BMX,small,Specialized,4399.06,541.51,816,Gabspot,3/26/2018,11/3/2020,Discontinued
+665,Speed Demon,cruiser,small,Giant,4314.63,2457.35,30,Shufflebeat,11/11/2019,6/7/2021,Available
+666,City Slicker,mountain,extra-large,Giant,1030.69,847.1,164,Gabtype,11/25/2019,4/22/2021,Available
+667,Speed Demon,hybrid,extra-large,Scott,1869.04,1769.97,303,Jabbersphere,2/15/2019,7/5/2021,Available
+668,Trail Blazer,road,small,Specialized,4454.75,1662.52,173,Linklinks,6/11/2018,8/22/2020,Discontinued
+669,Mountain Beast,BMX,medium,Cannondale,3825.92,1082.95,29,Gigabox,10/30/2019,10/7/2020,Out of Stock
+670,City Slicker,road,medium,Cannondale,2215.0,1245.88,0,Blogpad,11/7/2018,6/7/2021,Available
+671,Speed Demon,road,large,Specialized,4658.46,707.89,586,Dabshots,3/13/2019,2/29/2020,Discontinued
+672,Urban Cruiser,BMX,large,Giant,4275.77,2976.35,21,Realfire,9/9/2018,9/17/2020,Discontinued
+673,City Slicker,BMX,large,Scott,2256.69,2885.19,335,Realmix,4/21/2019,7/20/2021,Out of Stock
+674,City Slicker,BMX,extra-large,Specialized,4376.94,947.78,508,Pixope,10/23/2019,8/8/2021,Out of Stock
+675,Trail Blazer,road,large,Scott,2413.26,2356.9,10,Fiveclub,3/14/2019,9/3/2020,Available
+676,Mountain Beast,mountain,small,Cannondale,300.48,801.65,646,Skimia,6/7/2018,8/18/2021,Discontinued
+677,City Slicker,hybrid,large,Scott,726.76,3329.45,491,Voomm,6/21/2019,12/9/2020,Out of Stock
+678,Urban Cruiser,cruiser,large,Trek,2299.3,2873.33,208,Yombu,5/15/2019,6/8/2021,Available
+679,Urban Cruiser,mountain,large,Cannondale,4928.65,2076.52,892,Bubblebox,6/6/2019,9/14/2020,Out of Stock
+680,Mountain Beast,mountain,small,Giant,3405.02,2859.45,42,Gabtype,4/20/2018,10/16/2021,Out of Stock
+681,Speed Demon,BMX,small,Specialized,2378.28,1847.32,539,Shufflebeat,6/8/2019,3/11/2021,Discontinued
+682,Trail Blazer,hybrid,large,Scott,4945.71,1963.79,212,Zoomzone,12/15/2019,4/14/2021,Available
+683,City Slicker,BMX,medium,Cannondale,3469.53,1543.05,433,Tazzy,12/23/2019,6/24/2020,Out of Stock
+684,Trail Blazer,cruiser,extra-large,Trek,3343.88,1484.57,413,Brainbox,4/30/2018,10/12/2021,Out of Stock
+685,Urban Cruiser,cruiser,small,Giant,675.89,3278.75,481,Npath,6/22/2019,4/3/2020,Out of Stock
+686,Urban Cruiser,cruiser,extra-large,Cannondale,2307.54,2969.17,921,Quinu,12/23/2018,9/11/2021,Out of Stock
+687,Mountain Beast,BMX,small,Specialized,3062.64,3192.37,391,Jaxnation,2/27/2018,6/7/2020,Out of Stock
+688,Trail Blazer,BMX,extra-large,Giant,1976.45,2217.63,559,Meevee,1/22/2019,7/19/2021,Out of Stock
+689,Urban Cruiser,BMX,large,Scott,2233.81,3881.0,38,Livepath,1/23/2019,6/16/2021,Out of Stock
+690,Urban Cruiser,cruiser,small,Scott,2970.5,3935.19,272,Gigazoom,11/16/2018,10/15/2021,Out of Stock
+691,Mountain Beast,hybrid,large,Trek,1505.14,3707.09,112,Livetube,5/30/2019,12/10/2021,Out of Stock
+692,Urban Cruiser,BMX,extra-large,Trek,2710.21,1856.26,835,Yamia,4/14/2018,3/2/2021,Out of Stock
+693,Trail Blazer,road,medium,Specialized,2848.74,1558.51,10,Katz,1/15/2019,6/26/2020,Discontinued
+694,Speed Demon,mountain,medium,Specialized,2873.16,3275.23,373,Mynte,6/23/2019,7/18/2021,Out of Stock
+695,Urban Cruiser,BMX,small,Giant,1339.16,906.81,728,Roodel,6/25/2018,8/17/2020,Out of Stock
+696,City Slicker,cruiser,extra-large,Giant,4823.66,3943.53,59,Quinu,3/11/2019,1/21/2021,Discontinued
+697,Mountain Beast,mountain,medium,Trek,2963.65,561.13,162,Mynte,7/17/2018,6/1/2020,Out of Stock
+698,Urban Cruiser,cruiser,medium,Trek,3678.47,2144.97,218,Livepath,1/29/2019,3/25/2020,Out of Stock
+699,Speed Demon,hybrid,small,Giant,1286.17,536.9,344,Photojam,10/14/2019,12/26/2020,Discontinued
+700,Speed Demon,mountain,large,Scott,4545.73,1707.74,836,Skynoodle,4/2/2019,5/20/2021,Out of Stock
+701,Speed Demon,mountain,extra-large,Giant,169.31,1740.45,961,Divape,5/28/2019,9/21/2021,Discontinued
+702,Urban Cruiser,cruiser,medium,Specialized,1264.02,2366.11,567,Meevee,8/28/2018,6/8/2021,Available
+703,City Slicker,mountain,large,Trek,3352.97,449.06,709,Twitterwire,4/10/2019,5/1/2020,Available
+704,City Slicker,BMX,medium,Scott,4245.05,2567.47,157,Feedmix,6/12/2018,1/24/2021,Available
+705,Trail Blazer,cruiser,large,Cannondale,4525.17,2174.58,526,Skiptube,4/18/2018,5/12/2021,Discontinued
+706,Mountain Beast,hybrid,large,Cannondale,4652.66,1493.32,606,Pixonyx,10/25/2019,10/27/2020,Discontinued
+707,Trail Blazer,hybrid,small,Scott,2609.98,2370.62,300,Eimbee,5/12/2018,6/13/2021,Available
+708,Speed Demon,hybrid,extra-large,Specialized,3916.56,827.54,112,Topiczoom,4/25/2019,3/13/2021,Available
+709,City Slicker,cruiser,large,Scott,1035.37,365.76,732,Jatri,2/8/2018,3/10/2020,Out of Stock
+710,Trail Blazer,BMX,small,Specialized,798.18,2294.6,144,Jabberstorm,12/7/2019,2/2/2020,Discontinued
+711,Urban Cruiser,mountain,large,Trek,4630.11,923.56,40,Mycat,6/14/2018,12/19/2020,Available
+712,Trail Blazer,hybrid,small,Scott,4949.98,3760.09,248,Rhycero,8/21/2018,4/21/2021,Out of Stock
+713,Speed Demon,BMX,medium,Cannondale,536.44,1001.77,543,Digitube,3/5/2019,10/31/2021,Available
+714,Speed Demon,road,extra-large,Scott,669.36,801.43,731,Ntags,4/18/2018,5/17/2020,Discontinued
+715,Mountain Beast,BMX,medium,Scott,2281.32,1964.62,177,Katz,9/20/2019,5/14/2021,Available
+716,Speed Demon,cruiser,medium,Scott,2153.6,3659.52,31,Fiveclub,1/30/2018,11/9/2020,Out of Stock
+717,Mountain Beast,hybrid,small,Giant,1473.16,894.75,522,Feedspan,4/5/2018,4/18/2021,Discontinued
+718,Urban Cruiser,BMX,small,Cannondale,902.85,2715.5,647,Pixoboo,3/18/2019,3/3/2020,Out of Stock
+719,Trail Blazer,mountain,medium,Scott,1292.97,2031.74,749,Lazz,3/26/2018,12/27/2020,Out of Stock
+720,City Slicker,BMX,large,Cannondale,1269.39,191.91,606,Flipopia,10/27/2018,7/15/2020,Discontinued
+721,Mountain Beast,road,large,Scott,1226.5,1396.91,230,Linklinks,11/11/2018,3/3/2020,Discontinued
+722,Trail Blazer,BMX,large,Scott,4310.71,1560.5,951,Kwinu,12/13/2019,6/14/2020,Available
+723,City Slicker,road,medium,Trek,2732.17,3283.98,80,Jaxworks,5/7/2019,9/6/2020,Out of Stock
+724,City Slicker,BMX,medium,Trek,243.32,676.3,779,Bluezoom,2/24/2018,1/5/2021,Available
+725,Trail Blazer,BMX,small,Specialized,4639.24,653.28,686,Zoombox,5/1/2018,6/20/2021,Out of Stock
+726,Mountain Beast,road,large,Trek,4424.22,692.35,661,Skalith,8/4/2019,8/3/2020,Available
+727,Speed Demon,road,medium,Giant,4793.95,911.46,76,Flashset,4/29/2018,4/6/2021,Discontinued
+728,City Slicker,mountain,small,Specialized,2711.44,986.79,660,Zoomdog,9/30/2019,1/30/2020,Discontinued
+729,Urban Cruiser,BMX,small,Giant,2339.95,3646.45,198,Devify,3/26/2019,6/30/2020,Discontinued
+730,Urban Cruiser,BMX,small,Trek,2238.57,115.39,41,Thoughtmix,2/20/2018,3/24/2020,Discontinued
+731,City Slicker,BMX,extra-large,Cannondale,1511.72,1783.95,589,Plambee,5/20/2019,8/15/2020,Discontinued
+732,Urban Cruiser,hybrid,large,Trek,3518.57,2136.65,811,Devpulse,6/13/2018,10/12/2020,Discontinued
+733,Urban Cruiser,road,extra-large,Specialized,3360.16,922.11,579,Fivebridge,2/4/2018,8/13/2020,Available
+734,City Slicker,road,small,Specialized,4318.57,2973.23,221,Devpoint,1/14/2018,1/29/2020,Discontinued
+735,Trail Blazer,hybrid,small,Cannondale,1304.1,1747.99,246,Podcat,4/14/2019,7/31/2021,Available
+736,Speed Demon,cruiser,extra-large,Cannondale,965.34,1383.55,336,Aibox,6/10/2019,10/3/2020,Discontinued
+737,Urban Cruiser,road,medium,Specialized,1895.31,3249.67,418,Thoughtbeat,11/13/2018,4/28/2021,Available
+738,City Slicker,road,extra-large,Trek,768.23,575.98,585,Flashspan,2/2/2018,11/17/2021,Available
+739,City Slicker,mountain,large,Giant,1323.55,3821.53,959,Mycat,1/6/2018,5/25/2020,Discontinued
+740,City Slicker,cruiser,small,Giant,3673.91,289.93,947,Tagtune,6/4/2019,11/13/2021,Available
+741,Speed Demon,BMX,extra-large,Trek,2921.49,601.0,630,Jabberstorm,9/22/2018,12/14/2021,Out of Stock
+742,Speed Demon,mountain,extra-large,Specialized,1423.76,1319.6,413,Devpulse,1/5/2019,4/21/2021,Out of Stock
+743,City Slicker,road,small,Cannondale,2518.75,1610.56,956,Reallinks,2/23/2018,9/11/2021,Out of Stock
+744,Mountain Beast,mountain,medium,Giant,4706.66,3973.98,107,Zazio,10/17/2019,10/5/2020,Discontinued
+745,Trail Blazer,BMX,extra-large,Trek,320.02,317.82,811,Fadeo,8/12/2019,1/1/2021,Available
+746,Mountain Beast,road,extra-large,Giant,501.42,2518.56,319,Trunyx,1/3/2019,10/13/2021,Available
+747,Speed Demon,mountain,extra-large,Specialized,3483.0,1762.54,249,Oloo,2/11/2018,1/17/2020,Available
+748,City Slicker,BMX,small,Cannondale,4717.0,805.7,966,Kare,6/2/2018,3/1/2021,Out of Stock
+749,Speed Demon,mountain,large,Cannondale,98.22,1989.93,139,Meejo,10/4/2018,1/13/2021,Discontinued
+750,Mountain Beast,mountain,extra-large,Giant,1491.49,244.58,964,Yombu,10/1/2019,9/15/2021,Out of Stock
+751,Speed Demon,road,large,Cannondale,777.59,2608.51,30,Mynte,8/24/2019,1/16/2020,Discontinued
+752,Trail Blazer,cruiser,small,Trek,3678.78,1389.6,196,Devpulse,9/7/2019,10/3/2021,Discontinued
+753,City Slicker,road,extra-large,Trek,4316.87,2030.57,898,Realcube,1/19/2018,5/4/2021,Discontinued
+754,Speed Demon,hybrid,medium,Scott,3694.02,1927.34,839,Wordpedia,6/11/2018,5/24/2021,Out of Stock
+755,Mountain Beast,BMX,large,Giant,2186.09,1893.83,802,Buzzshare,8/4/2019,2/28/2021,Available
+756,Trail Blazer,hybrid,medium,Specialized,4447.48,159.06,682,Twitterbridge,12/30/2018,8/14/2020,Discontinued
+757,City Slicker,BMX,extra-large,Scott,3533.02,2727.87,712,Midel,9/10/2019,11/13/2021,Available
+758,Mountain Beast,hybrid,small,Trek,1400.53,3565.38,30,Omba,8/22/2018,12/9/2021,Available
+759,Speed Demon,hybrid,large,Specialized,3614.98,398.55,209,Photobug,5/9/2019,3/2/2020,Out of Stock
+760,City Slicker,mountain,medium,Specialized,4495.69,3666.74,918,Flashset,4/26/2018,8/8/2021,Out of Stock
+761,Urban Cruiser,cruiser,extra-large,Cannondale,291.12,1845.98,245,Divavu,7/25/2019,8/16/2020,Available
+762,Speed Demon,cruiser,extra-large,Scott,3984.14,3430.26,620,Reallinks,5/2/2019,9/26/2021,Discontinued
+763,Speed Demon,hybrid,large,Scott,3919.04,1961.59,169,Skyba,7/28/2019,5/5/2020,Out of Stock
+764,Speed Demon,mountain,extra-large,Cannondale,1595.64,2935.32,380,Buzzbean,6/20/2019,1/6/2021,Available
+765,City Slicker,BMX,medium,Trek,3390.76,2135.34,881,Pixonyx,3/13/2019,4/16/2020,Available
+766,Speed Demon,mountain,extra-large,Specialized,963.3,2409.98,73,Tambee,9/10/2018,12/29/2021,Out of Stock
+767,Mountain Beast,road,large,Giant,1303.75,3583.92,71,Jabberbean,9/12/2019,8/31/2021,Available
+768,City Slicker,cruiser,large,Cannondale,415.38,2161.21,816,Zazio,9/22/2019,7/22/2021,Out of Stock
+769,Trail Blazer,road,small,Trek,4307.81,809.51,254,Kwilith,6/30/2019,4/24/2021,Discontinued
+770,Urban Cruiser,BMX,small,Trek,1050.99,3002.7,663,Rhybox,7/13/2019,1/28/2020,Discontinued
+771,Speed Demon,road,small,Scott,3464.1,3760.72,952,Vipe,2/24/2018,5/3/2020,Available
+772,Urban Cruiser,cruiser,medium,Specialized,2152.6,74.89,525,Thoughtsphere,10/23/2019,9/16/2021,Available
+773,Urban Cruiser,mountain,medium,Specialized,3309.2,1785.02,804,Aimbu,11/5/2019,4/30/2021,Available
+774,Speed Demon,BMX,medium,Cannondale,3424.8,2219.14,969,Myworks,10/12/2018,7/8/2020,Discontinued
+775,City Slicker,mountain,small,Giant,341.44,2204.7,584,Skimia,11/3/2019,9/9/2020,Available
+776,City Slicker,road,medium,Trek,2533.53,2264.87,752,Thoughtstorm,11/17/2018,10/27/2021,Available
+777,City Slicker,cruiser,small,Scott,4884.41,1287.96,117,Miboo,4/26/2019,12/8/2020,Discontinued
+778,Urban Cruiser,hybrid,large,Specialized,3988.26,2785.16,606,Topicblab,1/15/2018,11/25/2020,Out of Stock
+779,Speed Demon,cruiser,large,Cannondale,4248.77,1542.66,220,Trilia,7/16/2018,1/1/2021,Out of Stock
+780,City Slicker,road,medium,Scott,1208.73,3018.4,777,Skynoodle,2/3/2018,3/22/2020,Discontinued
+781,Trail Blazer,road,large,Scott,229.53,40.01,904,Twitterbridge,10/7/2018,3/12/2020,Available
+782,City Slicker,mountain,small,Giant,1016.45,2706.67,989,Skipstorm,7/1/2018,10/31/2020,Available
+783,Speed Demon,mountain,small,Trek,2254.59,2107.59,451,Mita,4/30/2019,3/8/2021,Available
+784,Trail Blazer,BMX,medium,Trek,264.13,3061.53,699,Twitterbridge,8/22/2019,1/25/2021,Out of Stock
+785,Trail Blazer,BMX,small,Cannondale,65.86,78.14,206,Edgeify,7/23/2019,6/19/2020,Out of Stock
+786,Speed Demon,mountain,medium,Giant,1539.71,3670.57,601,Quimba,5/31/2018,4/18/2020,Discontinued
+787,Speed Demon,hybrid,medium,Specialized,4375.97,1536.29,248,Yoveo,12/21/2018,12/21/2020,Discontinued
+788,Trail Blazer,mountain,extra-large,Giant,758.96,118.56,431,Zoonder,9/16/2019,3/11/2020,Available
+789,City Slicker,mountain,large,Trek,1713.33,2241.35,274,Realpoint,10/30/2018,1/25/2020,Available
+790,Trail Blazer,BMX,small,Scott,2444.51,2141.78,67,Dynabox,12/28/2019,5/27/2020,Out of Stock
+791,Speed Demon,road,extra-large,Trek,3121.81,530.8,98,Tagopia,12/28/2019,2/16/2020,Out of Stock
+792,Speed Demon,hybrid,large,Cannondale,4215.42,1023.55,792,Realcube,10/6/2018,6/30/2021,Discontinued
+793,Speed Demon,cruiser,large,Scott,4949.31,1849.24,481,Jayo,11/3/2019,12/25/2021,Available
+794,Trail Blazer,road,medium,Scott,4214.64,3638.94,692,Riffwire,6/20/2018,5/15/2020,Available
+795,Urban Cruiser,hybrid,extra-large,Scott,3936.55,2694.85,377,Meejo,7/9/2019,4/27/2020,Available
+796,Urban Cruiser,hybrid,extra-large,Specialized,3470.59,2887.63,447,Trilia,10/28/2019,1/9/2020,Discontinued
+797,Speed Demon,hybrid,medium,Trek,239.79,2708.41,10,Thoughtworks,6/28/2019,12/25/2021,Available
+798,Mountain Beast,mountain,large,Giant,4806.86,1653.07,546,Mydeo,6/2/2018,8/6/2021,Available
+799,Speed Demon,road,large,Scott,824.94,1804.55,746,Snaptags,7/19/2019,1/30/2021,Discontinued
+800,City Slicker,BMX,large,Scott,1592.79,2644.93,963,Yozio,12/2/2019,1/22/2021,Discontinued
+801,Urban Cruiser,road,medium,Giant,3077.64,3886.84,567,Jabbercube,2/1/2019,12/18/2020,Available
+802,Trail Blazer,hybrid,medium,Scott,1481.88,337.94,917,Rhybox,4/29/2018,3/31/2020,Discontinued
+803,City Slicker,hybrid,small,Cannondale,675.52,182.81,226,Twitterworks,7/5/2019,10/16/2021,Out of Stock
+804,Trail Blazer,cruiser,extra-large,Cannondale,2373.69,3275.05,528,Devpulse,3/30/2019,8/28/2020,Discontinued
+805,Mountain Beast,road,medium,Giant,4747.09,1860.04,263,Edgeify,2/20/2018,8/1/2021,Discontinued
+806,Trail Blazer,BMX,extra-large,Giant,2093.13,2911.1,97,Muxo,3/17/2019,8/23/2020,Out of Stock
+807,City Slicker,road,small,Trek,3689.7,1401.36,40,Topiczoom,1/26/2019,1/19/2020,Available
+808,Urban Cruiser,BMX,large,Trek,4387.53,3459.59,49,Dazzlesphere,12/31/2018,7/27/2021,Out of Stock
+809,Mountain Beast,road,large,Specialized,3592.71,1773.25,696,Shufflebeat,2/24/2018,8/11/2021,Available
+810,City Slicker,mountain,extra-large,Cannondale,1869.99,1835.24,540,Zazio,12/2/2018,3/22/2021,Discontinued
+811,Urban Cruiser,cruiser,small,Trek,2200.83,2645.68,141,Twinte,6/21/2018,8/3/2021,Out of Stock
+812,Trail Blazer,BMX,extra-large,Scott,1744.16,2134.1,301,Meembee,9/20/2019,10/3/2021,Discontinued
+813,Urban Cruiser,BMX,large,Cannondale,3977.91,380.09,335,Mycat,1/29/2018,12/9/2020,Discontinued
+814,Speed Demon,cruiser,small,Trek,2227.9,2489.24,129,Trilia,9/9/2018,6/21/2020,Available
+815,Mountain Beast,mountain,medium,Scott,2760.75,383.08,530,Brightbean,7/20/2018,12/7/2021,Out of Stock
+816,City Slicker,mountain,large,Cannondale,493.45,1028.42,332,Janyx,7/16/2018,9/22/2020,Discontinued
+817,Urban Cruiser,hybrid,medium,Specialized,4623.16,712.91,543,Voonyx,2/2/2019,1/19/2021,Discontinued
+818,Speed Demon,road,small,Giant,3544.14,2736.19,878,Riffpedia,5/8/2018,10/29/2020,Discontinued
+819,Mountain Beast,cruiser,large,Specialized,2564.98,1024.39,198,Voonyx,8/28/2019,4/5/2021,Discontinued
+820,City Slicker,BMX,small,Specialized,3387.54,3978.88,178,Talane,2/2/2018,4/28/2021,Discontinued
+821,Trail Blazer,BMX,large,Trek,2449.4,1952.38,567,Livepath,3/31/2018,9/19/2020,Discontinued
+822,Urban Cruiser,cruiser,medium,Trek,3107.42,2421.26,606,Agivu,9/18/2019,5/15/2020,Out of Stock
+823,Urban Cruiser,hybrid,small,Trek,84.34,948.17,332,Feedspan,2/2/2019,12/22/2021,Out of Stock
+824,City Slicker,hybrid,small,Cannondale,827.15,1226.36,223,Cogilith,9/20/2019,9/6/2020,Discontinued
+825,Mountain Beast,hybrid,medium,Trek,882.59,3118.21,526,Skimia,9/2/2018,8/17/2020,Available
+826,Trail Blazer,BMX,medium,Cannondale,1651.09,2391.27,44,Babbleset,5/18/2019,7/29/2020,Available
+827,Urban Cruiser,BMX,extra-large,Cannondale,284.74,477.3,553,Realfire,9/2/2018,5/9/2021,Discontinued
+828,Speed Demon,BMX,large,Specialized,662.56,1922.47,955,Avamm,6/26/2018,7/25/2020,Out of Stock
+829,Mountain Beast,BMX,large,Cannondale,1761.27,1807.58,659,Katz,10/7/2019,6/29/2020,Out of Stock
+830,Urban Cruiser,hybrid,large,Specialized,3486.36,3814.91,974,Photobug,11/13/2018,12/7/2020,Out of Stock
+831,Speed Demon,hybrid,extra-large,Giant,1065.56,3867.29,433,Twitterbridge,5/14/2018,11/18/2021,Available
+832,City Slicker,hybrid,medium,Giant,1989.57,870.92,243,Izio,1/17/2019,7/19/2021,Discontinued
+833,Urban Cruiser,road,medium,Specialized,4819.82,2807.87,557,Babbleopia,8/25/2019,2/23/2021,Available
+834,Urban Cruiser,hybrid,extra-large,Scott,1076.58,3295.73,534,Snaptags,7/22/2019,6/24/2021,Available
+835,Urban Cruiser,BMX,extra-large,Scott,2710.49,2894.59,44,Yacero,7/28/2018,8/28/2021,Out of Stock
+836,Speed Demon,cruiser,extra-large,Specialized,2487.7,3127.55,973,Twitterlist,8/3/2019,10/24/2020,Out of Stock
+837,Speed Demon,cruiser,small,Giant,2995.78,2596.97,364,Topicshots,11/18/2019,7/15/2020,Discontinued
+838,Urban Cruiser,BMX,large,Cannondale,3923.73,1120.81,116,Photobean,6/12/2018,6/17/2020,Available
+839,Speed Demon,BMX,extra-large,Specialized,2237.09,3326.6,296,Topicblab,12/13/2019,12/2/2021,Out of Stock
+840,Mountain Beast,road,extra-large,Giant,4220.73,399.32,717,Gigazoom,10/6/2019,6/11/2021,Discontinued
+841,Speed Demon,cruiser,medium,Scott,2565.84,3363.06,94,Roodel,8/24/2019,1/5/2020,Discontinued
+842,Mountain Beast,cruiser,large,Trek,1494.88,2357.34,963,Dablist,1/14/2019,2/19/2020,Out of Stock
+843,Urban Cruiser,BMX,small,Trek,2027.79,3068.28,736,Edgewire,5/14/2018,5/4/2020,Discontinued
+844,Urban Cruiser,BMX,small,Trek,1442.14,1890.35,226,Gigaclub,5/2/2018,6/9/2020,Available
+845,Trail Blazer,mountain,small,Cannondale,2562.18,3944.91,261,Riffwire,12/17/2018,3/20/2021,Discontinued
+846,City Slicker,mountain,large,Cannondale,3795.13,3524.73,847,Youbridge,8/11/2018,7/7/2021,Available
+847,Speed Demon,cruiser,small,Specialized,1090.4,2542.73,202,Rhycero,3/3/2019,8/1/2021,Discontinued
+848,Speed Demon,BMX,small,Specialized,67.03,1625.99,110,Camimbo,4/21/2018,2/16/2020,Out of Stock
+849,Speed Demon,cruiser,medium,Trek,2343.83,3857.44,895,Meedoo,11/3/2018,4/13/2021,Available
+850,Urban Cruiser,mountain,medium,Giant,4767.86,1430.7,379,Kwinu,10/22/2018,11/25/2020,Discontinued
+851,Speed Demon,hybrid,extra-large,Cannondale,2505.12,571.1,720,Brightdog,7/25/2018,6/13/2021,Out of Stock
+852,Trail Blazer,BMX,extra-large,Cannondale,3770.4,1262.27,431,Shuffletag,3/30/2018,10/12/2021,Discontinued
+853,Speed Demon,cruiser,medium,Giant,1270.11,321.5,983,Mynte,5/29/2019,6/3/2021,Available
+854,Speed Demon,cruiser,large,Scott,4765.99,520.36,973,Minyx,8/14/2018,7/28/2021,Out of Stock
+855,City Slicker,mountain,small,Cannondale,798.42,3648.65,603,Tazzy,9/24/2019,6/3/2021,Out of Stock
+856,Mountain Beast,hybrid,large,Giant,667.73,134.24,920,Rhyloo,8/5/2019,2/5/2021,Out of Stock
+857,Mountain Beast,mountain,large,Scott,2262.1,3147.66,32,Tagfeed,7/29/2019,1/17/2021,Discontinued
+858,City Slicker,mountain,medium,Giant,3110.7,1476.27,754,Mydo,1/14/2018,2/8/2020,Out of Stock
+859,Speed Demon,mountain,medium,Specialized,4841.62,1232.15,537,Riffpedia,2/8/2018,1/27/2021,Out of Stock
+860,Mountain Beast,mountain,medium,Trek,4323.44,3868.83,849,Roodel,11/30/2019,9/20/2020,Available
+861,Trail Blazer,cruiser,medium,Cannondale,120.93,2862.55,953,Rhycero,5/9/2019,8/21/2020,Available
+862,City Slicker,road,small,Giant,1965.46,3062.4,297,Tagpad,8/31/2019,4/22/2021,Discontinued
+863,City Slicker,road,medium,Specialized,1040.43,3899.71,700,Riffwire,5/7/2018,4/22/2020,Available
+864,Speed Demon,road,large,Cannondale,117.78,2469.94,158,Vinder,4/11/2019,9/28/2021,Available
+865,Urban Cruiser,cruiser,extra-large,Specialized,821.21,614.64,413,Riffpath,3/25/2019,12/9/2021,Discontinued
+866,Mountain Beast,road,medium,Scott,1399.43,1884.17,633,Jayo,6/12/2019,6/3/2020,Out of Stock
+867,Urban Cruiser,cruiser,small,Scott,4284.46,81.15,289,Yabox,7/15/2019,7/9/2021,Discontinued
+868,Trail Blazer,hybrid,large,Cannondale,4033.72,629.24,202,Livefish,4/12/2018,12/9/2021,Available
+869,Urban Cruiser,BMX,small,Trek,3294.36,2556.09,193,Livetube,11/7/2018,3/28/2020,Available
+870,Trail Blazer,BMX,small,Scott,4792.84,750.11,546,Oyonder,9/27/2018,11/20/2021,Out of Stock
+871,Speed Demon,road,medium,Specialized,1658.6,2330.96,221,Tanoodle,5/15/2019,12/23/2020,Out of Stock
+872,Mountain Beast,cruiser,small,Cannondale,1053.78,528.41,765,Voonyx,6/25/2019,12/16/2021,Out of Stock
+873,City Slicker,cruiser,large,Cannondale,4199.06,1438.12,582,Cogibox,9/17/2019,9/23/2021,Discontinued
+874,Urban Cruiser,mountain,small,Scott,4340.95,3183.9,928,Reallinks,2/7/2018,5/16/2021,Out of Stock
+875,Urban Cruiser,cruiser,extra-large,Scott,3084.14,261.9,650,Skyble,8/6/2018,9/18/2021,Out of Stock
+876,Urban Cruiser,hybrid,medium,Cannondale,1462.12,3006.0,123,Skyndu,11/6/2019,10/17/2021,Available
+877,Trail Blazer,mountain,large,Cannondale,4465.85,3171.34,634,Tambee,1/13/2019,2/2/2020,Discontinued
+878,City Slicker,BMX,extra-large,Giant,2200.85,1856.63,189,Brainlounge,6/9/2019,12/9/2020,Available
+879,Trail Blazer,hybrid,small,Trek,2719.54,1337.51,386,Mydo,5/29/2018,7/12/2020,Discontinued
+880,Mountain Beast,cruiser,extra-large,Scott,4622.14,3368.63,296,Twitterbeat,5/16/2018,5/31/2021,Out of Stock
+881,Speed Demon,hybrid,extra-large,Scott,2349.56,3990.52,688,Meembee,11/4/2019,12/6/2021,Available
+882,Speed Demon,mountain,extra-large,Scott,2243.19,3586.4,228,Nlounge,6/8/2018,4/4/2020,Available
+883,Trail Blazer,mountain,extra-large,Trek,2109.74,1477.89,824,Yakijo,7/21/2018,7/20/2020,Out of Stock
+884,City Slicker,BMX,medium,Trek,3196.18,3129.65,914,Trudoo,1/3/2019,5/20/2020,Available
+885,Mountain Beast,cruiser,small,Scott,1299.43,2508.17,889,Lazz,4/6/2019,10/26/2021,Available
+886,Mountain Beast,hybrid,medium,Trek,3321.43,3835.65,803,Quimba,5/17/2018,1/22/2020,Discontinued
+887,Urban Cruiser,road,small,Specialized,3951.59,22.21,585,Trunyx,11/11/2018,6/20/2021,Available
+888,Trail Blazer,hybrid,extra-large,Specialized,1696.55,3512.57,859,Cogidoo,7/25/2018,11/4/2020,Available
+889,Speed Demon,road,large,Cannondale,3359.7,1384.29,226,Voonix,8/28/2019,4/8/2021,Discontinued
+890,Speed Demon,mountain,large,Specialized,3574.52,3218.52,245,Mybuzz,7/6/2019,5/28/2020,Available
+891,Mountain Beast,road,large,Specialized,4352.55,602.89,941,Fivechat,7/14/2018,5/29/2020,Out of Stock
+892,Mountain Beast,mountain,large,Specialized,517.86,3749.24,374,Shuffletag,9/16/2018,3/11/2020,Available
+893,Urban Cruiser,road,extra-large,Giant,669.32,605.87,771,Brainbox,12/13/2018,11/2/2021,Out of Stock
+894,Mountain Beast,BMX,small,Specialized,4439.46,1182.46,372,Youbridge,5/27/2019,10/21/2020,Available
+895,Speed Demon,mountain,medium,Scott,4211.17,552.94,681,Realbuzz,7/30/2018,7/2/2020,Out of Stock
+896,City Slicker,mountain,medium,Giant,864.25,520.08,169,Quimba,4/27/2019,5/5/2021,Out of Stock
+897,Mountain Beast,BMX,large,Giant,4924.74,687.06,553,Skynoodle,7/3/2019,2/8/2020,Discontinued
+898,Mountain Beast,mountain,small,Trek,1136.97,3281.07,122,Yambee,3/2/2019,10/28/2021,Available
+899,City Slicker,BMX,small,Scott,2073.62,3680.68,707,Voomm,5/14/2018,5/7/2020,Available
+900,Urban Cruiser,road,small,Specialized,3036.46,642.09,314,Fivespan,5/8/2019,4/27/2021,Out of Stock
+901,Urban Cruiser,cruiser,extra-large,Giant,81.37,3726.78,294,Photobean,1/24/2019,9/13/2020,Discontinued
+902,Mountain Beast,BMX,small,Scott,2849.5,1125.95,127,Viva,8/19/2019,9/16/2021,Out of Stock
+903,Mountain Beast,mountain,large,Specialized,1536.78,3202.0,102,Skyble,3/12/2019,7/17/2020,Out of Stock
+904,Speed Demon,cruiser,small,Specialized,3960.99,307.49,482,Tazz,3/27/2019,1/10/2020,Out of Stock
+905,Speed Demon,hybrid,extra-large,Scott,3643.39,1565.7,981,Quimm,7/6/2018,10/22/2020,Available
+906,Mountain Beast,cruiser,large,Trek,740.04,1019.14,958,Ntags,7/20/2018,10/11/2021,Out of Stock
+907,Urban Cruiser,cruiser,large,Scott,1407.62,1295.48,824,Photobean,9/1/2018,10/2/2020,Available
+908,Mountain Beast,mountain,large,Specialized,1258.1,2080.78,995,Abata,5/18/2019,12/23/2021,Out of Stock
+909,Speed Demon,cruiser,small,Cannondale,3006.39,665.63,123,Twiyo,4/6/2018,7/10/2020,Available
+910,Trail Blazer,cruiser,extra-large,Trek,4200.06,1212.37,481,Plajo,5/11/2019,9/3/2020,Discontinued
+911,City Slicker,cruiser,small,Trek,1762.39,1602.53,396,Oyoloo,2/13/2019,11/11/2020,Out of Stock
+912,Trail Blazer,BMX,medium,Specialized,4680.36,510.89,821,Teklist,2/1/2018,7/18/2021,Out of Stock
+913,Urban Cruiser,BMX,medium,Trek,4686.15,43.52,966,Quatz,11/20/2018,6/19/2021,Discontinued
+914,Urban Cruiser,hybrid,small,Giant,1114.69,54.57,482,Livepath,9/25/2018,10/13/2021,Out of Stock
+915,Mountain Beast,cruiser,medium,Cannondale,4108.85,2709.68,954,Agimba,1/25/2019,6/29/2020,Discontinued
+916,Mountain Beast,cruiser,extra-large,Scott,1667.47,1279.49,586,Blogtag,5/16/2018,10/16/2020,Discontinued
+917,Urban Cruiser,BMX,large,Giant,4788.53,1164.41,680,Bluejam,8/27/2019,5/31/2021,Out of Stock
+918,Speed Demon,cruiser,large,Specialized,3652.43,2635.99,43,Demizz,1/29/2019,7/12/2020,Available
+919,Trail Blazer,BMX,small,Giant,4005.42,1798.05,619,Tanoodle,9/27/2019,11/1/2020,Out of Stock
+920,Trail Blazer,BMX,medium,Scott,3360.63,493.46,300,Trilith,12/31/2018,1/1/2021,Available
+921,Trail Blazer,cruiser,medium,Scott,1800.67,464.39,137,Jabberstorm,8/25/2019,7/2/2020,Out of Stock
+922,City Slicker,mountain,small,Trek,85.03,3232.22,883,Wordtune,1/27/2018,9/18/2021,Available
+923,Urban Cruiser,road,extra-large,Scott,412.2,1443.39,220,Oba,8/16/2018,10/9/2020,Available
+924,City Slicker,hybrid,extra-large,Scott,3849.22,751.56,233,Latz,9/20/2019,9/9/2021,Available
+925,Trail Blazer,hybrid,small,Cannondale,1683.0,3221.3,552,Vimbo,12/1/2018,6/17/2021,Available
+926,Trail Blazer,hybrid,small,Trek,1551.7,3649.05,510,Divavu,11/17/2018,4/4/2020,Discontinued
+927,Trail Blazer,road,large,Cannondale,211.17,65.1,62,Kaymbo,3/5/2018,2/27/2021,Available
+928,City Slicker,mountain,large,Cannondale,927.63,1209.76,683,Centizu,9/28/2018,4/7/2020,Discontinued
+929,City Slicker,cruiser,small,Trek,4929.17,1324.91,267,Layo,10/27/2018,4/26/2021,Out of Stock
+930,Mountain Beast,BMX,small,Cannondale,4257.6,3380.38,346,Trudoo,8/31/2019,3/22/2021,Out of Stock
+931,City Slicker,BMX,medium,Cannondale,1971.55,3450.79,758,Kwideo,1/5/2019,12/24/2021,Discontinued
+932,Mountain Beast,mountain,small,Scott,3688.9,3338.51,965,Thoughtbridge,5/28/2019,10/26/2020,Available
+933,Mountain Beast,mountain,medium,Cannondale,3474.49,992.47,285,Mymm,10/2/2019,4/5/2020,Discontinued
+934,Speed Demon,hybrid,small,Scott,2021.15,1455.24,834,Gigazoom,8/14/2018,10/3/2021,Discontinued
+935,Speed Demon,BMX,large,Scott,3135.1,2839.17,733,Mynte,5/12/2018,2/21/2021,Discontinued
+936,City Slicker,road,small,Giant,4031.32,257.67,420,Yakitri,3/24/2019,5/27/2020,Available
+937,Speed Demon,BMX,extra-large,Specialized,1900.1,430.82,887,Voonte,3/14/2018,7/20/2020,Out of Stock
+938,Urban Cruiser,hybrid,extra-large,Cannondale,3675.75,3634.47,298,Oba,9/11/2019,8/13/2021,Available
+939,City Slicker,road,medium,Scott,3106.57,1504.21,254,Ntags,4/18/2018,12/25/2021,Available
+940,Trail Blazer,road,medium,Trek,1337.18,3581.37,212,Quinu,2/3/2019,10/21/2020,Out of Stock
+941,Urban Cruiser,road,medium,Cannondale,4927.38,622.49,707,Twimm,2/18/2018,5/15/2021,Discontinued
+942,City Slicker,mountain,small,Giant,4590.01,2963.22,736,Devpulse,4/5/2018,8/18/2021,Out of Stock
+943,Speed Demon,mountain,extra-large,Giant,2824.92,2892.99,849,Wordtune,1/19/2019,5/15/2020,Available
+944,Urban Cruiser,road,large,Scott,4344.08,993.17,751,Gabtune,2/21/2018,2/25/2020,Available
+945,City Slicker,cruiser,extra-large,Scott,371.52,1755.2,563,Realcube,12/20/2019,6/11/2021,Discontinued
+946,Speed Demon,BMX,medium,Cannondale,1184.22,1979.86,906,Mynte,9/4/2019,12/15/2021,Available
+947,Urban Cruiser,mountain,large,Cannondale,382.31,895.55,717,Brightdog,1/6/2019,5/7/2021,Available
+948,Mountain Beast,mountain,medium,Scott,4211.14,1547.19,998,Rhybox,10/18/2019,4/30/2021,Available
+949,Urban Cruiser,BMX,medium,Cannondale,1901.48,3779.53,651,Skimia,2/19/2019,12/11/2021,Discontinued
+950,Trail Blazer,mountain,small,Giant,1278.38,848.37,57,Avavee,4/11/2019,12/6/2021,Out of Stock
+951,Urban Cruiser,BMX,small,Giant,4939.72,240.52,863,Katz,4/29/2018,3/7/2021,Out of Stock
+952,Trail Blazer,road,extra-large,Trek,1840.64,719.29,162,Flashspan,5/28/2019,3/13/2021,Available
+953,Speed Demon,hybrid,extra-large,Cannondale,4244.97,2095.56,972,Roomm,7/23/2019,8/31/2020,Available
+954,Trail Blazer,hybrid,large,Trek,4238.35,2176.36,202,Brainbox,1/27/2018,4/18/2021,Discontinued
+955,Urban Cruiser,road,extra-large,Cannondale,3653.97,1097.78,308,Eadel,5/17/2019,12/28/2020,Discontinued
+956,Speed Demon,hybrid,large,Giant,3878.27,3280.12,574,Skilith,7/30/2018,1/14/2021,Available
+957,City Slicker,road,large,Specialized,1303.53,513.64,713,Abata,3/4/2019,10/21/2020,Out of Stock
+958,Mountain Beast,BMX,small,Trek,4571.8,1357.11,592,Yadel,5/19/2018,1/16/2020,Out of Stock
+959,City Slicker,mountain,large,Trek,1454.59,231.26,374,Zava,11/17/2018,3/23/2021,Discontinued
+960,Trail Blazer,cruiser,medium,Trek,1084.35,2614.03,954,Zava,12/11/2018,11/6/2020,Discontinued
+961,Speed Demon,BMX,small,Cannondale,4443.86,3536.17,640,Feedfish,7/7/2019,4/28/2021,Out of Stock
+962,Trail Blazer,mountain,extra-large,Giant,3575.95,2048.48,876,Dazzlesphere,8/30/2018,8/29/2020,Out of Stock
+963,City Slicker,road,large,Giant,770.47,2696.7,107,Voonte,6/29/2018,8/22/2021,Discontinued
+964,Trail Blazer,mountain,large,Scott,412.06,2856.63,605,Mynte,6/9/2019,7/20/2021,Available
+965,Speed Demon,mountain,large,Giant,3159.39,762.99,911,Dablist,12/10/2019,8/5/2021,Available
+966,Mountain Beast,BMX,medium,Giant,991.08,737.89,751,Riffwire,2/9/2019,2/9/2020,Out of Stock
+967,Urban Cruiser,cruiser,large,Scott,930.08,541.17,401,BlogXS,5/4/2018,6/2/2021,Out of Stock
+968,Trail Blazer,road,large,Scott,4488.93,3704.46,217,Eadel,7/31/2018,5/25/2021,Discontinued
+969,City Slicker,cruiser,medium,Trek,281.29,1730.47,468,Kwimbee,4/27/2018,4/12/2020,Discontinued
+970,City Slicker,road,medium,Cannondale,4047.75,1461.79,819,Fatz,8/7/2019,12/23/2020,Available
+971,Mountain Beast,hybrid,medium,Trek,4421.12,2874.95,758,Babblestorm,10/20/2018,7/12/2021,Available
+972,Speed Demon,road,medium,Specialized,4083.81,2233.22,637,Leenti,6/13/2019,10/6/2021,Out of Stock
+973,Urban Cruiser,hybrid,large,Giant,3649.16,3331.03,963,Brainlounge,4/28/2019,2/13/2021,Out of Stock
+974,City Slicker,road,large,Giant,3659.73,2543.86,350,Gigashots,5/25/2019,7/13/2021,Out of Stock
+975,Trail Blazer,cruiser,large,Cannondale,1983.63,2409.3,134,Jabbertype,2/13/2019,2/5/2021,Discontinued
+976,Speed Demon,mountain,large,Giant,1111.76,2627.74,229,Gabtune,4/14/2018,3/28/2020,Available
+977,City Slicker,road,extra-large,Specialized,4474.97,3304.81,357,Rhynyx,1/3/2019,1/25/2020,Out of Stock
+978,Trail Blazer,BMX,large,Specialized,686.96,383.33,688,Skyba,5/15/2019,4/7/2021,Discontinued
+979,Speed Demon,cruiser,large,Cannondale,2962.51,2793.34,807,Cogilith,5/16/2019,3/9/2020,Available
+980,Urban Cruiser,mountain,large,Specialized,1576.88,536.2,275,Myworks,6/16/2019,9/29/2020,Discontinued
+981,Speed Demon,hybrid,small,Specialized,3164.4,3082.13,689,Quimba,5/29/2018,1/22/2020,Discontinued
+982,Mountain Beast,hybrid,extra-large,Cannondale,4715.94,3188.72,276,Jaloo,1/29/2019,8/20/2020,Out of Stock
+983,City Slicker,mountain,extra-large,Cannondale,4488.0,2650.77,7,Jayo,8/10/2018,9/20/2021,Out of Stock
+984,Trail Blazer,hybrid,large,Cannondale,490.83,3009.06,823,Rhyzio,7/22/2019,8/15/2021,Out of Stock
+985,City Slicker,mountain,medium,Giant,3207.28,723.77,926,Gigazoom,4/22/2018,3/18/2020,Available
+986,Trail Blazer,hybrid,large,Trek,2364.0,1580.55,304,Skippad,9/10/2019,2/7/2021,Available
+987,Trail Blazer,hybrid,medium,Trek,4875.05,3253.83,743,Geba,7/14/2019,6/2/2020,Out of Stock
+988,City Slicker,road,large,Specialized,405.49,3601.34,933,Shuffledrive,4/20/2018,6/13/2021,Available
+989,City Slicker,hybrid,medium,Scott,3966.0,2696.67,734,Zoonoodle,4/10/2018,1/5/2021,Available
+990,Speed Demon,hybrid,small,Giant,1413.01,2222.71,526,Thoughtstorm,6/1/2019,8/1/2021,Available
+991,Urban Cruiser,hybrid,extra-large,Specialized,4774.45,3113.63,890,Fivespan,9/21/2019,5/3/2021,Discontinued
+992,Speed Demon,cruiser,small,Giant,1461.97,1052.38,960,Babbleblab,10/12/2018,12/8/2021,Discontinued
+993,Mountain Beast,mountain,large,Scott,1930.83,2955.72,707,Pixope,12/20/2018,10/20/2021,Discontinued
+994,Trail Blazer,cruiser,medium,Specialized,1313.14,1134.6,995,Eazzy,5/25/2018,1/5/2021,Out of Stock
+995,City Slicker,mountain,large,Trek,1556.43,1939.48,345,Twitterlist,5/15/2019,1/8/2021,Discontinued
+996,Trail Blazer,mountain,large,Scott,2609.17,1339.99,116,Skyndu,1/24/2018,2/9/2020,Available
+997,Trail Blazer,hybrid,medium,Cannondale,4986.06,3231.8,940,Jatri,8/10/2018,2/20/2021,Available
+998,Mountain Beast,road,extra-large,Scott,669.24,3886.48,2,Yakidoo,12/5/2019,5/15/2020,Available
+999,Urban Cruiser,road,medium,Scott,607.62,2530.28,205,Meetz,9/26/2019,3/26/2020,Out of Stock
+1000,Mountain Beast,cruiser,large,Scott,2526.76,2757.49,282,Fivebridge,6/6/2019,5/16/2020,Out of Stock
