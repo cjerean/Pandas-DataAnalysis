@@ -1,0 +1,1001 @@
+product_id,product_name,category,brand,price,cost,stock_quantity,supplier,date_added,last_sold_date,status
+1,Speed Demon,hybrid,Specialized,523.24,938.34,252.23,Best Deals Inc.,12/9/2015,1/5/2023,Out of Stock
+2,Urban Cruiser,road,Scott,231.65,114.53,854.4,ABC Suppliers,11/5/2010,6/23/2023,Discontinued
+3,Mountain Beast,cruiser,Giant,727.53,816.83,482.59,Best Deals Inc.,7/3/2005,4/24/2023,Out of Stock
+4,Trail Blazer,cruiser,Specialized,247.8,921.5,470.49,Best Deals Inc.,4/17/2012,1/14/2024,Discontinued
+5,Speed Demon,hybrid,Trek,914.62,926.75,460.92,ABC Suppliers,4/28/2007,1/29/2023,Out of Stock
+6,Speed Demon,BMX,Specialized,846.89,845.02,545.47,Best Deals Inc.,10/21/2017,6/12/2024,Available
+7,Urban Cruiser,BMX,Scott,360.85,950.11,156.56,ABC Suppliers,7/18/2004,5/21/2024,Out of Stock
+8,Mountain Beast,cruiser,Specialized,997.81,269.28,119.92,Best Deals Inc.,3/3/2002,6/4/2023,Out of Stock
+9,City Slicker,hybrid,Trek,395.6,510.04,39.69,Best Deals Inc.,7/30/2011,6/30/2023,Available
+10,City Slicker,hybrid,Cannondale,390.44,282.46,832.94,Best Deals Inc.,9/7/2007,12/14/2023,Out of Stock
+11,Urban Cruiser,hybrid,Giant,847.98,749.0,264.16,Best Deals Inc.,8/9/2015,4/9/2023,Discontinued
+12,Urban Cruiser,hybrid,Giant,358.49,873.11,823.33,123 Distributors,4/21/2015,9/16/2023,Out of Stock
+13,City Slicker,cruiser,Scott,93.63,302.4,516.84,123 Distributors,7/6/2008,2/5/2023,Out of Stock
+14,Urban Cruiser,BMX,Trek,402.82,866.62,33.38,Best Deals Inc.,7/22/2019,8/7/2023,Discontinued
+15,Speed Demon,cruiser,Specialized,839.64,918.52,592.45,XYZ Company,6/19/2004,4/28/2024,Available
+16,Mountain Beast,cruiser,Bianchi,987.67,899.93,945.95,Best Deals Inc.,6/15/2008,7/31/2023,Discontinued
+17,Urban Cruiser,road,Cannondale,781.39,211.67,505.67,123 Distributors,5/15/2007,6/1/2023,Discontinued
+18,City Slicker,cruiser,Trek,448.06,306.32,435.25,Best Deals Inc.,9/16/2018,11/26/2023,Available
+19,Mountain Beast,hybrid,Scott,674.95,84.72,431.35,Best Deals Inc.,1/23/2003,9/11/2023,Discontinued
+20,City Slicker,hybrid,Cannondale,174.89,968.86,901.68,123 Distributors,9/20/2001,1/31/2024,Available
+21,Urban Cruiser,cruiser,Bianchi,546.23,810.27,389.41,XYZ Company,9/26/2007,2/3/2023,Discontinued
+22,Trail Blazer,cruiser,Cannondale,980.43,651.87,155.74,123 Distributors,10/23/2018,7/4/2023,Out of Stock
+23,City Slicker,cruiser,Trek,785.6,31.29,681.43,Best Deals Inc.,5/1/2021,6/18/2024,Discontinued
+24,City Slicker,hybrid,Giant,852.96,968.06,275.9,ABC Suppliers,6/7/2009,4/10/2023,Discontinued
+25,Mountain Beast,BMX,Cannondale,179.44,753.2,910.4,Best Deals Inc.,4/3/2001,8/11/2023,Out of Stock
+26,Mountain Beast,mountain,Scott,159.24,245.56,165.62,ABC Suppliers,10/5/2009,4/1/2023,Discontinued
+27,Speed Demon,hybrid,Cannondale,602.35,69.55,242.29,Best Deals Inc.,3/23/2004,6/10/2023,Discontinued
+28,Urban Cruiser,BMX,Giant,463.63,51.12,706.08,ABC Suppliers,8/15/2008,7/29/2024,Out of Stock
+29,City Slicker,mountain,Scott,651.55,337.29,783.22,123 Distributors,8/23/2006,7/25/2024,Available
+30,Speed Demon,cruiser,Cannondale,850.88,347.26,120.44,ABC Suppliers,9/21/2005,7/25/2023,Out of Stock
+31,Trail Blazer,mountain,Trek,455.91,698.98,376.31,123 Distributors,6/28/2020,1/11/2023,Discontinued
+32,Urban Cruiser,cruiser,Cannondale,990.44,430.98,665.48,123 Distributors,9/14/2003,2/9/2023,Out of Stock
+33,City Slicker,cruiser,Bianchi,401.83,280.81,999.74,Best Deals Inc.,6/21/2005,3/6/2024,Available
+34,Mountain Beast,mountain,Scott,668.85,268.96,569.24,123 Distributors,1/18/2019,6/14/2024,Available
+35,Speed Demon,road,Trek,843.38,683.47,601.22,ABC Suppliers,6/28/2010,7/22/2024,Discontinued
+36,Urban Cruiser,hybrid,Scott,714.34,783.58,851.07,123 Distributors,1/1/2011,4/5/2024,Out of Stock
+37,City Slicker,BMX,Trek,235.1,71.9,739.66,Best Deals Inc.,6/23/2013,1/17/2023,Discontinued
+38,Mountain Beast,road,Scott,319.3,283.07,810.6,123 Distributors,7/9/2014,6/9/2024,Out of Stock
+39,Trail Blazer,hybrid,Cannondale,951.98,121.0,493.77,Best Deals Inc.,4/29/2019,11/27/2023,Out of Stock
+40,Urban Cruiser,cruiser,Bianchi,967.06,457.71,128.4,123 Distributors,8/21/2021,12/26/2023,Discontinued
+41,Urban Cruiser,mountain,Giant,157.34,609.95,566.81,XYZ Company,10/23/2006,12/19/2023,Out of Stock
+42,Urban Cruiser,BMX,Trek,28.92,665.75,216.05,ABC Suppliers,3/19/2016,11/10/2023,Discontinued
+43,Speed Demon,BMX,Trek,593.35,144.82,337.03,XYZ Company,7/16/2020,7/29/2024,Out of Stock
+44,Speed Demon,cruiser,Cannondale,921.74,460.43,385.02,ABC Suppliers,2/9/2020,1/19/2024,Available
+45,Trail Blazer,cruiser,Scott,349.91,437.48,152.32,123 Distributors,9/26/2016,4/2/2024,Available
+46,Trail Blazer,hybrid,Trek,111.51,106.39,637.6,123 Distributors,6/18/2006,5/6/2023,Out of Stock
+47,Trail Blazer,cruiser,Cannondale,533.73,49.87,261.76,ABC Suppliers,2/14/2020,5/5/2023,Discontinued
+48,Speed Demon,road,Bianchi,771.81,367.17,358.88,XYZ Company,11/7/2017,1/27/2023,Available
+49,Mountain Beast,mountain,Scott,495.28,134.94,199.93,XYZ Company,2/10/2008,7/4/2024,Available
+50,City Slicker,mountain,Trek,60.83,547.13,740.18,ABC Suppliers,4/23/2007,11/11/2023,Discontinued
+51,City Slicker,cruiser,Specialized,810.6,950.98,689.86,ABC Suppliers,4/28/2019,6/13/2024,Out of Stock
+52,Trail Blazer,BMX,Giant,869.95,14.92,784.83,123 Distributors,5/27/2005,12/17/2023,Out of Stock
+53,Trail Blazer,hybrid,Cannondale,339.62,149.55,157.12,ABC Suppliers,4/8/2017,10/20/2023,Available
+54,City Slicker,BMX,Specialized,171.89,819.97,749.99,ABC Suppliers,4/5/2003,8/14/2023,Available
+55,Mountain Beast,hybrid,Specialized,335.39,509.4,104.42,ABC Suppliers,4/23/2000,10/25/2023,Discontinued
+56,Trail Blazer,BMX,Specialized,375.08,540.45,110.34,123 Distributors,1/10/2013,2/28/2024,Available
+57,City Slicker,BMX,Cannondale,545.84,472.27,197.6,123 Distributors,9/5/2019,2/4/2024,Discontinued
+58,Urban Cruiser,mountain,Cannondale,893.13,426.27,330.22,Best Deals Inc.,7/20/2021,1/29/2024,Discontinued
+59,Urban Cruiser,BMX,Cannondale,21.25,539.21,146.72,123 Distributors,12/6/2019,12/31/2023,Available
+60,Mountain Beast,hybrid,Trek,258.17,115.67,580.02,Best Deals Inc.,4/7/2018,4/5/2023,Discontinued
+61,Speed Demon,road,Bianchi,679.81,311.69,267.35,XYZ Company,5/30/2004,7/10/2023,Discontinued
+62,Urban Cruiser,cruiser,Trek,526.25,932.24,996.93,ABC Suppliers,3/25/2015,9/20/2023,Discontinued
+63,City Slicker,mountain,Scott,65.33,405.76,673.98,123 Distributors,2/24/2007,3/20/2023,Out of Stock
+64,Mountain Beast,hybrid,Trek,477.48,207.26,736.82,ABC Suppliers,2/9/2006,8/28/2023,Out of Stock
+65,Trail Blazer,hybrid,Bianchi,924.04,839.1,268.6,ABC Suppliers,11/10/2001,3/18/2024,Available
+66,Speed Demon,mountain,Bianchi,891.16,809.12,882.64,123 Distributors,11/16/2017,5/10/2024,Available
+67,Urban Cruiser,cruiser,Cannondale,109.68,733.06,351.97,123 Distributors,10/23/2005,6/5/2023,Available
+68,Speed Demon,cruiser,Cannondale,326.49,378.88,500.47,Best Deals Inc.,6/29/2007,2/4/2023,Discontinued
+69,Urban Cruiser,road,Cannondale,110.52,46.65,938.06,ABC Suppliers,12/16/2014,12/21/2022,Out of Stock
+70,Speed Demon,mountain,Bianchi,149.43,129.79,117.45,XYZ Company,8/3/2002,7/27/2024,Out of Stock
+71,City Slicker,road,Bianchi,599.45,869.4,993.67,123 Distributors,7/10/2006,8/15/2023,Out of Stock
+72,Trail Blazer,mountain,Cannondale,737.21,112.93,40.42,123 Distributors,3/20/2007,9/27/2023,Discontinued
+73,City Slicker,hybrid,Bianchi,189.75,646.42,692.07,123 Distributors,4/2/2004,2/12/2024,Available
+74,Trail Blazer,hybrid,Cannondale,274.1,224.26,579.72,Best Deals Inc.,10/1/2001,4/22/2023,Out of Stock
+75,Mountain Beast,cruiser,Giant,40.34,571.4,449.65,ABC Suppliers,3/6/2007,2/20/2023,Out of Stock
+76,Speed Demon,hybrid,Cannondale,858.37,768.2,273.49,Best Deals Inc.,7/29/2016,3/17/2024,Out of Stock
+77,Trail Blazer,cruiser,Cannondale,457.19,889.07,784.83,XYZ Company,10/25/2013,9/15/2023,Discontinued
+78,Mountain Beast,BMX,Cannondale,164.42,713.41,715.05,ABC Suppliers,4/27/2020,12/26/2023,Out of Stock
+79,Speed Demon,cruiser,Specialized,130.12,468.28,22.39,123 Distributors,5/8/2002,8/24/2023,Discontinued
+80,Urban Cruiser,mountain,Cannondale,712.55,797.52,324.42,ABC Suppliers,8/30/2010,2/12/2024,Discontinued
+81,City Slicker,hybrid,Giant,670.26,382.76,925.28,ABC Suppliers,2/20/2000,5/2/2023,Discontinued
+82,Mountain Beast,BMX,Bianchi,253.57,921.84,535.59,ABC Suppliers,1/17/2012,4/4/2024,Available
+83,Speed Demon,cruiser,Trek,992.07,736.21,116.39,ABC Suppliers,6/13/2003,7/3/2024,Discontinued
+84,Mountain Beast,hybrid,Scott,797.87,524.9,225.13,Best Deals Inc.,11/16/2006,8/26/2023,Discontinued
+85,City Slicker,hybrid,Scott,712.12,664.2,248.06,Best Deals Inc.,3/14/2008,1/1/2024,Available
+86,Trail Blazer,BMX,Cannondale,341.54,576.46,614.88,Best Deals Inc.,3/10/2013,1/10/2024,Available
+87,Speed Demon,BMX,Cannondale,860.58,851.24,688.69,123 Distributors,8/21/2003,7/31/2023,Available
+88,Mountain Beast,BMX,Scott,112.62,970.33,325.4,ABC Suppliers,8/1/2014,8/26/2023,Available
+89,Trail Blazer,cruiser,Bianchi,214.97,126.59,257.27,123 Distributors,6/9/2001,4/13/2023,Discontinued
+90,Trail Blazer,hybrid,Scott,736.73,159.73,321.18,XYZ Company,6/14/2020,4/25/2024,Out of Stock
+91,Urban Cruiser,cruiser,Cannondale,758.49,992.39,836.2,XYZ Company,11/21/2010,8/27/2023,Discontinued
+92,Mountain Beast,hybrid,Specialized,2.74,482.79,170.74,ABC Suppliers,8/23/2015,4/21/2023,Available
+93,Speed Demon,BMX,Trek,175.49,331.01,843.57,ABC Suppliers,2/4/2012,10/25/2023,Out of Stock
+94,Urban Cruiser,mountain,Cannondale,407.82,866.27,639.74,XYZ Company,11/18/2013,12/20/2022,Discontinued
+95,Trail Blazer,mountain,Bianchi,361.72,881.13,91.29,123 Distributors,9/25/2018,3/12/2024,Available
+96,Mountain Beast,mountain,Giant,122.35,821.4,712.82,ABC Suppliers,6/5/2008,7/21/2024,Discontinued
+97,Trail Blazer,hybrid,Cannondale,879.06,725.71,130.62,ABC Suppliers,12/20/2016,7/15/2024,Available
+98,Mountain Beast,hybrid,Trek,407.71,369.7,950.56,123 Distributors,11/17/2010,11/6/2023,Discontinued
+99,Trail Blazer,mountain,Trek,599.31,426.34,246.32,123 Distributors,4/6/2017,10/2/2023,Discontinued
+100,Mountain Beast,hybrid,Bianchi,218.41,92.76,607.52,123 Distributors,5/12/2002,10/2/2023,Available
+101,City Slicker,mountain,Giant,854.52,641.18,163.94,123 Distributors,12/17/2000,12/16/2022,Out of Stock
+102,Trail Blazer,cruiser,Giant,70.12,963.66,186.49,XYZ Company,7/26/2005,9/14/2023,Out of Stock
+103,Mountain Beast,mountain,Bianchi,641.37,627.45,508.27,123 Distributors,11/5/2009,10/21/2023,Available
+104,Trail Blazer,road,Scott,146.17,67.88,870.2,ABC Suppliers,3/20/2014,6/24/2023,Out of Stock
+105,Trail Blazer,cruiser,Giant,847.51,958.73,453.53,123 Distributors,6/15/2014,2/23/2024,Available
+106,City Slicker,hybrid,Trek,901.91,864.75,633.34,123 Distributors,12/6/2011,6/7/2023,Out of Stock
+107,Mountain Beast,cruiser,Cannondale,328.38,449.49,795.83,123 Distributors,9/2/2012,8/25/2023,Discontinued
+108,City Slicker,cruiser,Scott,312.03,179.83,107.8,Best Deals Inc.,3/25/2011,11/11/2023,Discontinued
+109,City Slicker,BMX,Bianchi,667.63,834.4,23.51,Best Deals Inc.,12/31/2011,7/28/2024,Discontinued
+110,Trail Blazer,cruiser,Specialized,824.09,608.43,670.74,123 Distributors,7/8/2020,12/5/2022,Discontinued
+111,Mountain Beast,road,Giant,148.42,712.57,440.74,ABC Suppliers,12/12/2003,10/27/2023,Out of Stock
+112,Mountain Beast,mountain,Bianchi,832.13,66.98,497.66,123 Distributors,9/13/2000,5/28/2024,Discontinued
+113,City Slicker,BMX,Specialized,412.02,97.54,775.73,Best Deals Inc.,11/28/2008,8/16/2023,Available
+114,Urban Cruiser,mountain,Scott,75.71,901.85,877.81,XYZ Company,9/6/2007,12/30/2022,Out of Stock
+115,Speed Demon,BMX,Bianchi,285.7,291.6,286.57,ABC Suppliers,4/25/2008,2/24/2023,Discontinued
+116,City Slicker,road,Trek,293.1,666.39,15.06,123 Distributors,6/17/2016,12/3/2023,Out of Stock
+117,Trail Blazer,BMX,Trek,182.54,962.32,302.54,Best Deals Inc.,4/25/2014,12/27/2022,Out of Stock
+118,Speed Demon,mountain,Scott,247.77,915.46,162.02,Best Deals Inc.,5/20/2003,2/24/2024,Out of Stock
+119,Speed Demon,mountain,Specialized,702.42,164.34,763.45,ABC Suppliers,11/27/2001,9/30/2023,Available
+120,Urban Cruiser,cruiser,Cannondale,65.01,965.73,93.34,XYZ Company,1/27/2013,7/3/2024,Available
+121,Mountain Beast,cruiser,Cannondale,707.73,779.17,848.87,123 Distributors,12/10/2000,1/19/2024,Out of Stock
+122,Trail Blazer,cruiser,Bianchi,128.79,295.33,159.8,ABC Suppliers,9/6/2013,3/31/2023,Out of Stock
+123,Speed Demon,BMX,Bianchi,686.83,741.28,25.28,XYZ Company,5/25/2006,3/27/2024,Discontinued
+124,Trail Blazer,cruiser,Bianchi,869.84,990.69,502.06,XYZ Company,11/14/2008,5/7/2023,Discontinued
+125,Mountain Beast,BMX,Specialized,804.58,90.32,438.64,Best Deals Inc.,1/2/2009,4/17/2023,Discontinued
+126,Mountain Beast,road,Bianchi,907.16,146.33,928.02,Best Deals Inc.,9/29/2008,1/15/2024,Available
+127,City Slicker,mountain,Cannondale,965.78,799.66,722.64,Best Deals Inc.,3/1/2006,6/20/2024,Available
+128,City Slicker,mountain,Specialized,301.55,79.29,786.11,XYZ Company,2/10/2004,7/6/2023,Out of Stock
+129,Mountain Beast,cruiser,Cannondale,786.05,636.64,889.71,Best Deals Inc.,12/28/2009,12/27/2022,Discontinued
+130,Urban Cruiser,road,Scott,745.63,894.9,247.92,123 Distributors,4/19/2014,1/30/2024,Out of Stock
+131,Trail Blazer,BMX,Bianchi,183.77,732.92,166.67,XYZ Company,4/13/2014,2/5/2023,Available
+132,Mountain Beast,road,Specialized,227.95,699.38,181.17,Best Deals Inc.,2/29/2020,7/11/2023,Out of Stock
+133,Trail Blazer,BMX,Cannondale,302.27,716.02,322.48,XYZ Company,4/9/2015,5/30/2023,Out of Stock
+134,Mountain Beast,mountain,Bianchi,243.76,656.76,329.68,123 Distributors,3/6/2011,11/19/2023,Available
+135,Speed Demon,mountain,Cannondale,193.42,220.62,93.69,123 Distributors,12/29/2001,1/3/2024,Out of Stock
+136,Mountain Beast,cruiser,Scott,176.33,439.24,32.7,123 Distributors,7/4/2011,4/10/2024,Out of Stock
+137,Mountain Beast,road,Cannondale,985.18,89.73,998.6,123 Distributors,3/29/2004,3/15/2024,Out of Stock
+138,Trail Blazer,BMX,Cannondale,864.15,422.28,5.82,Best Deals Inc.,8/12/2007,1/29/2023,Discontinued
+139,Trail Blazer,BMX,Bianchi,194.34,413.06,579.32,XYZ Company,9/14/2011,5/14/2024,Out of Stock
+140,Trail Blazer,BMX,Scott,63.49,297.62,807.79,XYZ Company,1/11/2005,12/1/2023,Discontinued
+141,Mountain Beast,cruiser,Cannondale,412.1,841.49,849.01,ABC Suppliers,1/27/2001,1/14/2023,Out of Stock
+142,Trail Blazer,BMX,Specialized,99.17,416.07,608.14,XYZ Company,2/3/2004,9/7/2023,Available
+143,Urban Cruiser,mountain,Bianchi,986.91,919.35,726.61,Best Deals Inc.,4/19/2000,8/29/2023,Available
+144,Urban Cruiser,mountain,Specialized,872.54,664.25,562.04,123 Distributors,10/18/2014,3/31/2023,Out of Stock
+145,Speed Demon,road,Bianchi,517.3,987.43,978.13,Best Deals Inc.,6/22/2021,2/1/2024,Discontinued
+146,Urban Cruiser,cruiser,Scott,759.47,460.92,988.46,ABC Suppliers,4/5/2003,12/28/2022,Out of Stock
+147,City Slicker,hybrid,Scott,611.97,430.18,580.5,XYZ Company,9/18/2006,12/11/2022,Discontinued
+148,Urban Cruiser,cruiser,Trek,864.5,269.94,75.8,Best Deals Inc.,5/28/2000,10/1/2023,Available
+149,Urban Cruiser,road,Giant,43.83,983.06,530.79,123 Distributors,12/9/2005,3/10/2023,Out of Stock
+150,Urban Cruiser,road,Specialized,66.97,474.16,612.88,ABC Suppliers,5/4/2010,5/14/2024,Available
+151,Trail Blazer,road,Cannondale,334.61,925.81,376.89,123 Distributors,9/13/2018,5/21/2023,Discontinued
+152,Speed Demon,road,Scott,122.88,357.85,61.76,Best Deals Inc.,12/6/2015,12/8/2022,Available
+153,Speed Demon,road,Cannondale,754.3,289.46,995.65,Best Deals Inc.,3/25/2003,6/21/2024,Out of Stock
+154,Urban Cruiser,hybrid,Bianchi,821.47,449.42,233.54,ABC Suppliers,10/9/2013,10/15/2023,Available
+155,Urban Cruiser,road,Specialized,210.37,397.1,13.41,ABC Suppliers,5/10/2015,7/6/2024,Discontinued
+156,City Slicker,BMX,Trek,614.4,302.37,900.28,XYZ Company,1/24/2018,6/10/2023,Out of Stock
+157,Trail Blazer,road,Bianchi,761.39,593.69,28.93,123 Distributors,7/5/2015,5/5/2024,Available
+158,Speed Demon,mountain,Bianchi,153.75,182.92,199.98,XYZ Company,9/2/2011,12/2/2023,Out of Stock
+159,Trail Blazer,mountain,Cannondale,717.16,742.64,191.11,Best Deals Inc.,12/4/2003,5/22/2024,Available
+160,Trail Blazer,hybrid,Scott,880.44,584.68,538.49,ABC Suppliers,3/26/2001,5/20/2023,Available
+161,City Slicker,mountain,Scott,889.1,500.08,487.42,ABC Suppliers,5/17/2019,5/31/2023,Available
+162,City Slicker,road,Cannondale,942.34,543.81,582.62,ABC Suppliers,10/21/2011,6/29/2023,Available
+163,Trail Blazer,road,Bianchi,855.48,335.69,273.17,ABC Suppliers,4/13/2003,9/4/2023,Discontinued
+164,Trail Blazer,road,Specialized,464.35,989.28,836.75,XYZ Company,7/30/2011,6/5/2024,Out of Stock
+165,Mountain Beast,cruiser,Giant,218.24,929.09,221.74,ABC Suppliers,4/18/2019,9/24/2023,Out of Stock
+166,City Slicker,road,Bianchi,197.64,748.2,241.99,123 Distributors,4/26/2017,9/16/2023,Discontinued
+167,Urban Cruiser,cruiser,Specialized,173.92,24.64,107.25,Best Deals Inc.,6/23/2019,7/31/2024,Available
+168,Urban Cruiser,mountain,Specialized,575.54,325.07,764.83,123 Distributors,1/15/2001,7/1/2023,Discontinued
+169,Speed Demon,cruiser,Scott,128.35,519.33,305.24,Best Deals Inc.,6/5/2017,5/17/2023,Out of Stock
+170,Urban Cruiser,BMX,Bianchi,870.79,447.37,606.82,123 Distributors,4/1/2009,4/15/2023,Discontinued
+171,City Slicker,road,Cannondale,415.74,796.31,947.91,XYZ Company,3/25/2008,2/10/2024,Out of Stock
+172,Trail Blazer,road,Scott,128.16,399.99,261.4,Best Deals Inc.,12/26/2013,1/4/2024,Available
+173,Speed Demon,road,Specialized,914.66,786.81,734.27,XYZ Company,6/24/2015,5/17/2023,Out of Stock
+174,Mountain Beast,BMX,Bianchi,828.73,237.25,562.15,ABC Suppliers,5/12/2011,1/23/2024,Out of Stock
+175,Trail Blazer,cruiser,Specialized,504.64,610.98,767.49,123 Distributors,2/6/2012,3/8/2023,Discontinued
+176,Urban Cruiser,road,Specialized,822.51,342.59,748.01,ABC Suppliers,7/8/2002,9/15/2023,Available
+177,City Slicker,mountain,Cannondale,412.92,217.58,284.35,123 Distributors,5/3/2003,3/14/2023,Available
+178,Trail Blazer,hybrid,Cannondale,155.55,224.81,241.46,ABC Suppliers,4/25/2014,6/27/2024,Discontinued
+179,Trail Blazer,cruiser,Cannondale,941.21,519.16,903.67,ABC Suppliers,1/9/2011,11/28/2023,Available
+180,Urban Cruiser,cruiser,Trek,43.3,639.54,609.28,ABC Suppliers,5/27/2016,6/15/2023,Discontinued
+181,Speed Demon,hybrid,Cannondale,841.31,485.57,532.97,ABC Suppliers,10/12/2012,1/18/2024,Discontinued
+182,City Slicker,mountain,Bianchi,271.65,241.68,237.11,ABC Suppliers,10/10/2000,12/5/2022,Out of Stock
+183,Speed Demon,hybrid,Bianchi,246.88,245.79,358.04,XYZ Company,6/25/2011,1/25/2024,Discontinued
+184,Speed Demon,mountain,Giant,523.77,330.22,65.68,Best Deals Inc.,4/22/2017,2/14/2024,Out of Stock
+185,Speed Demon,cruiser,Scott,206.31,149.32,999.24,Best Deals Inc.,2/12/2001,2/16/2024,Available
+186,Speed Demon,road,Bianchi,896.01,46.18,124.22,Best Deals Inc.,3/8/2005,2/23/2024,Out of Stock
+187,Mountain Beast,road,Scott,119.65,489.22,545.99,XYZ Company,6/14/2009,2/19/2024,Available
+188,Urban Cruiser,cruiser,Trek,302.13,708.9,626.82,Best Deals Inc.,1/12/2006,1/4/2024,Available
+189,Trail Blazer,road,Cannondale,767.61,640.84,847.09,XYZ Company,8/3/2009,3/3/2023,Available
+190,Trail Blazer,road,Trek,135.81,117.42,635.68,ABC Suppliers,6/29/2016,2/2/2024,Discontinued
+191,Mountain Beast,road,Bianchi,900.76,417.36,655.09,ABC Suppliers,11/27/2012,3/23/2024,Out of Stock
+192,Urban Cruiser,cruiser,Trek,259.87,430.89,547.74,XYZ Company,8/13/2004,3/31/2024,Out of Stock
+193,Trail Blazer,BMX,Cannondale,396.88,224.7,663.91,XYZ Company,2/22/2008,7/6/2023,Discontinued
+194,Urban Cruiser,cruiser,Giant,261.76,707.67,719.91,123 Distributors,1/17/2007,3/20/2024,Available
+195,Mountain Beast,BMX,Giant,453.17,943.32,415.37,ABC Suppliers,4/28/2021,3/4/2024,Discontinued
+196,Mountain Beast,hybrid,Cannondale,495.78,255.6,666.7,123 Distributors,4/12/2019,2/15/2024,Out of Stock
+197,City Slicker,road,Trek,750.93,17.87,374.47,Best Deals Inc.,12/22/2000,2/16/2024,Available
+198,Urban Cruiser,hybrid,Bianchi,700.3,664.24,846.47,ABC Suppliers,4/8/2007,2/17/2023,Discontinued
+199,City Slicker,mountain,Cannondale,529.18,99.27,105.08,ABC Suppliers,11/19/2015,1/3/2023,Discontinued
+200,Urban Cruiser,BMX,Trek,45.14,685.36,27.78,Best Deals Inc.,9/17/2002,2/21/2023,Out of Stock
+201,City Slicker,BMX,Cannondale,835.97,167.64,930.89,123 Distributors,11/4/2003,1/3/2023,Available
+202,Trail Blazer,hybrid,Trek,646.89,726.15,803.55,Best Deals Inc.,5/7/2007,7/11/2024,Out of Stock
+203,City Slicker,mountain,Scott,990.63,637.72,817.3,ABC Suppliers,9/3/2011,12/13/2023,Available
+204,City Slicker,BMX,Bianchi,499.35,780.31,308.48,ABC Suppliers,4/27/2009,6/24/2023,Available
+205,Mountain Beast,BMX,Scott,56.33,235.73,170.37,123 Distributors,3/26/2017,12/6/2022,Available
+206,Speed Demon,cruiser,Scott,338.79,1.95,542.91,Best Deals Inc.,12/19/2008,3/19/2023,Discontinued
+207,Mountain Beast,BMX,Giant,909.89,932.71,309.59,Best Deals Inc.,8/7/2001,6/20/2024,Discontinued
+208,Trail Blazer,BMX,Scott,42.47,63.16,943.09,ABC Suppliers,10/21/2017,3/25/2024,Out of Stock
+209,Urban Cruiser,mountain,Trek,60.46,389.13,876.87,123 Distributors,6/21/2017,4/17/2023,Available
+210,Mountain Beast,BMX,Scott,765.97,557.46,467.93,Best Deals Inc.,6/26/2020,3/12/2024,Available
+211,City Slicker,cruiser,Scott,93.75,196.29,417.41,123 Distributors,7/3/2016,5/2/2024,Available
+212,Mountain Beast,mountain,Trek,445.44,590.27,300.05,XYZ Company,5/17/2020,12/29/2022,Discontinued
+213,Urban Cruiser,hybrid,Bianchi,78.71,178.64,883.49,Best Deals Inc.,8/14/2017,7/11/2024,Discontinued
+214,Trail Blazer,hybrid,Cannondale,648.86,579.34,520.95,Best Deals Inc.,9/14/2004,7/10/2023,Out of Stock
+215,City Slicker,BMX,Giant,456.77,864.28,33.19,ABC Suppliers,9/2/2005,8/3/2023,Discontinued
+216,Urban Cruiser,road,Scott,218.76,124.84,18.04,123 Distributors,8/7/2011,1/7/2023,Discontinued
+217,Trail Blazer,road,Cannondale,565.08,490.71,958.9,ABC Suppliers,7/18/2012,5/25/2023,Out of Stock
+218,Speed Demon,BMX,Giant,629.73,994.45,238.17,123 Distributors,4/26/2001,2/26/2024,Discontinued
+219,Trail Blazer,mountain,Bianchi,315.79,917.51,174.0,XYZ Company,11/8/2011,3/26/2023,Discontinued
+220,Speed Demon,hybrid,Giant,1.86,213.34,376.51,Best Deals Inc.,2/15/2017,1/25/2023,Available
+221,Trail Blazer,BMX,Bianchi,367.31,880.31,525.49,123 Distributors,11/29/2002,11/13/2023,Out of Stock
+222,Speed Demon,mountain,Bianchi,141.34,703.8,638.43,ABC Suppliers,4/1/2006,2/22/2024,Available
+223,Speed Demon,cruiser,Giant,651.31,896.53,443.19,Best Deals Inc.,6/2/2002,8/28/2023,Available
+224,Urban Cruiser,road,Giant,345.04,725.78,141.4,123 Distributors,4/1/2007,10/21/2023,Discontinued
+225,Urban Cruiser,cruiser,Bianchi,403.95,291.23,573.83,ABC Suppliers,12/2/2021,6/25/2023,Discontinued
+226,Speed Demon,mountain,Trek,973.54,418.59,0.96,ABC Suppliers,9/6/2019,4/25/2023,Available
+227,Urban Cruiser,hybrid,Bianchi,481.66,924.1,751.11,Best Deals Inc.,4/6/2017,8/25/2023,Available
+228,City Slicker,BMX,Cannondale,403.27,670.59,105.42,123 Distributors,8/18/2003,2/3/2023,Out of Stock
+229,Mountain Beast,BMX,Scott,480.19,189.92,506.69,XYZ Company,5/16/2018,4/25/2024,Discontinued
+230,Trail Blazer,BMX,Bianchi,970.0,113.01,829.58,Best Deals Inc.,6/4/2003,12/22/2023,Available
+231,Speed Demon,BMX,Bianchi,418.05,390.08,764.31,123 Distributors,11/12/2002,5/22/2024,Available
+232,Mountain Beast,mountain,Giant,458.36,220.85,415.72,Best Deals Inc.,2/2/2008,10/18/2023,Discontinued
+233,City Slicker,BMX,Giant,921.96,920.43,763.0,ABC Suppliers,7/10/2011,1/21/2024,Available
+234,Mountain Beast,BMX,Bianchi,791.21,702.43,804.21,123 Distributors,6/16/2011,1/12/2023,Discontinued
+235,Urban Cruiser,BMX,Trek,338.3,586.16,605.7,Best Deals Inc.,2/17/2005,7/20/2023,Discontinued
+236,Mountain Beast,BMX,Giant,118.45,390.68,49.92,ABC Suppliers,12/3/2006,3/28/2024,Available
+237,City Slicker,hybrid,Giant,733.59,982.55,535.92,XYZ Company,2/17/2011,10/11/2023,Out of Stock
+238,City Slicker,BMX,Giant,690.66,898.8,177.33,XYZ Company,10/12/2001,6/18/2023,Out of Stock
+239,Trail Blazer,road,Specialized,401.83,520.59,717.82,XYZ Company,2/5/2015,6/17/2023,Available
+240,Urban Cruiser,BMX,Bianchi,381.16,53.24,479.29,Best Deals Inc.,9/9/2013,2/2/2024,Out of Stock
+241,Urban Cruiser,road,Scott,622.28,208.64,110.58,123 Distributors,5/9/2000,5/16/2024,Discontinued
+242,Mountain Beast,BMX,Trek,933.62,483.1,858.72,Best Deals Inc.,2/24/2021,12/16/2022,Available
+243,Urban Cruiser,BMX,Cannondale,790.96,503.51,783.9,XYZ Company,7/8/2018,8/1/2023,Available
+244,Urban Cruiser,mountain,Giant,911.59,527.48,769.92,Best Deals Inc.,8/5/2021,4/19/2024,Out of Stock
+245,Urban Cruiser,road,Giant,686.85,49.57,789.45,123 Distributors,5/7/2000,2/3/2024,Available
+246,Mountain Beast,cruiser,Cannondale,688.56,3.27,336.52,ABC Suppliers,4/18/2010,8/3/2023,Discontinued
+247,Trail Blazer,hybrid,Trek,829.84,748.59,706.89,Best Deals Inc.,3/6/2002,2/10/2024,Out of Stock
+248,Trail Blazer,cruiser,Bianchi,847.69,392.94,52.82,123 Distributors,8/14/2003,6/27/2024,Discontinued
+249,Urban Cruiser,cruiser,Cannondale,968.68,884.9,687.26,XYZ Company,2/17/2003,4/24/2023,Out of Stock
+250,Urban Cruiser,road,Trek,783.02,575.99,35.96,ABC Suppliers,7/4/2005,1/17/2024,Discontinued
+251,Trail Blazer,BMX,Giant,346.11,826.69,111.32,XYZ Company,4/19/2013,4/27/2023,Out of Stock
+252,City Slicker,cruiser,Giant,165.86,779.67,396.44,Best Deals Inc.,2/3/2014,7/23/2023,Available
+253,Speed Demon,road,Bianchi,87.33,447.22,850.96,ABC Suppliers,4/18/2019,4/27/2024,Out of Stock
+254,Urban Cruiser,road,Cannondale,970.59,542.25,247.79,Best Deals Inc.,7/10/2008,4/5/2024,Available
+255,Trail Blazer,mountain,Bianchi,199.81,886.33,227.69,123 Distributors,7/31/2011,1/9/2023,Discontinued
+256,City Slicker,hybrid,Scott,365.88,806.16,451.87,Best Deals Inc.,6/5/2015,8/19/2023,Discontinued
+257,City Slicker,BMX,Trek,755.76,296.32,745.57,123 Distributors,11/27/2015,7/1/2024,Available
+258,Urban Cruiser,hybrid,Trek,697.22,38.3,171.52,Best Deals Inc.,5/2/2013,7/3/2023,Out of Stock
+259,Mountain Beast,cruiser,Bianchi,880.33,799.03,299.49,123 Distributors,9/29/2004,9/1/2023,Out of Stock
+260,Mountain Beast,cruiser,Giant,987.39,246.42,235.6,123 Distributors,6/23/2002,4/10/2024,Available
+261,Trail Blazer,BMX,Scott,622.87,827.0,280.87,ABC Suppliers,12/7/2004,6/14/2023,Discontinued
+262,Speed Demon,BMX,Cannondale,244.42,324.93,322.07,Best Deals Inc.,9/18/2002,9/22/2023,Available
+263,City Slicker,road,Scott,673.06,738.34,244.14,Best Deals Inc.,6/24/2010,6/7/2023,Discontinued
+264,Urban Cruiser,mountain,Scott,991.58,235.93,157.62,XYZ Company,1/31/2008,1/20/2024,Discontinued
+265,Urban Cruiser,hybrid,Cannondale,738.84,126.3,840.4,ABC Suppliers,9/19/2000,11/21/2023,Out of Stock
+266,Urban Cruiser,road,Giant,49.93,599.73,418.15,123 Distributors,8/11/2010,10/1/2023,Discontinued
+267,Mountain Beast,cruiser,Scott,723.07,663.29,118.14,ABC Suppliers,9/24/2004,4/11/2023,Available
+268,Speed Demon,cruiser,Giant,152.93,689.46,557.67,ABC Suppliers,11/30/2006,1/3/2024,Discontinued
+269,Urban Cruiser,BMX,Scott,816.84,256.36,168.8,Best Deals Inc.,11/20/2014,2/14/2024,Out of Stock
+270,Speed Demon,road,Giant,638.82,555.63,532.28,XYZ Company,1/18/2020,12/17/2023,Discontinued
+271,Mountain Beast,mountain,Specialized,838.21,504.43,301.38,Best Deals Inc.,1/12/2001,5/20/2024,Available
+272,Speed Demon,mountain,Specialized,441.33,67.26,837.39,ABC Suppliers,8/24/2019,7/6/2023,Discontinued
+273,Speed Demon,cruiser,Scott,897.88,928.56,321.58,123 Distributors,9/15/2019,6/3/2023,Out of Stock
+274,Speed Demon,cruiser,Giant,360.1,577.15,593.96,Best Deals Inc.,6/17/2006,12/16/2022,Available
+275,Speed Demon,road,Giant,598.46,118.63,745.72,XYZ Company,4/21/2007,2/12/2023,Available
+276,Trail Blazer,hybrid,Trek,775.74,360.2,409.02,Best Deals Inc.,8/16/2001,1/23/2024,Out of Stock
+277,Mountain Beast,mountain,Giant,939.59,107.17,887.26,Best Deals Inc.,8/3/2015,12/23/2023,Discontinued
+278,Mountain Beast,mountain,Giant,471.95,740.45,444.34,XYZ Company,8/25/2007,3/5/2023,Available
+279,City Slicker,hybrid,Specialized,149.23,42.42,831.37,123 Distributors,4/11/2020,3/9/2024,Out of Stock
+280,Urban Cruiser,road,Specialized,320.5,562.79,828.17,123 Distributors,10/14/2002,9/28/2023,Available
+281,Mountain Beast,cruiser,Specialized,458.38,297.68,253.22,ABC Suppliers,7/12/2016,11/26/2023,Available
+282,Mountain Beast,hybrid,Scott,998.27,972.24,43.07,Best Deals Inc.,8/25/2013,4/1/2023,Available
+283,Mountain Beast,hybrid,Cannondale,405.6,366.57,511.71,XYZ Company,8/14/2016,2/18/2024,Discontinued
+284,Speed Demon,cruiser,Giant,233.23,153.59,816.76,Best Deals Inc.,10/31/2019,7/7/2023,Discontinued
+285,Trail Blazer,cruiser,Specialized,186.96,690.66,573.2,XYZ Company,11/12/2010,1/7/2023,Discontinued
+286,Speed Demon,hybrid,Bianchi,252.27,577.01,768.39,Best Deals Inc.,1/27/2000,11/27/2023,Available
+287,Mountain Beast,BMX,Giant,643.05,992.06,520.85,XYZ Company,10/10/2013,4/11/2024,Available
+288,Urban Cruiser,road,Scott,71.38,46.89,182.22,XYZ Company,5/31/2021,7/19/2023,Available
+289,Mountain Beast,cruiser,Cannondale,639.99,358.24,815.5,ABC Suppliers,7/4/2007,9/20/2023,Available
+290,City Slicker,hybrid,Trek,684.54,113.06,155.49,XYZ Company,6/19/2013,2/25/2024,Out of Stock
+291,Speed Demon,cruiser,Giant,338.37,548.51,791.61,123 Distributors,2/2/2001,1/17/2023,Out of Stock
+292,Mountain Beast,mountain,Cannondale,352.89,628.44,109.79,123 Distributors,2/21/2015,5/11/2024,Available
+293,City Slicker,road,Trek,63.48,615.61,188.26,Best Deals Inc.,2/22/2021,10/10/2023,Out of Stock
+294,City Slicker,mountain,Trek,153.43,741.05,156.38,Best Deals Inc.,10/6/2021,7/2/2024,Out of Stock
+295,Urban Cruiser,mountain,Trek,268.82,132.48,447.36,123 Distributors,5/11/2021,7/10/2024,Available
+296,City Slicker,mountain,Giant,694.04,779.98,602.9,ABC Suppliers,6/15/2003,9/1/2023,Out of Stock
+297,Mountain Beast,road,Trek,177.65,641.66,103.58,ABC Suppliers,1/26/2012,10/16/2023,Discontinued
+298,Trail Blazer,cruiser,Trek,515.92,318.77,545.89,123 Distributors,6/27/2002,4/18/2023,Discontinued
+299,Urban Cruiser,hybrid,Bianchi,234.92,897.34,219.72,123 Distributors,3/7/2017,7/4/2023,Out of Stock
+300,City Slicker,mountain,Giant,507.42,488.18,972.04,Best Deals Inc.,1/26/2021,3/2/2023,Discontinued
+301,Trail Blazer,mountain,Trek,213.25,506.8,289.41,ABC Suppliers,1/13/2000,12/24/2022,Discontinued
+302,Urban Cruiser,road,Giant,294.67,177.09,597.53,ABC Suppliers,3/25/2017,3/4/2023,Available
+303,Urban Cruiser,mountain,Specialized,952.32,892.78,409.8,ABC Suppliers,4/25/2013,4/27/2023,Discontinued
+304,Speed Demon,road,Bianchi,785.5,191.95,340.12,Best Deals Inc.,6/15/2014,8/21/2023,Out of Stock
+305,Trail Blazer,hybrid,Trek,959.68,669.73,261.66,Best Deals Inc.,4/5/2016,6/26/2023,Available
+306,City Slicker,BMX,Scott,190.54,2.33,639.58,123 Distributors,12/6/2009,1/7/2023,Out of Stock
+307,Urban Cruiser,mountain,Scott,922.87,692.21,940.98,Best Deals Inc.,5/3/2010,4/7/2023,Out of Stock
+308,Urban Cruiser,cruiser,Giant,429.36,979.28,357.61,Best Deals Inc.,8/16/2001,11/26/2023,Available
+309,Speed Demon,BMX,Cannondale,463.72,325.28,744.39,123 Distributors,6/16/2002,4/5/2023,Available
+310,Mountain Beast,cruiser,Cannondale,269.93,975.81,47.41,123 Distributors,4/27/2000,6/9/2023,Discontinued
+311,Speed Demon,mountain,Cannondale,783.17,191.09,601.33,123 Distributors,10/12/2010,8/2/2023,Out of Stock
+312,City Slicker,BMX,Trek,727.7,637.78,249.05,Best Deals Inc.,2/11/2011,6/4/2024,Discontinued
+313,Urban Cruiser,road,Giant,861.37,418.69,116.65,123 Distributors,8/8/2001,4/13/2024,Available
+314,Urban Cruiser,BMX,Trek,841.82,866.22,531.36,ABC Suppliers,1/1/2013,5/12/2023,Available
+315,Trail Blazer,BMX,Bianchi,496.9,812.38,906.18,123 Distributors,12/22/2011,3/14/2024,Discontinued
+316,Speed Demon,mountain,Trek,609.7,299.41,974.5,Best Deals Inc.,11/28/2003,2/11/2023,Discontinued
+317,Urban Cruiser,hybrid,Bianchi,67.75,790.8,306.08,ABC Suppliers,11/21/2010,8/1/2023,Out of Stock
+318,Trail Blazer,BMX,Cannondale,531.24,110.08,604.57,123 Distributors,12/17/2000,7/13/2023,Available
+319,Mountain Beast,hybrid,Giant,928.61,609.69,181.72,Best Deals Inc.,12/31/2016,3/10/2024,Discontinued
+320,City Slicker,road,Giant,237.64,996.33,256.54,ABC Suppliers,5/15/2015,1/17/2023,Out of Stock
+321,Mountain Beast,hybrid,Giant,798.13,356.01,234.17,Best Deals Inc.,3/18/2003,6/6/2023,Discontinued
+322,Urban Cruiser,cruiser,Trek,720.71,94.57,185.9,123 Distributors,9/14/2015,1/27/2024,Out of Stock
+323,Trail Blazer,BMX,Scott,603.32,115.99,596.62,Best Deals Inc.,7/9/2020,2/26/2024,Out of Stock
+324,City Slicker,road,Specialized,286.18,393.06,924.92,123 Distributors,7/4/2010,1/24/2023,Available
+325,City Slicker,mountain,Scott,832.42,55.28,219.88,Best Deals Inc.,1/17/2008,7/24/2023,Out of Stock
+326,Mountain Beast,hybrid,Trek,906.2,971.53,146.09,Best Deals Inc.,12/14/2018,3/11/2023,Out of Stock
+327,Urban Cruiser,BMX,Cannondale,691.95,380.6,430.09,Best Deals Inc.,10/27/2015,2/17/2024,Discontinued
+328,City Slicker,road,Specialized,182.44,15.36,137.79,ABC Suppliers,6/21/2007,5/12/2024,Out of Stock
+329,Mountain Beast,hybrid,Bianchi,121.06,931.45,188.25,123 Distributors,10/3/2003,7/19/2023,Available
+330,Speed Demon,mountain,Trek,898.32,89.77,817.26,XYZ Company,2/11/2020,7/31/2023,Out of Stock
+331,Trail Blazer,mountain,Scott,822.15,791.9,563.45,ABC Suppliers,4/28/2001,3/28/2023,Available
+332,Trail Blazer,mountain,Giant,482.76,377.52,651.53,Best Deals Inc.,2/14/2007,8/11/2023,Out of Stock
+333,Urban Cruiser,cruiser,Giant,845.48,599.12,314.91,XYZ Company,10/30/2008,5/4/2023,Available
+334,Trail Blazer,road,Giant,491.61,265.28,120.4,Best Deals Inc.,10/17/2019,12/7/2023,Out of Stock
+335,Mountain Beast,mountain,Bianchi,116.76,952.95,44.27,123 Distributors,3/9/2009,11/7/2023,Available
+336,City Slicker,hybrid,Bianchi,390.92,912.41,839.82,XYZ Company,5/3/2012,7/31/2024,Discontinued
+337,Speed Demon,hybrid,Scott,532.6,688.49,491.15,Best Deals Inc.,5/26/2003,5/14/2023,Out of Stock
+338,City Slicker,mountain,Specialized,957.58,896.94,854.68,123 Distributors,3/3/2005,5/3/2023,Out of Stock
+339,City Slicker,road,Cannondale,761.04,676.54,584.81,Best Deals Inc.,2/15/2012,4/10/2023,Out of Stock
+340,Urban Cruiser,mountain,Specialized,718.92,633.31,949.65,Best Deals Inc.,8/18/2006,3/24/2024,Out of Stock
+341,Speed Demon,hybrid,Specialized,19.29,431.86,346.43,ABC Suppliers,10/1/2020,12/7/2022,Discontinued
+342,Mountain Beast,mountain,Scott,505.43,471.88,117.23,ABC Suppliers,5/9/2010,11/27/2023,Available
+343,City Slicker,cruiser,Bianchi,848.88,497.64,73.84,ABC Suppliers,11/30/2003,4/10/2023,Out of Stock
+344,Trail Blazer,cruiser,Giant,547.28,598.61,599.69,XYZ Company,4/18/2013,12/16/2023,Available
+345,Speed Demon,mountain,Giant,4.83,17.93,911.19,ABC Suppliers,7/25/2010,10/6/2023,Available
+346,City Slicker,hybrid,Cannondale,50.07,538.31,723.99,Best Deals Inc.,4/7/2015,6/17/2024,Out of Stock
+347,Urban Cruiser,cruiser,Bianchi,387.12,964.13,885.82,123 Distributors,8/19/2002,3/26/2024,Out of Stock
+348,Speed Demon,mountain,Specialized,571.29,842.44,222.67,XYZ Company,6/28/2009,3/3/2024,Available
+349,Trail Blazer,cruiser,Giant,977.26,728.94,654.6,XYZ Company,7/11/2020,4/22/2023,Discontinued
+350,City Slicker,cruiser,Trek,557.78,686.82,279.58,XYZ Company,3/27/2009,6/29/2023,Available
+351,Mountain Beast,mountain,Giant,77.91,416.39,595.88,Best Deals Inc.,7/30/2019,2/24/2024,Discontinued
+352,Trail Blazer,BMX,Giant,814.18,926.73,45.56,123 Distributors,3/5/2011,4/13/2024,Available
+353,Urban Cruiser,cruiser,Bianchi,467.28,507.75,361.6,XYZ Company,4/30/2014,11/23/2023,Discontinued
+354,Speed Demon,hybrid,Bianchi,483.63,885.77,437.78,XYZ Company,5/15/2014,8/4/2023,Discontinued
+355,City Slicker,BMX,Specialized,105.43,777.81,951.63,XYZ Company,4/4/2004,3/8/2023,Discontinued
+356,Mountain Beast,mountain,Giant,261.13,929.13,223.79,ABC Suppliers,4/27/2003,6/28/2024,Out of Stock
+357,Trail Blazer,mountain,Cannondale,509.56,358.32,228.61,123 Distributors,3/16/2001,2/11/2023,Out of Stock
+358,Urban Cruiser,cruiser,Scott,602.28,263.62,123.51,ABC Suppliers,7/11/2021,1/22/2023,Discontinued
+359,Speed Demon,hybrid,Trek,114.13,397.88,729.82,XYZ Company,7/12/2019,5/24/2023,Discontinued
+360,Speed Demon,hybrid,Trek,725.79,457.88,556.72,123 Distributors,9/15/2016,4/3/2024,Out of Stock
+361,Mountain Beast,cruiser,Cannondale,736.93,88.22,682.04,123 Distributors,2/23/2021,2/10/2023,Discontinued
+362,Urban Cruiser,hybrid,Specialized,511.78,828.85,280.11,123 Distributors,10/22/2008,12/4/2022,Discontinued
+363,Speed Demon,cruiser,Scott,255.54,204.13,146.85,123 Distributors,4/23/2020,11/12/2023,Out of Stock
+364,Speed Demon,hybrid,Specialized,207.91,699.84,316.26,XYZ Company,6/22/2013,4/21/2023,Available
+365,City Slicker,hybrid,Specialized,98.34,88.17,73.47,Best Deals Inc.,3/26/2009,4/27/2023,Available
+366,Speed Demon,road,Specialized,821.98,447.7,838.15,Best Deals Inc.,4/12/2014,3/24/2023,Available
+367,City Slicker,BMX,Giant,731.9,519.83,117.64,XYZ Company,12/30/2001,12/7/2023,Discontinued
+368,Trail Blazer,cruiser,Specialized,142.46,144.88,917.09,ABC Suppliers,3/16/2014,1/6/2024,Discontinued
+369,City Slicker,cruiser,Cannondale,240.39,881.76,952.49,XYZ Company,11/1/2010,2/8/2023,Available
+370,Mountain Beast,BMX,Trek,793.34,333.75,50.13,ABC Suppliers,7/9/2012,11/8/2023,Discontinued
+371,Speed Demon,cruiser,Trek,632.65,501.39,300.87,ABC Suppliers,8/28/2010,12/21/2023,Discontinued
+372,Urban Cruiser,mountain,Cannondale,96.8,744.44,738.06,XYZ Company,3/12/2010,11/11/2023,Discontinued
+373,Speed Demon,road,Trek,287.1,160.66,157.98,Best Deals Inc.,11/22/2011,1/14/2024,Discontinued
+374,Mountain Beast,road,Cannondale,403.49,483.64,485.24,123 Distributors,5/26/2010,12/14/2023,Available
+375,Speed Demon,road,Bianchi,234.01,503.26,483.1,ABC Suppliers,4/4/2020,3/13/2023,Discontinued
+376,City Slicker,cruiser,Scott,327.64,627.72,321.95,Best Deals Inc.,6/19/2010,9/3/2023,Out of Stock
+377,Mountain Beast,road,Giant,70.68,681.11,999.63,123 Distributors,11/18/2015,3/11/2024,Discontinued
+378,Trail Blazer,BMX,Bianchi,829.85,474.94,0.4,ABC Suppliers,11/15/2018,5/31/2023,Discontinued
+379,Trail Blazer,mountain,Specialized,343.04,796.02,96.05,XYZ Company,2/15/2009,12/5/2023,Discontinued
+380,City Slicker,BMX,Bianchi,150.33,910.86,241.35,ABC Suppliers,4/4/2016,9/16/2023,Out of Stock
+381,Mountain Beast,cruiser,Scott,675.54,179.47,674.99,Best Deals Inc.,3/24/2014,9/30/2023,Out of Stock
+382,Mountain Beast,cruiser,Scott,127.31,37.51,203.97,123 Distributors,4/6/2014,11/25/2023,Available
+383,Trail Blazer,BMX,Trek,642.24,808.95,776.31,Best Deals Inc.,12/10/2003,2/17/2024,Available
+384,Trail Blazer,road,Scott,198.85,418.0,781.2,XYZ Company,8/3/2014,6/1/2023,Discontinued
+385,Mountain Beast,BMX,Bianchi,344.47,704.01,676.09,XYZ Company,10/13/2004,6/30/2023,Available
+386,Urban Cruiser,BMX,Cannondale,568.99,335.1,253.81,ABC Suppliers,10/27/2000,12/14/2022,Available
+387,City Slicker,mountain,Scott,53.67,470.16,244.59,123 Distributors,9/19/2000,6/30/2023,Out of Stock
+388,Mountain Beast,road,Trek,462.46,765.43,262.59,123 Distributors,3/21/2007,3/17/2023,Out of Stock
+389,Trail Blazer,cruiser,Scott,86.12,756.78,110.18,Best Deals Inc.,1/29/2004,5/17/2023,Discontinued
+390,Mountain Beast,cruiser,Specialized,393.86,271.34,202.5,Best Deals Inc.,5/22/2011,6/6/2024,Available
+391,Mountain Beast,cruiser,Scott,444.06,591.3,109.09,Best Deals Inc.,7/1/2006,9/17/2023,Available
+392,Speed Demon,BMX,Specialized,308.84,449.72,408.47,XYZ Company,8/31/2020,4/24/2023,Discontinued
+393,Mountain Beast,mountain,Trek,83.43,783.01,438.9,XYZ Company,8/3/2007,9/26/2023,Available
+394,Urban Cruiser,BMX,Giant,301.61,651.32,473.9,Best Deals Inc.,12/8/2018,11/13/2023,Discontinued
+395,Trail Blazer,hybrid,Giant,768.87,486.51,709.05,ABC Suppliers,3/14/2017,7/8/2024,Available
+396,Speed Demon,road,Trek,19.0,827.38,645.83,Best Deals Inc.,6/26/2018,6/17/2023,Discontinued
+397,City Slicker,road,Specialized,636.69,248.49,911.23,Best Deals Inc.,6/2/2011,7/8/2024,Out of Stock
+398,Speed Demon,BMX,Scott,595.64,374.43,494.22,ABC Suppliers,7/17/2008,6/5/2023,Out of Stock
+399,Mountain Beast,hybrid,Scott,628.23,114.49,117.34,XYZ Company,7/9/2016,4/17/2023,Out of Stock
+400,City Slicker,BMX,Scott,72.46,630.76,159.53,123 Distributors,11/1/2010,7/16/2023,Discontinued
+401,Mountain Beast,cruiser,Scott,267.86,473.64,139.33,ABC Suppliers,12/9/2015,4/22/2024,Available
+402,City Slicker,mountain,Trek,237.21,512.91,746.4,ABC Suppliers,5/12/2004,9/30/2023,Out of Stock
+403,City Slicker,cruiser,Cannondale,612.5,797.52,900.91,XYZ Company,3/26/2006,1/18/2023,Available
+404,Urban Cruiser,hybrid,Bianchi,112.92,469.55,655.8,123 Distributors,9/6/2015,5/6/2023,Discontinued
+405,Trail Blazer,hybrid,Specialized,776.2,706.86,843.62,XYZ Company,1/20/2003,1/7/2024,Available
+406,Mountain Beast,cruiser,Cannondale,382.73,770.89,893.49,123 Distributors,9/22/2010,4/22/2023,Out of Stock
+407,Speed Demon,BMX,Bianchi,159.09,108.47,413.4,ABC Suppliers,1/7/2019,2/12/2023,Available
+408,Urban Cruiser,BMX,Scott,226.35,290.87,912.37,ABC Suppliers,9/29/2007,6/11/2023,Out of Stock
+409,Trail Blazer,BMX,Bianchi,830.83,134.28,998.66,Best Deals Inc.,9/29/2013,12/24/2023,Out of Stock
+410,Trail Blazer,cruiser,Scott,257.76,824.45,370.79,Best Deals Inc.,1/30/2015,4/1/2023,Available
+411,Speed Demon,hybrid,Bianchi,411.92,942.78,496.9,Best Deals Inc.,12/14/2017,9/6/2023,Out of Stock
+412,Trail Blazer,mountain,Scott,616.09,186.45,926.67,XYZ Company,7/23/2011,11/2/2023,Out of Stock
+413,Urban Cruiser,mountain,Bianchi,841.73,965.78,9.25,Best Deals Inc.,10/23/2008,12/3/2023,Out of Stock
+414,Urban Cruiser,mountain,Specialized,321.07,45.16,237.66,XYZ Company,5/9/2001,10/11/2023,Out of Stock
+415,City Slicker,hybrid,Giant,385.98,22.61,133.05,123 Distributors,6/10/2013,7/1/2023,Discontinued
+416,City Slicker,road,Trek,440.23,159.85,140.89,123 Distributors,2/19/2014,10/27/2023,Out of Stock
+417,Urban Cruiser,BMX,Trek,346.79,682.47,426.12,ABC Suppliers,5/30/2009,9/27/2023,Discontinued
+418,City Slicker,mountain,Bianchi,748.34,758.27,902.25,123 Distributors,5/12/2014,12/8/2023,Out of Stock
+419,Trail Blazer,cruiser,Scott,177.67,926.99,721.95,123 Distributors,11/9/2013,7/14/2023,Available
+420,Mountain Beast,mountain,Cannondale,511.64,490.6,657.2,XYZ Company,4/23/2001,7/4/2023,Discontinued
+421,Speed Demon,BMX,Cannondale,63.02,32.28,90.24,XYZ Company,4/8/2007,6/23/2024,Out of Stock
+422,Trail Blazer,hybrid,Cannondale,314.89,789.52,722.58,XYZ Company,4/25/2017,2/14/2023,Available
+423,Mountain Beast,hybrid,Scott,643.59,406.77,715.87,ABC Suppliers,11/20/2016,3/5/2023,Available
+424,Mountain Beast,cruiser,Scott,408.6,617.54,104.7,ABC Suppliers,9/22/2013,7/2/2024,Available
+425,City Slicker,BMX,Trek,919.74,583.41,822.68,123 Distributors,4/23/2017,5/30/2023,Discontinued
+426,Mountain Beast,hybrid,Bianchi,769.93,793.68,545.38,XYZ Company,9/24/2021,2/24/2023,Discontinued
+427,Urban Cruiser,BMX,Giant,770.56,61.47,812.85,123 Distributors,8/10/2010,3/17/2024,Available
+428,Urban Cruiser,mountain,Specialized,104.21,851.95,883.07,ABC Suppliers,4/23/2011,6/16/2024,Discontinued
+429,Trail Blazer,mountain,Cannondale,365.21,587.34,617.9,Best Deals Inc.,3/18/2013,4/14/2024,Available
+430,Urban Cruiser,cruiser,Cannondale,99.78,458.78,295.68,XYZ Company,11/11/2010,10/9/2023,Out of Stock
+431,Mountain Beast,hybrid,Bianchi,215.06,314.04,818.77,123 Distributors,5/30/2011,7/18/2024,Discontinued
+432,Speed Demon,hybrid,Specialized,100.38,490.88,265.22,ABC Suppliers,4/24/2011,9/10/2023,Available
+433,Urban Cruiser,hybrid,Specialized,217.17,208.32,553.42,123 Distributors,2/8/2020,1/27/2024,Out of Stock
+434,Mountain Beast,BMX,Trek,615.52,26.34,384.06,123 Distributors,10/19/2006,4/23/2024,Available
+435,City Slicker,mountain,Scott,690.77,97.25,706.46,XYZ Company,2/5/2008,7/25/2023,Discontinued
+436,Trail Blazer,road,Specialized,980.62,65.78,63.29,Best Deals Inc.,9/30/2016,5/7/2023,Available
+437,Trail Blazer,BMX,Bianchi,398.83,573.15,37.93,ABC Suppliers,11/29/2007,1/22/2023,Out of Stock
+438,Urban Cruiser,cruiser,Cannondale,576.44,596.43,869.95,Best Deals Inc.,4/1/2012,12/12/2023,Available
+439,Trail Blazer,cruiser,Trek,236.94,238.53,793.15,XYZ Company,8/24/2019,7/13/2023,Discontinued
+440,Speed Demon,cruiser,Cannondale,820.05,951.07,514.1,Best Deals Inc.,11/14/2005,2/20/2023,Discontinued
+441,Urban Cruiser,hybrid,Giant,947.34,801.76,446.99,ABC Suppliers,6/11/2011,3/18/2023,Out of Stock
+442,Mountain Beast,cruiser,Scott,381.08,967.72,771.76,ABC Suppliers,1/2/2021,3/3/2024,Out of Stock
+443,Urban Cruiser,hybrid,Giant,645.24,394.41,44.19,Best Deals Inc.,9/27/2004,3/19/2024,Available
+444,City Slicker,cruiser,Trek,821.56,259.93,362.39,XYZ Company,4/13/2017,2/1/2024,Available
+445,Trail Blazer,road,Giant,455.32,769.42,114.03,123 Distributors,10/12/2021,4/10/2024,Available
+446,Trail Blazer,hybrid,Specialized,659.93,868.15,372.14,Best Deals Inc.,5/5/2005,7/19/2023,Available
+447,City Slicker,cruiser,Specialized,488.62,403.52,183.11,XYZ Company,8/16/2013,1/24/2024,Discontinued
+448,Speed Demon,road,Specialized,694.42,823.29,239.35,123 Distributors,8/30/2020,12/25/2023,Available
+449,Trail Blazer,mountain,Trek,693.41,118.97,386.65,123 Distributors,8/25/2007,3/18/2024,Out of Stock
+450,Speed Demon,hybrid,Cannondale,601.13,342.9,939.33,Best Deals Inc.,10/9/2009,10/18/2023,Out of Stock
+451,Urban Cruiser,hybrid,Bianchi,482.85,635.14,526.41,123 Distributors,11/20/2001,9/6/2023,Discontinued
+452,Trail Blazer,cruiser,Scott,739.1,881.35,82.65,XYZ Company,3/15/2010,6/1/2023,Available
+453,Speed Demon,road,Giant,91.37,472.39,764.62,123 Distributors,2/25/2013,4/16/2023,Available
+454,City Slicker,road,Trek,791.75,605.79,89.72,XYZ Company,9/11/2012,12/31/2022,Available
+455,Trail Blazer,mountain,Cannondale,743.7,297.28,488.07,123 Distributors,1/8/2004,7/24/2023,Available
+456,Trail Blazer,hybrid,Bianchi,724.19,793.9,545.96,ABC Suppliers,2/27/2017,6/2/2023,Out of Stock
+457,Mountain Beast,road,Giant,109.7,137.74,282.62,Best Deals Inc.,1/8/2014,3/17/2023,Available
+458,Trail Blazer,road,Scott,53.95,135.32,439.96,ABC Suppliers,12/28/2014,10/24/2023,Out of Stock
+459,Speed Demon,cruiser,Specialized,331.78,744.84,769.83,123 Distributors,11/28/2012,4/21/2023,Discontinued
+460,Speed Demon,BMX,Trek,85.59,843.71,820.66,ABC Suppliers,8/16/2017,2/17/2024,Out of Stock
+461,Mountain Beast,hybrid,Trek,453.47,392.35,979.19,ABC Suppliers,4/3/2008,3/3/2023,Discontinued
+462,Trail Blazer,cruiser,Scott,604.16,995.14,973.75,Best Deals Inc.,6/2/2008,2/17/2024,Out of Stock
+463,Urban Cruiser,BMX,Giant,151.76,528.85,321.8,ABC Suppliers,12/8/2014,2/9/2023,Discontinued
+464,Trail Blazer,hybrid,Specialized,976.75,66.11,342.07,Best Deals Inc.,9/11/2018,1/1/2024,Available
+465,City Slicker,hybrid,Giant,284.7,420.21,466.21,XYZ Company,6/21/2002,5/30/2024,Available
+466,Mountain Beast,hybrid,Cannondale,329.26,854.73,768.38,ABC Suppliers,5/4/2011,8/7/2023,Discontinued
+467,Mountain Beast,cruiser,Giant,928.03,513.2,543.88,ABC Suppliers,4/14/2006,8/16/2023,Out of Stock
+468,Urban Cruiser,BMX,Trek,103.84,793.97,304.41,123 Distributors,12/28/2013,4/30/2024,Out of Stock
+469,City Slicker,hybrid,Specialized,566.78,256.17,413.03,XYZ Company,7/9/2009,6/3/2023,Discontinued
+470,Urban Cruiser,road,Specialized,65.09,899.87,582.36,ABC Suppliers,10/6/2013,4/11/2024,Discontinued
+471,Urban Cruiser,BMX,Cannondale,64.37,668.87,809.23,ABC Suppliers,2/26/2015,2/25/2024,Discontinued
+472,City Slicker,road,Specialized,956.3,293.3,862.82,Best Deals Inc.,2/2/2008,4/10/2024,Discontinued
+473,Speed Demon,BMX,Specialized,741.59,434.69,399.44,XYZ Company,9/30/2015,7/21/2024,Discontinued
+474,Speed Demon,BMX,Bianchi,677.14,504.38,420.37,ABC Suppliers,3/16/2014,12/4/2022,Available
+475,Trail Blazer,BMX,Cannondale,900.55,238.9,274.31,123 Distributors,4/28/2019,4/10/2023,Available
+476,Trail Blazer,hybrid,Scott,548.79,984.17,633.29,Best Deals Inc.,9/30/2009,6/25/2023,Discontinued
+477,Trail Blazer,hybrid,Giant,569.28,287.99,38.23,ABC Suppliers,9/3/2008,4/24/2024,Available
+478,City Slicker,road,Scott,544.65,989.05,756.3,XYZ Company,9/18/2006,2/21/2024,Discontinued
+479,Trail Blazer,hybrid,Bianchi,307.4,529.85,771.26,123 Distributors,6/27/2001,7/13/2024,Discontinued
+480,City Slicker,cruiser,Cannondale,521.34,632.48,265.56,Best Deals Inc.,7/27/2015,6/17/2023,Out of Stock
+481,Speed Demon,mountain,Specialized,718.48,105.46,937.31,ABC Suppliers,1/3/2011,8/17/2023,Available
+482,City Slicker,cruiser,Scott,305.17,475.28,193.2,Best Deals Inc.,3/13/2017,1/25/2024,Out of Stock
+483,Trail Blazer,mountain,Bianchi,142.9,365.7,137.27,Best Deals Inc.,5/6/2020,4/4/2023,Discontinued
+484,Mountain Beast,mountain,Trek,514.14,379.69,0.3,ABC Suppliers,1/20/2003,2/3/2023,Available
+485,Mountain Beast,BMX,Bianchi,526.14,215.36,826.68,ABC Suppliers,3/31/2006,5/27/2023,Out of Stock
+486,City Slicker,mountain,Cannondale,917.24,333.62,488.82,Best Deals Inc.,11/23/2014,2/8/2023,Out of Stock
+487,Speed Demon,road,Cannondale,635.95,10.05,253.14,Best Deals Inc.,2/25/2016,3/29/2024,Discontinued
+488,Trail Blazer,road,Scott,427.19,566.76,681.12,123 Distributors,6/4/2016,5/10/2024,Out of Stock
+489,Speed Demon,road,Cannondale,470.87,965.94,217.67,ABC Suppliers,12/21/2020,12/8/2022,Discontinued
+490,Speed Demon,road,Giant,455.45,966.22,917.83,ABC Suppliers,6/14/2018,5/22/2024,Discontinued
+491,Speed Demon,hybrid,Trek,520.51,222.43,144.67,123 Distributors,2/22/2001,12/8/2023,Discontinued
+492,Urban Cruiser,road,Giant,477.53,207.34,763.2,XYZ Company,11/9/2017,9/26/2023,Available
+493,Speed Demon,road,Trek,713.34,838.77,619.15,ABC Suppliers,4/25/2014,6/6/2024,Out of Stock
+494,City Slicker,hybrid,Specialized,946.72,83.18,588.17,XYZ Company,12/8/2014,2/23/2024,Discontinued
+495,Urban Cruiser,hybrid,Giant,842.03,947.83,823.77,123 Distributors,1/26/2012,12/17/2023,Available
+496,City Slicker,cruiser,Giant,316.59,385.12,876.43,XYZ Company,9/22/2021,1/22/2023,Available
+497,Trail Blazer,road,Giant,994.4,461.55,833.5,Best Deals Inc.,12/3/2006,5/13/2024,Available
+498,City Slicker,hybrid,Scott,375.05,514.75,189.97,XYZ Company,2/27/2010,4/7/2023,Out of Stock
+499,Trail Blazer,road,Bianchi,234.85,499.5,528.33,123 Distributors,8/2/2015,7/18/2023,Available
+500,City Slicker,hybrid,Trek,175.77,963.13,736.13,123 Distributors,5/15/2012,5/16/2024,Out of Stock
+501,Trail Blazer,BMX,Cannondale,474.66,235.98,56.92,123 Distributors,8/25/2012,8/26/2023,Out of Stock
+502,City Slicker,hybrid,Specialized,403.7,531.13,508.41,XYZ Company,3/16/2018,10/20/2023,Out of Stock
+503,City Slicker,hybrid,Scott,549.53,551.6,945.62,ABC Suppliers,6/17/2009,6/10/2024,Available
+504,City Slicker,road,Specialized,190.06,893.03,80.05,Best Deals Inc.,1/22/2016,4/29/2023,Out of Stock
+505,Mountain Beast,road,Giant,837.05,243.52,130.26,ABC Suppliers,9/4/2011,2/12/2024,Discontinued
+506,Trail Blazer,BMX,Cannondale,377.91,752.88,318.35,123 Distributors,2/15/2004,12/2/2023,Discontinued
+507,City Slicker,BMX,Scott,109.75,795.88,201.13,Best Deals Inc.,4/15/2001,9/20/2023,Out of Stock
+508,Trail Blazer,hybrid,Cannondale,742.13,192.79,261.64,ABC Suppliers,4/10/2020,9/21/2023,Discontinued
+509,Speed Demon,BMX,Specialized,437.59,872.99,450.17,Best Deals Inc.,5/1/2014,3/23/2024,Available
+510,Urban Cruiser,mountain,Scott,597.47,80.06,424.29,ABC Suppliers,10/16/2011,8/4/2023,Available
+511,Urban Cruiser,hybrid,Trek,318.24,863.75,597.49,Best Deals Inc.,3/16/2007,12/31/2022,Discontinued
+512,Urban Cruiser,road,Trek,489.68,394.84,101.03,123 Distributors,10/20/2012,6/10/2023,Available
+513,Urban Cruiser,mountain,Specialized,675.81,13.85,967.41,ABC Suppliers,11/22/2006,5/6/2024,Available
+514,Speed Demon,mountain,Specialized,371.32,921.2,215.67,ABC Suppliers,5/23/2018,2/13/2024,Discontinued
+515,Speed Demon,hybrid,Cannondale,126.84,806.45,598.32,ABC Suppliers,7/21/2012,5/19/2023,Out of Stock
+516,Speed Demon,cruiser,Specialized,10.16,121.49,242.36,XYZ Company,2/15/2018,10/29/2023,Out of Stock
+517,Speed Demon,cruiser,Giant,159.92,940.21,431.15,123 Distributors,1/21/2015,10/10/2023,Discontinued
+518,Speed Demon,mountain,Cannondale,986.42,684.43,486.6,Best Deals Inc.,11/25/2011,1/21/2023,Out of Stock
+519,City Slicker,cruiser,Scott,223.82,542.52,248.45,ABC Suppliers,9/19/2001,11/2/2023,Out of Stock
+520,Trail Blazer,BMX,Cannondale,10.08,283.43,150.33,123 Distributors,2/11/2019,5/29/2023,Available
+521,Mountain Beast,hybrid,Bianchi,963.27,916.73,426.46,123 Distributors,5/14/2012,12/29/2022,Discontinued
+522,Trail Blazer,hybrid,Scott,235.77,6.74,535.25,ABC Suppliers,4/28/2011,8/4/2023,Discontinued
+523,City Slicker,BMX,Trek,468.6,601.07,339.9,Best Deals Inc.,1/24/2005,7/27/2023,Available
+524,Urban Cruiser,cruiser,Bianchi,204.6,39.44,329.48,XYZ Company,3/19/2008,3/18/2023,Discontinued
+525,Speed Demon,BMX,Cannondale,49.6,781.01,223.57,123 Distributors,7/3/2006,12/9/2022,Discontinued
+526,Mountain Beast,road,Giant,870.0,43.9,246.04,Best Deals Inc.,6/15/2001,8/1/2023,Discontinued
+527,Urban Cruiser,cruiser,Cannondale,425.16,486.85,171.15,XYZ Company,2/6/2007,6/14/2023,Out of Stock
+528,Mountain Beast,mountain,Bianchi,774.96,692.37,632.84,Best Deals Inc.,10/30/2006,12/6/2023,Available
+529,Trail Blazer,cruiser,Giant,625.41,55.12,931.28,123 Distributors,12/24/2014,4/11/2024,Available
+530,Urban Cruiser,cruiser,Giant,620.47,544.05,548.6,123 Distributors,9/1/2010,5/15/2024,Available
+531,Trail Blazer,hybrid,Bianchi,16.5,498.49,144.19,XYZ Company,9/1/2004,3/24/2024,Available
+532,Speed Demon,road,Cannondale,871.85,759.76,481.58,Best Deals Inc.,7/3/2003,8/11/2023,Discontinued
+533,Mountain Beast,road,Bianchi,401.91,317.41,496.55,123 Distributors,11/30/2016,7/14/2024,Available
+534,City Slicker,road,Bianchi,755.3,392.75,342.15,123 Distributors,9/8/2021,10/8/2023,Available
+535,Mountain Beast,mountain,Giant,231.59,282.15,384.28,Best Deals Inc.,2/4/2013,12/3/2023,Discontinued
+536,Speed Demon,hybrid,Cannondale,216.65,1.57,679.33,XYZ Company,3/11/2012,12/17/2022,Available
+537,Mountain Beast,road,Trek,805.04,520.07,435.2,123 Distributors,4/19/2008,10/2/2023,Discontinued
+538,City Slicker,cruiser,Scott,347.84,353.37,258.9,XYZ Company,7/25/2015,12/22/2023,Available
+539,Urban Cruiser,mountain,Bianchi,514.46,170.0,207.64,XYZ Company,6/29/2017,4/9/2024,Discontinued
+540,Trail Blazer,mountain,Trek,9.08,144.65,51.33,ABC Suppliers,2/8/2018,3/8/2024,Discontinued
+541,City Slicker,BMX,Cannondale,411.79,543.43,514.29,123 Distributors,8/30/2003,8/2/2023,Available
+542,Speed Demon,cruiser,Scott,814.91,255.77,510.48,123 Distributors,12/26/2008,6/28/2024,Available
+543,Trail Blazer,hybrid,Giant,455.65,787.38,783.46,ABC Suppliers,12/30/2009,12/25/2022,Out of Stock
+544,City Slicker,BMX,Specialized,611.17,770.06,574.35,ABC Suppliers,5/21/2015,7/6/2024,Discontinued
+545,Trail Blazer,hybrid,Bianchi,655.11,846.72,143.14,ABC Suppliers,12/12/2016,8/11/2023,Out of Stock
+546,Mountain Beast,road,Specialized,37.87,560.65,706.43,ABC Suppliers,7/1/2016,4/30/2023,Discontinued
+547,Urban Cruiser,cruiser,Bianchi,594.0,232.43,606.75,XYZ Company,5/20/2003,1/12/2024,Discontinued
+548,Urban Cruiser,mountain,Giant,864.68,796.76,106.57,Best Deals Inc.,1/1/2018,5/1/2024,Available
+549,Speed Demon,BMX,Scott,396.14,803.12,343.03,ABC Suppliers,1/11/2009,3/13/2023,Out of Stock
+550,City Slicker,cruiser,Giant,245.73,532.25,602.86,Best Deals Inc.,6/4/2009,3/7/2023,Discontinued
+551,Urban Cruiser,mountain,Specialized,921.48,582.0,345.86,ABC Suppliers,6/27/2015,1/26/2024,Out of Stock
+552,Speed Demon,hybrid,Trek,42.38,225.31,806.42,Best Deals Inc.,9/2/2009,1/8/2023,Out of Stock
+553,Urban Cruiser,mountain,Specialized,522.96,886.02,526.22,XYZ Company,11/28/2013,5/2/2024,Out of Stock
+554,Trail Blazer,cruiser,Trek,356.61,858.35,495.7,123 Distributors,9/4/2000,2/17/2023,Available
+555,Trail Blazer,BMX,Scott,990.15,303.16,544.89,XYZ Company,5/9/2008,2/18/2023,Out of Stock
+556,Urban Cruiser,BMX,Scott,852.22,374.07,496.08,123 Distributors,7/10/2011,7/23/2024,Discontinued
+557,Speed Demon,cruiser,Bianchi,305.93,381.48,455.25,XYZ Company,11/4/2018,4/6/2024,Out of Stock
+558,Trail Blazer,BMX,Cannondale,980.64,303.53,863.13,Best Deals Inc.,11/26/2013,7/13/2023,Available
+559,City Slicker,BMX,Giant,11.24,295.64,762.62,Best Deals Inc.,9/25/2011,4/23/2023,Available
+560,Speed Demon,BMX,Scott,382.96,442.13,439.04,Best Deals Inc.,6/17/2013,5/5/2023,Discontinued
+561,Mountain Beast,mountain,Specialized,583.35,221.34,529.07,XYZ Company,4/30/2004,12/15/2023,Available
+562,Speed Demon,mountain,Specialized,654.32,493.28,740.13,XYZ Company,12/20/2021,6/25/2024,Available
+563,City Slicker,cruiser,Scott,286.39,116.58,944.28,XYZ Company,3/24/2004,10/6/2023,Available
+564,Mountain Beast,hybrid,Specialized,616.81,832.22,602.19,123 Distributors,5/20/2020,10/19/2023,Out of Stock
+565,Urban Cruiser,mountain,Cannondale,469.08,948.62,51.5,Best Deals Inc.,11/9/2007,7/6/2024,Available
+566,Mountain Beast,mountain,Giant,933.85,276.14,155.98,Best Deals Inc.,10/13/2005,3/21/2023,Available
+567,Trail Blazer,hybrid,Bianchi,761.95,129.38,63.89,XYZ Company,7/27/2020,4/29/2023,Available
+568,Urban Cruiser,hybrid,Giant,656.6,531.07,150.19,123 Distributors,9/13/2000,2/18/2023,Out of Stock
+569,City Slicker,hybrid,Cannondale,153.25,239.81,887.58,ABC Suppliers,6/6/2007,4/29/2023,Discontinued
+570,Speed Demon,cruiser,Trek,487.39,386.31,276.42,Best Deals Inc.,10/5/2017,6/4/2023,Discontinued
+571,Speed Demon,hybrid,Trek,164.64,72.75,537.97,XYZ Company,7/28/2002,6/26/2023,Available
+572,Trail Blazer,cruiser,Specialized,486.61,400.22,518.78,123 Distributors,3/11/2021,4/15/2023,Discontinued
+573,Urban Cruiser,hybrid,Cannondale,228.71,63.35,192.11,123 Distributors,2/11/2015,11/24/2023,Out of Stock
+574,Trail Blazer,cruiser,Scott,212.0,640.6,243.22,ABC Suppliers,1/14/2014,1/6/2024,Available
+575,Trail Blazer,hybrid,Cannondale,577.8,882.22,358.37,Best Deals Inc.,10/1/2018,7/20/2024,Discontinued
+576,Speed Demon,road,Specialized,687.45,552.45,948.5,Best Deals Inc.,4/14/2016,10/25/2023,Discontinued
+577,Mountain Beast,road,Bianchi,449.79,5.2,333.58,ABC Suppliers,8/16/2000,6/14/2023,Discontinued
+578,Mountain Beast,road,Specialized,300.17,387.39,875.45,Best Deals Inc.,1/26/2014,4/21/2023,Discontinued
+579,Urban Cruiser,mountain,Specialized,611.64,844.28,617.67,XYZ Company,7/31/2012,6/16/2023,Available
+580,City Slicker,hybrid,Giant,209.44,983.86,264.62,Best Deals Inc.,2/17/2006,2/21/2023,Discontinued
+581,City Slicker,BMX,Trek,751.89,369.81,120.29,Best Deals Inc.,4/29/2009,8/3/2023,Out of Stock
+582,Speed Demon,cruiser,Giant,749.78,355.15,648.86,ABC Suppliers,6/7/2018,3/20/2023,Out of Stock
+583,Trail Blazer,mountain,Trek,977.81,267.97,432.84,123 Distributors,5/19/2011,4/14/2023,Out of Stock
+584,Mountain Beast,road,Specialized,297.11,463.5,404.26,ABC Suppliers,2/2/2010,4/13/2024,Out of Stock
+585,Trail Blazer,BMX,Trek,66.3,705.53,250.67,XYZ Company,8/20/2018,3/12/2024,Discontinued
+586,City Slicker,road,Scott,563.5,904.96,50.07,ABC Suppliers,2/6/2010,5/25/2024,Discontinued
+587,City Slicker,mountain,Giant,820.7,569.6,440.86,Best Deals Inc.,11/17/2018,4/5/2024,Out of Stock
+588,City Slicker,BMX,Giant,439.16,380.0,263.9,123 Distributors,4/18/2003,8/15/2023,Out of Stock
+589,Trail Blazer,road,Specialized,414.98,988.3,111.12,ABC Suppliers,9/14/2000,11/30/2023,Discontinued
+590,Urban Cruiser,hybrid,Specialized,137.83,244.6,581.51,XYZ Company,3/22/2003,10/26/2023,Out of Stock
+591,Speed Demon,BMX,Giant,277.38,734.49,636.44,XYZ Company,4/17/2016,2/20/2023,Out of Stock
+592,Urban Cruiser,hybrid,Cannondale,554.85,767.05,54.39,Best Deals Inc.,8/29/2008,2/15/2023,Discontinued
+593,Trail Blazer,hybrid,Scott,447.63,290.03,940.21,Best Deals Inc.,4/6/2006,1/1/2024,Available
+594,City Slicker,cruiser,Specialized,654.16,337.2,177.01,Best Deals Inc.,8/3/2009,2/5/2023,Out of Stock
+595,City Slicker,cruiser,Bianchi,355.12,668.66,256.31,123 Distributors,11/15/2002,5/21/2024,Available
+596,Speed Demon,BMX,Bianchi,279.57,717.22,181.64,Best Deals Inc.,3/14/2009,3/3/2024,Out of Stock
+597,City Slicker,mountain,Trek,567.25,298.43,266.86,123 Distributors,2/23/2021,10/8/2023,Discontinued
+598,Urban Cruiser,BMX,Specialized,64.83,663.08,191.54,ABC Suppliers,5/29/2021,5/27/2023,Out of Stock
+599,Speed Demon,BMX,Giant,106.65,298.37,710.76,ABC Suppliers,2/1/2017,8/19/2023,Discontinued
+600,Trail Blazer,mountain,Scott,29.49,335.46,777.58,ABC Suppliers,11/7/2007,9/16/2023,Discontinued
+601,City Slicker,hybrid,Cannondale,223.62,404.79,232.14,XYZ Company,7/6/2006,10/7/2023,Out of Stock
+602,Trail Blazer,road,Specialized,89.23,465.54,37.54,123 Distributors,4/21/2017,3/13/2023,Discontinued
+603,Speed Demon,road,Cannondale,479.77,668.33,261.33,123 Distributors,12/13/2012,5/6/2024,Out of Stock
+604,Speed Demon,BMX,Cannondale,319.34,940.35,66.84,ABC Suppliers,9/1/2014,12/5/2023,Out of Stock
+605,Speed Demon,cruiser,Cannondale,754.08,138.25,63.69,XYZ Company,11/14/2016,4/11/2023,Discontinued
+606,City Slicker,road,Bianchi,615.11,412.5,944.87,123 Distributors,6/3/2021,7/23/2024,Out of Stock
+607,City Slicker,BMX,Specialized,246.91,519.27,761.54,123 Distributors,3/22/2004,6/25/2024,Available
+608,Trail Blazer,BMX,Scott,292.15,855.76,455.9,Best Deals Inc.,10/21/2011,7/19/2024,Out of Stock
+609,Urban Cruiser,BMX,Giant,92.9,766.25,51.62,123 Distributors,12/23/2012,12/11/2022,Available
+610,Speed Demon,road,Bianchi,512.37,720.1,318.99,ABC Suppliers,10/4/2014,7/29/2023,Available
+611,Mountain Beast,cruiser,Specialized,728.46,967.79,422.57,Best Deals Inc.,10/14/2017,1/6/2023,Out of Stock
+612,Urban Cruiser,road,Giant,13.78,650.82,247.49,Best Deals Inc.,4/25/2002,12/19/2023,Out of Stock
+613,City Slicker,cruiser,Scott,208.62,990.91,833.52,Best Deals Inc.,7/11/2014,3/5/2023,Discontinued
+614,Trail Blazer,hybrid,Giant,835.6,706.1,961.57,Best Deals Inc.,11/19/2019,4/10/2024,Discontinued
+615,Trail Blazer,BMX,Specialized,692.94,558.18,985.55,Best Deals Inc.,11/12/2016,7/18/2024,Discontinued
+616,City Slicker,hybrid,Specialized,27.54,774.96,366.03,Best Deals Inc.,5/19/2017,6/10/2023,Available
+617,Speed Demon,hybrid,Trek,725.89,939.07,98.8,Best Deals Inc.,7/28/2013,5/2/2024,Available
+618,Urban Cruiser,hybrid,Trek,790.34,819.85,186.8,XYZ Company,4/7/2018,5/7/2024,Out of Stock
+619,Urban Cruiser,cruiser,Bianchi,231.66,466.28,845.99,ABC Suppliers,10/29/2009,8/29/2023,Discontinued
+620,Urban Cruiser,BMX,Specialized,662.15,861.78,850.24,Best Deals Inc.,1/14/2009,2/8/2023,Out of Stock
+621,Speed Demon,mountain,Giant,130.23,809.19,941.18,ABC Suppliers,12/13/2004,5/25/2023,Discontinued
+622,City Slicker,cruiser,Scott,876.18,597.59,321.54,Best Deals Inc.,8/9/2021,5/8/2023,Discontinued
+623,City Slicker,hybrid,Bianchi,106.98,832.61,764.89,Best Deals Inc.,12/15/2005,1/9/2023,Out of Stock
+624,City Slicker,cruiser,Scott,743.03,990.64,862.81,Best Deals Inc.,10/1/2018,11/9/2023,Out of Stock
+625,Speed Demon,BMX,Bianchi,127.2,705.93,804.95,Best Deals Inc.,11/29/2002,7/6/2024,Out of Stock
+626,Speed Demon,hybrid,Cannondale,818.73,226.1,450.18,XYZ Company,12/24/2004,12/25/2023,Available
+627,City Slicker,BMX,Scott,106.99,133.05,119.07,ABC Suppliers,10/20/2005,10/30/2023,Out of Stock
+628,Trail Blazer,road,Cannondale,170.1,461.67,457.6,XYZ Company,9/1/2014,11/20/2023,Out of Stock
+629,City Slicker,hybrid,Giant,262.88,99.8,944.0,ABC Suppliers,3/10/2010,9/8/2023,Discontinued
+630,Trail Blazer,hybrid,Giant,916.52,302.91,242.94,123 Distributors,11/28/2013,7/19/2023,Available
+631,Speed Demon,BMX,Cannondale,111.08,881.43,139.52,Best Deals Inc.,7/31/2001,1/4/2024,Available
+632,Trail Blazer,mountain,Trek,768.02,852.23,526.65,123 Distributors,1/25/2012,8/31/2023,Discontinued
+633,Mountain Beast,BMX,Cannondale,743.7,669.22,717.83,ABC Suppliers,7/1/2005,5/20/2023,Out of Stock
+634,Speed Demon,road,Specialized,770.08,274.05,978.62,123 Distributors,6/8/2006,7/16/2024,Available
+635,Mountain Beast,cruiser,Giant,307.65,813.99,393.92,ABC Suppliers,9/29/2020,1/11/2023,Out of Stock
+636,Urban Cruiser,BMX,Scott,134.18,321.71,451.5,Best Deals Inc.,8/14/2013,4/13/2023,Available
+637,Urban Cruiser,mountain,Bianchi,84.07,594.82,369.58,ABC Suppliers,6/24/2011,5/3/2023,Discontinued
+638,Urban Cruiser,BMX,Giant,649.54,792.79,791.15,XYZ Company,3/1/2019,12/21/2022,Discontinued
+639,Trail Blazer,hybrid,Bianchi,862.94,619.24,691.95,ABC Suppliers,6/13/2002,4/22/2024,Discontinued
+640,Trail Blazer,BMX,Giant,426.95,232.89,717.5,Best Deals Inc.,10/11/2001,6/15/2023,Out of Stock
+641,Speed Demon,cruiser,Specialized,91.43,510.5,624.59,123 Distributors,8/20/2005,7/7/2023,Out of Stock
+642,Mountain Beast,mountain,Trek,549.23,324.51,988.01,123 Distributors,3/26/2014,7/22/2023,Available
+643,Trail Blazer,cruiser,Bianchi,512.9,508.58,893.16,ABC Suppliers,4/22/2017,6/8/2024,Discontinued
+644,Urban Cruiser,cruiser,Bianchi,839.52,874.48,661.78,Best Deals Inc.,7/4/2006,4/23/2023,Out of Stock
+645,Mountain Beast,road,Giant,612.81,278.38,982.73,XYZ Company,3/17/2004,2/11/2023,Available
+646,Urban Cruiser,mountain,Giant,364.24,244.71,63.83,Best Deals Inc.,1/7/2018,12/20/2022,Out of Stock
+647,Urban Cruiser,mountain,Trek,81.81,800.86,624.17,ABC Suppliers,12/2/2004,3/28/2024,Out of Stock
+648,Trail Blazer,cruiser,Giant,344.04,643.31,925.34,Best Deals Inc.,4/19/2015,3/26/2024,Available
+649,Mountain Beast,road,Giant,869.2,178.37,994.46,Best Deals Inc.,9/19/2016,2/21/2024,Available
+650,Urban Cruiser,BMX,Giant,305.16,144.76,345.48,XYZ Company,2/4/2006,9/21/2023,Out of Stock
+651,Urban Cruiser,hybrid,Cannondale,217.87,934.61,650.83,XYZ Company,3/31/2012,7/3/2024,Discontinued
+652,Trail Blazer,mountain,Trek,605.4,846.04,87.94,ABC Suppliers,3/11/2002,8/20/2023,Available
+653,Speed Demon,BMX,Trek,518.45,793.25,937.53,XYZ Company,1/7/2021,6/22/2023,Discontinued
+654,Speed Demon,BMX,Cannondale,797.21,994.39,669.39,Best Deals Inc.,6/22/2000,1/21/2023,Available
+655,Trail Blazer,mountain,Trek,463.55,760.56,150.38,Best Deals Inc.,12/3/2021,10/27/2023,Discontinued
+656,Trail Blazer,hybrid,Scott,772.26,282.79,231.21,123 Distributors,10/7/2009,3/25/2024,Discontinued
+657,Mountain Beast,mountain,Specialized,121.84,953.65,404.19,ABC Suppliers,8/9/2000,4/9/2023,Out of Stock
+658,Urban Cruiser,BMX,Cannondale,59.49,721.88,263.83,123 Distributors,10/16/2001,12/20/2022,Available
+659,Mountain Beast,BMX,Cannondale,138.75,751.35,329.28,ABC Suppliers,6/20/2010,7/18/2024,Out of Stock
+660,Trail Blazer,cruiser,Bianchi,343.2,663.27,106.1,ABC Suppliers,4/29/2008,4/27/2023,Out of Stock
+661,Trail Blazer,cruiser,Trek,854.93,756.15,848.16,Best Deals Inc.,3/30/2006,11/12/2023,Available
+662,Speed Demon,road,Giant,52.39,453.96,7.65,123 Distributors,2/11/2016,2/17/2024,Discontinued
+663,Urban Cruiser,hybrid,Trek,287.71,338.22,254.73,123 Distributors,4/18/2007,6/29/2024,Available
+664,City Slicker,hybrid,Trek,536.24,10.51,843.99,XYZ Company,12/26/2008,5/6/2023,Out of Stock
+665,Urban Cruiser,hybrid,Cannondale,49.45,819.05,566.4,123 Distributors,5/20/2000,4/7/2023,Out of Stock
+666,Urban Cruiser,road,Specialized,759.74,312.27,835.45,ABC Suppliers,12/11/2015,7/11/2023,Discontinued
+667,City Slicker,BMX,Specialized,454.51,515.7,754.65,123 Distributors,7/7/2006,12/30/2023,Discontinued
+668,City Slicker,BMX,Trek,759.38,124.24,436.5,123 Distributors,1/21/2012,1/5/2024,Discontinued
+669,Mountain Beast,cruiser,Giant,209.88,288.61,872.12,Best Deals Inc.,11/5/2008,1/3/2023,Available
+670,Mountain Beast,road,Trek,546.38,51.02,140.74,XYZ Company,12/26/2019,4/24/2023,Out of Stock
+671,Speed Demon,road,Scott,95.54,196.82,804.27,ABC Suppliers,11/9/2020,4/21/2023,Available
+672,Trail Blazer,hybrid,Trek,802.39,333.48,617.29,XYZ Company,7/25/2004,6/23/2023,Out of Stock
+673,Mountain Beast,mountain,Cannondale,115.59,148.33,8.14,XYZ Company,12/27/2002,8/15/2023,Discontinued
+674,Urban Cruiser,road,Specialized,703.26,621.83,903.8,ABC Suppliers,2/27/2017,6/29/2023,Discontinued
+675,Mountain Beast,BMX,Giant,584.31,528.02,244.56,Best Deals Inc.,8/31/2014,7/20/2024,Available
+676,City Slicker,cruiser,Cannondale,809.4,127.81,631.1,Best Deals Inc.,3/10/2008,4/22/2023,Out of Stock
+677,Mountain Beast,hybrid,Specialized,385.74,417.07,520.9,123 Distributors,7/7/2020,5/5/2023,Discontinued
+678,Trail Blazer,mountain,Scott,721.84,743.69,337.42,123 Distributors,4/8/2002,11/22/2023,Discontinued
+679,Trail Blazer,road,Giant,405.17,260.1,949.28,ABC Suppliers,1/1/2000,1/9/2024,Out of Stock
+680,Urban Cruiser,cruiser,Giant,496.14,872.72,841.77,Best Deals Inc.,10/17/2014,6/10/2023,Out of Stock
+681,Speed Demon,road,Cannondale,132.51,169.71,859.34,123 Distributors,10/27/2001,4/29/2023,Out of Stock
+682,Urban Cruiser,BMX,Cannondale,156.48,90.95,736.29,ABC Suppliers,4/6/2005,3/6/2023,Out of Stock
+683,City Slicker,road,Bianchi,617.23,168.22,956.97,123 Distributors,11/1/2019,1/24/2023,Out of Stock
+684,Urban Cruiser,cruiser,Bianchi,18.14,770.35,246.77,XYZ Company,2/18/2009,7/14/2023,Available
+685,City Slicker,road,Trek,158.12,597.12,432.59,XYZ Company,10/18/2018,12/8/2023,Available
+686,Urban Cruiser,cruiser,Bianchi,744.59,311.4,263.9,ABC Suppliers,6/6/2012,1/3/2023,Out of Stock
+687,Mountain Beast,hybrid,Trek,942.96,708.08,902.79,Best Deals Inc.,6/13/2007,12/20/2023,Available
+688,Trail Blazer,hybrid,Cannondale,611.83,370.55,920.51,123 Distributors,7/18/2014,9/15/2023,Out of Stock
+689,City Slicker,hybrid,Bianchi,112.47,829.47,920.77,Best Deals Inc.,8/29/2009,12/28/2023,Discontinued
+690,Urban Cruiser,cruiser,Trek,553.35,849.45,252.15,ABC Suppliers,5/12/2011,7/5/2023,Available
+691,Urban Cruiser,hybrid,Specialized,731.91,942.02,159.57,ABC Suppliers,1/3/2017,12/27/2023,Available
+692,Speed Demon,hybrid,Specialized,300.37,311.99,37.35,Best Deals Inc.,12/8/2017,3/20/2024,Discontinued
+693,Speed Demon,mountain,Specialized,261.18,593.3,938.48,123 Distributors,6/17/2012,12/2/2022,Discontinued
+694,Mountain Beast,BMX,Specialized,470.85,40.59,815.21,Best Deals Inc.,11/23/2016,7/20/2023,Discontinued
+695,Speed Demon,BMX,Scott,516.1,240.02,91.16,Best Deals Inc.,10/5/2009,4/10/2023,Available
+696,City Slicker,BMX,Scott,196.66,989.61,982.88,ABC Suppliers,12/14/2002,1/12/2024,Discontinued
+697,Speed Demon,BMX,Trek,721.58,207.47,921.0,ABC Suppliers,3/30/2001,12/6/2023,Out of Stock
+698,Urban Cruiser,road,Bianchi,606.18,62.99,374.66,123 Distributors,1/24/2010,2/15/2024,Available
+699,Speed Demon,mountain,Trek,91.47,767.12,648.73,Best Deals Inc.,12/11/2016,8/16/2023,Out of Stock
+700,Speed Demon,BMX,Scott,832.97,765.03,65.62,ABC Suppliers,8/29/2005,5/28/2023,Available
+701,Mountain Beast,cruiser,Specialized,772.88,529.71,119.95,123 Distributors,10/29/2021,12/10/2022,Out of Stock
+702,Trail Blazer,road,Trek,930.02,453.18,150.8,Best Deals Inc.,6/19/2021,11/9/2023,Out of Stock
+703,Mountain Beast,BMX,Trek,768.2,458.59,595.22,Best Deals Inc.,3/21/2013,6/25/2023,Discontinued
+704,City Slicker,mountain,Scott,689.32,579.96,696.57,123 Distributors,12/27/2021,4/20/2024,Discontinued
+705,Speed Demon,mountain,Specialized,467.43,604.48,615.27,ABC Suppliers,3/1/2011,3/5/2023,Available
+706,Trail Blazer,road,Bianchi,740.99,381.79,309.97,123 Distributors,1/26/2008,6/8/2023,Out of Stock
+707,Trail Blazer,cruiser,Scott,241.26,624.74,24.95,ABC Suppliers,6/7/2010,11/27/2023,Out of Stock
+708,Mountain Beast,road,Cannondale,420.38,822.96,250.15,XYZ Company,11/6/2007,3/8/2024,Discontinued
+709,Mountain Beast,hybrid,Specialized,171.84,669.16,52.25,XYZ Company,1/23/2013,5/20/2023,Discontinued
+710,Mountain Beast,hybrid,Giant,751.47,813.48,253.95,123 Distributors,3/7/2017,8/12/2023,Discontinued
+711,Speed Demon,road,Scott,164.51,893.43,882.62,123 Distributors,12/10/2011,6/2/2023,Available
+712,Urban Cruiser,mountain,Giant,119.94,89.03,836.5,XYZ Company,11/23/2002,11/21/2023,Available
+713,Mountain Beast,hybrid,Scott,867.47,141.57,609.0,123 Distributors,3/21/2017,1/31/2024,Out of Stock
+714,Urban Cruiser,mountain,Specialized,879.82,36.59,615.09,123 Distributors,4/14/2000,2/22/2023,Discontinued
+715,Mountain Beast,mountain,Trek,642.48,137.57,685.69,123 Distributors,5/12/2015,12/6/2022,Out of Stock
+716,City Slicker,BMX,Cannondale,635.14,384.65,167.0,ABC Suppliers,2/21/2020,6/19/2023,Out of Stock
+717,Trail Blazer,BMX,Giant,44.52,320.01,136.91,XYZ Company,9/21/2000,7/10/2024,Discontinued
+718,Speed Demon,BMX,Scott,436.23,572.82,960.51,XYZ Company,1/26/2012,1/8/2023,Discontinued
+719,Trail Blazer,mountain,Specialized,704.9,130.14,613.96,XYZ Company,12/20/2019,1/18/2023,Out of Stock
+720,Urban Cruiser,hybrid,Giant,970.09,738.18,748.34,XYZ Company,11/27/2005,7/3/2024,Discontinued
+721,Mountain Beast,road,Specialized,54.67,643.95,206.38,ABC Suppliers,1/24/2019,1/5/2024,Available
+722,Mountain Beast,mountain,Bianchi,903.79,733.38,540.22,Best Deals Inc.,4/9/2005,12/16/2022,Discontinued
+723,Mountain Beast,hybrid,Giant,902.63,614.55,99.41,ABC Suppliers,11/20/2000,2/9/2023,Out of Stock
+724,Speed Demon,BMX,Specialized,704.93,969.49,943.66,123 Distributors,12/18/2014,2/21/2023,Available
+725,Speed Demon,mountain,Bianchi,677.86,370.81,83.25,Best Deals Inc.,7/28/2016,1/23/2024,Available
+726,Speed Demon,hybrid,Scott,576.92,208.43,114.71,XYZ Company,7/27/2004,8/22/2023,Out of Stock
+727,Mountain Beast,hybrid,Bianchi,452.05,106.97,779.48,XYZ Company,5/26/2021,8/19/2023,Discontinued
+728,Trail Blazer,BMX,Cannondale,708.16,279.55,492.23,123 Distributors,1/10/2004,7/27/2024,Discontinued
+729,Mountain Beast,road,Scott,602.84,377.44,453.15,123 Distributors,9/23/2015,4/13/2024,Out of Stock
+730,Speed Demon,cruiser,Trek,751.64,27.57,7.83,ABC Suppliers,4/12/2017,4/29/2024,Discontinued
+731,City Slicker,BMX,Scott,775.82,85.03,818.34,Best Deals Inc.,1/4/2005,11/25/2023,Out of Stock
+732,Trail Blazer,road,Scott,337.22,881.74,68.87,Best Deals Inc.,3/1/2014,1/22/2024,Out of Stock
+733,Urban Cruiser,mountain,Bianchi,308.95,324.26,17.28,ABC Suppliers,8/10/2020,12/11/2022,Discontinued
+734,Speed Demon,BMX,Scott,953.18,321.58,48.48,123 Distributors,8/8/2008,2/28/2024,Discontinued
+735,Speed Demon,mountain,Trek,325.97,583.22,620.0,ABC Suppliers,6/2/2002,2/16/2024,Available
+736,Urban Cruiser,road,Scott,21.52,819.58,703.65,123 Distributors,5/7/2010,2/20/2024,Available
+737,City Slicker,BMX,Trek,993.15,571.33,244.84,Best Deals Inc.,9/5/2013,11/14/2023,Out of Stock
+738,Mountain Beast,cruiser,Bianchi,679.26,613.66,573.65,ABC Suppliers,7/20/2008,4/14/2024,Out of Stock
+739,City Slicker,mountain,Specialized,612.19,109.64,510.49,ABC Suppliers,3/5/2016,3/8/2024,Discontinued
+740,Speed Demon,cruiser,Trek,956.45,708.59,222.24,123 Distributors,7/31/2005,12/5/2023,Discontinued
+741,City Slicker,mountain,Cannondale,792.81,832.77,71.2,Best Deals Inc.,10/1/2001,8/26/2023,Available
+742,City Slicker,hybrid,Trek,225.34,491.28,586.17,ABC Suppliers,10/24/2020,1/1/2023,Available
+743,Mountain Beast,road,Cannondale,776.78,203.57,133.47,XYZ Company,10/22/2004,11/14/2023,Discontinued
+744,City Slicker,cruiser,Giant,404.12,696.21,645.87,123 Distributors,10/11/2000,5/8/2023,Available
+745,City Slicker,cruiser,Cannondale,311.99,706.03,823.53,XYZ Company,12/23/2015,4/29/2024,Out of Stock
+746,Speed Demon,road,Giant,654.24,117.62,462.53,ABC Suppliers,12/24/2003,7/26/2024,Available
+747,City Slicker,cruiser,Trek,258.42,968.08,28.3,ABC Suppliers,1/4/2021,12/3/2022,Available
+748,Trail Blazer,cruiser,Scott,876.97,892.72,359.73,123 Distributors,1/13/2019,4/9/2023,Out of Stock
+749,City Slicker,mountain,Specialized,911.69,770.11,87.48,XYZ Company,5/1/2009,6/27/2024,Available
+750,Speed Demon,road,Giant,578.99,339.61,574.44,XYZ Company,12/29/2007,4/27/2024,Discontinued
+751,City Slicker,cruiser,Cannondale,979.41,295.84,506.34,Best Deals Inc.,6/26/2001,12/2/2023,Out of Stock
+752,Trail Blazer,road,Cannondale,547.57,579.45,641.07,Best Deals Inc.,2/17/2003,9/2/2023,Available
+753,Urban Cruiser,BMX,Giant,860.47,807.62,968.01,123 Distributors,3/15/2015,1/24/2023,Discontinued
+754,Urban Cruiser,mountain,Specialized,480.65,797.13,310.95,123 Distributors,2/20/2012,9/17/2023,Available
+755,Urban Cruiser,BMX,Giant,42.3,478.2,329.81,123 Distributors,5/25/2017,5/2/2024,Available
+756,City Slicker,hybrid,Cannondale,373.69,341.46,108.83,Best Deals Inc.,3/20/2005,12/21/2023,Discontinued
+757,Urban Cruiser,mountain,Cannondale,737.37,59.42,412.8,ABC Suppliers,12/14/2007,10/9/2023,Out of Stock
+758,Trail Blazer,hybrid,Scott,279.21,896.53,703.35,XYZ Company,6/15/2009,1/4/2023,Available
+759,Mountain Beast,hybrid,Cannondale,306.59,56.28,51.16,XYZ Company,11/8/2016,12/23/2022,Available
+760,Urban Cruiser,road,Giant,745.78,167.0,912.95,ABC Suppliers,9/1/2018,3/1/2024,Out of Stock
+761,City Slicker,road,Trek,202.78,459.5,886.16,ABC Suppliers,4/19/2004,7/17/2024,Available
+762,Urban Cruiser,mountain,Giant,428.35,664.37,992.35,XYZ Company,1/18/2012,3/19/2023,Out of Stock
+763,City Slicker,BMX,Cannondale,154.18,168.96,92.79,Best Deals Inc.,5/23/2000,4/11/2024,Discontinued
+764,Urban Cruiser,hybrid,Scott,814.04,65.29,401.14,XYZ Company,7/25/2010,7/22/2023,Available
+765,Urban Cruiser,road,Bianchi,57.63,124.31,100.5,XYZ Company,7/10/2015,1/28/2024,Available
+766,City Slicker,BMX,Trek,604.72,17.95,606.12,XYZ Company,10/12/2010,4/22/2024,Out of Stock
+767,Trail Blazer,road,Cannondale,166.94,707.21,625.73,XYZ Company,10/29/2018,8/24/2023,Discontinued
+768,City Slicker,road,Bianchi,237.63,738.74,766.9,ABC Suppliers,11/25/2013,7/6/2023,Out of Stock
+769,Mountain Beast,BMX,Scott,629.68,84.82,803.67,123 Distributors,8/27/2020,10/19/2023,Available
+770,Mountain Beast,BMX,Giant,911.43,587.78,775.98,123 Distributors,1/1/2014,4/23/2024,Out of Stock
+771,Mountain Beast,BMX,Cannondale,127.94,712.93,388.25,XYZ Company,7/30/2020,8/11/2023,Out of Stock
+772,Trail Blazer,cruiser,Scott,215.55,829.14,580.02,XYZ Company,7/17/2005,6/6/2023,Discontinued
+773,Speed Demon,hybrid,Trek,179.4,351.81,917.24,Best Deals Inc.,7/13/2008,3/13/2024,Out of Stock
+774,Urban Cruiser,hybrid,Bianchi,18.44,596.22,570.04,ABC Suppliers,2/26/2020,12/4/2023,Out of Stock
+775,Trail Blazer,hybrid,Bianchi,613.49,912.13,621.46,123 Distributors,8/12/2014,9/12/2023,Out of Stock
+776,Speed Demon,hybrid,Bianchi,231.66,226.28,23.7,Best Deals Inc.,7/21/2013,3/4/2023,Out of Stock
+777,Speed Demon,cruiser,Cannondale,899.88,276.14,669.0,ABC Suppliers,3/7/2001,1/23/2024,Available
+778,Trail Blazer,road,Trek,412.37,610.29,800.87,XYZ Company,3/2/2003,9/4/2023,Discontinued
+779,Trail Blazer,hybrid,Cannondale,209.5,24.32,135.04,ABC Suppliers,11/21/2011,11/28/2023,Out of Stock
+780,City Slicker,hybrid,Specialized,887.94,510.57,972.42,123 Distributors,1/17/2008,2/24/2023,Available
+781,Speed Demon,road,Specialized,163.78,556.64,481.48,Best Deals Inc.,10/11/2007,1/18/2023,Discontinued
+782,Urban Cruiser,hybrid,Bianchi,135.14,296.25,768.7,XYZ Company,2/26/2008,4/21/2024,Available
+783,City Slicker,road,Specialized,628.74,543.4,670.23,Best Deals Inc.,1/14/2007,6/27/2024,Out of Stock
+784,City Slicker,mountain,Cannondale,962.45,479.66,791.08,XYZ Company,10/4/2004,10/27/2023,Out of Stock
+785,City Slicker,road,Scott,525.94,137.06,277.83,XYZ Company,3/21/2020,10/10/2023,Out of Stock
+786,Mountain Beast,BMX,Bianchi,46.86,421.77,487.68,XYZ Company,6/30/2020,6/28/2023,Available
+787,City Slicker,BMX,Giant,504.24,941.36,987.13,123 Distributors,6/14/2013,4/7/2024,Discontinued
+788,City Slicker,hybrid,Giant,0.57,304.75,43.12,ABC Suppliers,5/13/2004,1/20/2024,Out of Stock
+789,Speed Demon,mountain,Cannondale,791.1,980.32,8.22,ABC Suppliers,11/18/2010,6/29/2024,Discontinued
+790,Trail Blazer,cruiser,Specialized,132.82,419.08,429.96,Best Deals Inc.,11/9/2013,8/16/2023,Available
+791,Speed Demon,road,Bianchi,892.95,444.38,602.59,XYZ Company,8/10/2020,4/20/2023,Out of Stock
+792,Trail Blazer,BMX,Specialized,802.73,689.41,887.9,XYZ Company,1/12/2014,7/31/2024,Out of Stock
+793,Speed Demon,cruiser,Scott,71.14,140.9,820.77,Best Deals Inc.,5/25/2017,3/26/2023,Discontinued
+794,Mountain Beast,hybrid,Trek,889.37,80.87,613.55,ABC Suppliers,12/23/2017,6/2/2024,Discontinued
+795,Urban Cruiser,hybrid,Cannondale,905.55,108.92,66.48,123 Distributors,12/23/2012,7/30/2024,Discontinued
+796,Speed Demon,cruiser,Scott,639.47,583.78,239.05,Best Deals Inc.,4/7/2003,8/15/2023,Out of Stock
+797,Urban Cruiser,road,Giant,673.14,421.9,727.55,ABC Suppliers,3/24/2007,2/6/2024,Out of Stock
+798,Mountain Beast,cruiser,Specialized,496.93,25.66,973.72,ABC Suppliers,9/12/2002,8/9/2023,Out of Stock
+799,Mountain Beast,cruiser,Specialized,156.29,252.1,551.14,Best Deals Inc.,6/3/2017,5/12/2023,Out of Stock
+800,Speed Demon,cruiser,Giant,151.01,757.76,387.44,Best Deals Inc.,2/9/2019,6/24/2023,Discontinued
+801,Mountain Beast,cruiser,Giant,157.77,691.19,289.4,XYZ Company,9/13/2003,1/13/2024,Out of Stock
+802,Trail Blazer,mountain,Bianchi,140.69,416.46,791.24,ABC Suppliers,1/22/2018,7/8/2023,Discontinued
+803,Urban Cruiser,BMX,Trek,132.24,656.7,828.63,123 Distributors,10/26/2014,6/19/2023,Out of Stock
+804,Urban Cruiser,BMX,Cannondale,195.34,789.49,354.1,ABC Suppliers,12/6/2018,1/5/2024,Out of Stock
+805,Trail Blazer,cruiser,Specialized,576.53,213.17,84.73,Best Deals Inc.,9/25/2003,5/23/2023,Out of Stock
+806,Speed Demon,hybrid,Specialized,671.47,394.03,533.7,123 Distributors,7/28/2020,9/6/2023,Discontinued
+807,Trail Blazer,cruiser,Specialized,114.68,990.85,756.18,ABC Suppliers,6/10/2001,6/15/2024,Discontinued
+808,Urban Cruiser,road,Trek,708.39,479.97,72.57,ABC Suppliers,5/22/2013,8/1/2023,Discontinued
+809,Speed Demon,cruiser,Trek,760.79,24.9,491.78,XYZ Company,2/17/2012,11/19/2023,Out of Stock
+810,City Slicker,BMX,Specialized,199.86,684.32,999.72,XYZ Company,4/26/2011,4/25/2023,Discontinued
+811,Trail Blazer,mountain,Trek,546.72,787.18,977.68,123 Distributors,5/24/2002,9/18/2023,Available
+812,Mountain Beast,BMX,Specialized,226.39,665.17,645.59,XYZ Company,9/15/2007,12/30/2023,Discontinued
+813,Speed Demon,hybrid,Bianchi,858.81,758.82,715.99,123 Distributors,6/6/2013,6/23/2024,Discontinued
+814,Urban Cruiser,hybrid,Specialized,227.2,217.84,205.49,XYZ Company,3/9/2009,12/31/2022,Available
+815,Trail Blazer,road,Bianchi,798.28,861.85,531.49,Best Deals Inc.,4/27/2019,3/22/2023,Out of Stock
+816,Mountain Beast,cruiser,Bianchi,456.66,347.46,85.01,123 Distributors,1/3/2019,5/22/2023,Discontinued
+817,Urban Cruiser,mountain,Scott,783.74,645.6,513.24,Best Deals Inc.,8/27/2020,5/6/2023,Out of Stock
+818,Speed Demon,mountain,Cannondale,421.64,150.34,202.36,XYZ Company,5/15/2010,4/23/2023,Available
+819,Speed Demon,hybrid,Bianchi,652.79,452.07,808.02,ABC Suppliers,5/23/2013,3/21/2024,Out of Stock
+820,Urban Cruiser,BMX,Giant,63.37,334.68,376.61,ABC Suppliers,2/7/2007,10/20/2023,Available
+821,Speed Demon,road,Scott,268.09,866.17,904.69,123 Distributors,5/19/2005,11/23/2023,Discontinued
+822,Urban Cruiser,road,Trek,923.62,290.66,114.51,ABC Suppliers,7/9/2007,1/16/2023,Out of Stock
+823,City Slicker,mountain,Specialized,470.04,149.1,490.9,123 Distributors,6/23/2000,5/14/2024,Discontinued
+824,Trail Blazer,BMX,Cannondale,467.3,877.52,746.86,ABC Suppliers,9/10/2001,2/13/2023,Discontinued
+825,Urban Cruiser,mountain,Scott,477.99,709.58,681.5,123 Distributors,8/14/2008,7/26/2024,Out of Stock
+826,Speed Demon,mountain,Specialized,924.9,926.37,647.09,ABC Suppliers,3/9/2014,5/12/2023,Discontinued
+827,City Slicker,hybrid,Specialized,784.73,434.07,958.56,123 Distributors,8/8/2005,12/13/2022,Available
+828,Speed Demon,mountain,Scott,489.32,103.86,163.47,Best Deals Inc.,9/25/2018,7/3/2024,Discontinued
+829,Trail Blazer,mountain,Specialized,930.7,156.22,117.21,Best Deals Inc.,12/6/2012,3/5/2023,Discontinued
+830,Mountain Beast,cruiser,Cannondale,697.03,479.13,694.26,XYZ Company,1/22/2019,2/16/2024,Available
+831,Trail Blazer,hybrid,Bianchi,114.5,732.55,155.48,123 Distributors,12/29/2011,3/13/2024,Out of Stock
+832,Trail Blazer,mountain,Cannondale,591.99,262.61,766.25,ABC Suppliers,4/14/2002,3/30/2023,Available
+833,Mountain Beast,hybrid,Bianchi,790.37,288.89,419.66,ABC Suppliers,5/8/2013,4/25/2023,Available
+834,Mountain Beast,hybrid,Giant,310.56,703.78,63.26,XYZ Company,6/27/2019,4/17/2023,Available
+835,Trail Blazer,BMX,Trek,567.53,443.97,144.25,123 Distributors,11/7/2003,5/22/2024,Available
+836,Speed Demon,BMX,Specialized,990.93,154.69,756.85,Best Deals Inc.,4/19/2007,1/4/2023,Out of Stock
+837,Trail Blazer,mountain,Trek,360.33,955.02,870.19,Best Deals Inc.,7/18/2019,8/20/2023,Available
+838,City Slicker,mountain,Specialized,856.01,564.35,113.16,ABC Suppliers,5/21/2019,7/7/2023,Discontinued
+839,City Slicker,cruiser,Giant,768.43,867.38,908.47,XYZ Company,1/27/2002,6/4/2024,Discontinued
+840,Trail Blazer,cruiser,Bianchi,749.95,208.75,114.3,123 Distributors,10/1/2018,7/5/2024,Discontinued
+841,Trail Blazer,BMX,Specialized,582.67,304.23,759.66,123 Distributors,8/30/2013,10/1/2023,Discontinued
+842,Mountain Beast,hybrid,Trek,440.26,260.6,246.72,XYZ Company,7/2/2020,6/14/2023,Out of Stock
+843,City Slicker,road,Giant,381.41,881.97,880.83,XYZ Company,11/24/2021,11/15/2023,Discontinued
+844,Urban Cruiser,hybrid,Cannondale,65.8,509.81,711.37,ABC Suppliers,8/6/2006,5/16/2023,Out of Stock
+845,Trail Blazer,cruiser,Trek,476.38,524.6,77.57,ABC Suppliers,8/22/2014,9/10/2023,Out of Stock
+846,Mountain Beast,road,Bianchi,108.19,582.47,65.24,ABC Suppliers,1/29/2004,12/20/2022,Available
+847,Trail Blazer,cruiser,Scott,713.39,923.99,995.22,XYZ Company,4/8/2004,3/21/2023,Out of Stock
+848,Trail Blazer,BMX,Bianchi,459.37,918.42,76.13,123 Distributors,5/6/2000,5/14/2024,Out of Stock
+849,Mountain Beast,hybrid,Giant,881.86,788.6,290.99,123 Distributors,10/24/2001,4/5/2024,Discontinued
+850,Speed Demon,BMX,Giant,449.78,547.18,706.75,Best Deals Inc.,3/27/2020,6/6/2023,Available
+851,Trail Blazer,road,Bianchi,521.48,968.21,274.04,ABC Suppliers,5/6/2009,1/29/2024,Available
+852,Urban Cruiser,hybrid,Trek,967.95,914.1,676.48,Best Deals Inc.,11/7/2021,12/27/2023,Discontinued
+853,Urban Cruiser,BMX,Cannondale,283.91,47.86,452.24,ABC Suppliers,11/6/2015,7/7/2023,Discontinued
+854,Speed Demon,mountain,Specialized,756.96,833.95,201.66,ABC Suppliers,9/6/2008,8/2/2023,Out of Stock
+855,Speed Demon,BMX,Giant,45.45,509.28,871.8,Best Deals Inc.,10/31/2020,6/21/2024,Out of Stock
+856,Trail Blazer,mountain,Cannondale,258.73,210.42,900.11,ABC Suppliers,2/7/2002,5/9/2024,Discontinued
+857,Urban Cruiser,BMX,Specialized,435.02,432.9,118.06,Best Deals Inc.,12/1/2021,5/1/2023,Available
+858,Mountain Beast,hybrid,Cannondale,95.91,639.33,442.28,Best Deals Inc.,11/4/2016,6/13/2024,Out of Stock
+859,Urban Cruiser,mountain,Bianchi,769.18,507.12,788.76,XYZ Company,9/22/2006,12/25/2022,Discontinued
+860,Mountain Beast,cruiser,Scott,229.75,427.26,864.45,123 Distributors,10/31/2002,6/19/2024,Available
+861,Trail Blazer,cruiser,Trek,407.33,483.3,297.56,Best Deals Inc.,3/10/2021,7/30/2023,Discontinued
+862,Trail Blazer,cruiser,Giant,311.98,824.2,828.98,123 Distributors,10/18/2005,8/8/2023,Available
+863,Speed Demon,BMX,Specialized,721.38,263.08,229.61,XYZ Company,11/14/2010,3/31/2023,Available
+864,Speed Demon,road,Cannondale,668.36,681.28,96.11,ABC Suppliers,6/2/2005,6/11/2023,Discontinued
+865,City Slicker,road,Specialized,608.4,634.14,264.29,Best Deals Inc.,3/12/2015,12/13/2022,Discontinued
+866,Mountain Beast,mountain,Cannondale,535.8,888.2,555.35,123 Distributors,9/27/2020,3/5/2023,Discontinued
+867,City Slicker,road,Trek,519.3,885.5,630.23,Best Deals Inc.,5/21/2006,11/6/2023,Discontinued
+868,Urban Cruiser,hybrid,Specialized,381.43,193.49,498.59,123 Distributors,12/18/2004,11/23/2023,Out of Stock
+869,Mountain Beast,road,Specialized,619.69,125.31,701.01,Best Deals Inc.,7/13/2013,6/24/2024,Discontinued
+870,Urban Cruiser,hybrid,Trek,740.98,223.15,409.49,123 Distributors,6/7/2014,6/21/2024,Discontinued
+871,Urban Cruiser,hybrid,Trek,627.79,100.58,48.04,ABC Suppliers,5/2/2012,4/8/2024,Discontinued
+872,Urban Cruiser,road,Giant,69.67,753.4,141.4,XYZ Company,7/12/2003,12/15/2023,Out of Stock
+873,City Slicker,BMX,Giant,617.04,728.62,539.72,Best Deals Inc.,3/19/2013,1/23/2024,Available
+874,Speed Demon,hybrid,Scott,785.87,224.88,35.3,123 Distributors,5/8/2015,9/14/2023,Out of Stock
+875,Speed Demon,cruiser,Cannondale,596.77,63.46,942.88,Best Deals Inc.,2/13/2012,9/28/2023,Available
+876,Speed Demon,cruiser,Giant,965.65,553.07,948.7,ABC Suppliers,2/22/2021,6/9/2024,Out of Stock
+877,City Slicker,hybrid,Scott,217.92,237.63,540.4,ABC Suppliers,12/22/2013,9/14/2023,Available
+878,Speed Demon,hybrid,Cannondale,823.41,892.6,504.1,Best Deals Inc.,5/29/2020,7/22/2024,Discontinued
+879,Mountain Beast,road,Cannondale,566.62,866.17,170.26,Best Deals Inc.,7/3/2017,6/21/2023,Discontinued
+880,Urban Cruiser,BMX,Giant,770.89,701.17,676.64,123 Distributors,1/28/2014,8/15/2023,Discontinued
+881,City Slicker,BMX,Cannondale,934.45,757.95,305.11,123 Distributors,6/18/2009,12/1/2023,Available
+882,Mountain Beast,hybrid,Giant,142.03,35.12,969.92,Best Deals Inc.,1/30/2016,8/25/2023,Available
+883,City Slicker,hybrid,Giant,227.04,431.61,984.26,Best Deals Inc.,5/14/2014,5/14/2023,Discontinued
+884,Mountain Beast,mountain,Specialized,276.23,410.02,839.33,ABC Suppliers,4/12/2017,4/3/2023,Out of Stock
+885,Mountain Beast,road,Trek,528.65,530.82,201.26,XYZ Company,7/22/2021,1/2/2024,Available
+886,City Slicker,hybrid,Specialized,622.85,386.24,439.78,ABC Suppliers,12/23/2014,11/17/2023,Available
+887,Mountain Beast,cruiser,Giant,163.02,187.01,919.26,XYZ Company,2/5/2000,4/27/2023,Discontinued
+888,Speed Demon,mountain,Bianchi,698.79,650.03,411.81,XYZ Company,9/6/2001,2/23/2023,Discontinued
+889,Mountain Beast,cruiser,Scott,416.64,710.7,391.95,123 Distributors,11/25/2008,3/15/2023,Available
+890,Urban Cruiser,road,Cannondale,628.37,589.78,625.53,Best Deals Inc.,4/1/2007,4/26/2024,Available
+891,Urban Cruiser,cruiser,Trek,312.15,825.35,652.74,Best Deals Inc.,1/11/2011,4/1/2024,Out of Stock
+892,Mountain Beast,hybrid,Scott,470.83,198.8,819.2,Best Deals Inc.,5/14/2011,6/18/2024,Available
+893,Mountain Beast,BMX,Scott,625.04,10.56,470.03,123 Distributors,5/27/2013,4/10/2024,Out of Stock
+894,City Slicker,road,Giant,364.34,855.61,237.21,XYZ Company,11/30/2021,7/24/2024,Out of Stock
+895,City Slicker,hybrid,Giant,135.11,581.57,128.71,ABC Suppliers,12/30/2013,7/13/2023,Available
+896,Urban Cruiser,hybrid,Giant,743.53,461.45,26.86,XYZ Company,6/14/2016,4/17/2023,Out of Stock
+897,Mountain Beast,BMX,Bianchi,866.22,115.63,540.77,123 Distributors,7/24/2011,1/2/2024,Out of Stock
+898,Speed Demon,BMX,Bianchi,739.1,999.1,264.05,ABC Suppliers,11/7/2008,5/25/2024,Discontinued
+899,Mountain Beast,hybrid,Trek,29.52,967.33,325.99,123 Distributors,9/14/2020,11/22/2023,Out of Stock
+900,Trail Blazer,cruiser,Giant,760.43,358.79,399.87,123 Distributors,11/26/2018,3/21/2024,Discontinued
+901,Speed Demon,road,Cannondale,769.24,19.86,521.73,Best Deals Inc.,12/2/2009,3/16/2023,Discontinued
+902,Urban Cruiser,hybrid,Specialized,646.13,748.51,25.75,XYZ Company,10/17/2021,5/1/2023,Discontinued
+903,Trail Blazer,road,Bianchi,759.76,449.19,475.55,123 Distributors,2/6/2003,1/5/2023,Discontinued
+904,Speed Demon,mountain,Bianchi,640.64,610.25,615.5,ABC Suppliers,11/1/2015,7/22/2024,Out of Stock
+905,Mountain Beast,cruiser,Giant,369.39,133.7,472.3,123 Distributors,5/16/2019,5/31/2024,Out of Stock
+906,City Slicker,road,Giant,722.83,482.72,391.1,Best Deals Inc.,5/11/2016,5/4/2024,Out of Stock
+907,Mountain Beast,hybrid,Cannondale,769.89,226.12,560.9,ABC Suppliers,9/2/2013,3/30/2024,Discontinued
+908,City Slicker,hybrid,Specialized,216.16,671.29,267.32,123 Distributors,5/8/2021,3/19/2024,Discontinued
+909,City Slicker,mountain,Giant,760.66,130.69,53.06,ABC Suppliers,1/13/2002,1/18/2023,Available
+910,Urban Cruiser,cruiser,Scott,315.4,505.74,585.11,123 Distributors,2/20/2012,7/1/2024,Available
+911,City Slicker,road,Cannondale,686.25,715.42,973.01,ABC Suppliers,11/17/2021,5/9/2024,Discontinued
+912,Trail Blazer,mountain,Specialized,28.58,599.53,668.48,123 Distributors,9/27/2013,6/30/2024,Discontinued
+913,Trail Blazer,mountain,Cannondale,595.54,425.65,302.59,123 Distributors,2/28/2015,5/28/2023,Available
+914,City Slicker,hybrid,Cannondale,828.79,212.46,344.17,XYZ Company,12/20/2004,2/11/2023,Available
+915,Trail Blazer,road,Giant,136.45,936.27,797.16,ABC Suppliers,1/19/2017,3/9/2023,Out of Stock
+916,City Slicker,hybrid,Bianchi,291.67,626.25,201.69,123 Distributors,1/12/2017,6/29/2023,Out of Stock
+917,City Slicker,cruiser,Bianchi,270.78,767.15,907.06,Best Deals Inc.,4/1/2006,5/8/2024,Discontinued
+918,Urban Cruiser,cruiser,Cannondale,99.48,370.5,958.26,123 Distributors,8/27/2015,9/27/2023,Available
+919,Speed Demon,BMX,Cannondale,253.72,897.41,777.22,Best Deals Inc.,3/29/2005,12/28/2023,Out of Stock
+920,Mountain Beast,BMX,Scott,78.27,159.41,94.66,XYZ Company,6/18/2016,4/13/2023,Available
+921,City Slicker,hybrid,Bianchi,740.39,673.78,410.44,XYZ Company,5/21/2008,6/5/2024,Out of Stock
+922,Speed Demon,cruiser,Giant,660.36,789.34,749.84,XYZ Company,3/28/2010,7/17/2024,Discontinued
+923,Mountain Beast,hybrid,Cannondale,582.26,669.41,865.88,123 Distributors,1/22/2020,11/6/2023,Discontinued
+924,Speed Demon,cruiser,Cannondale,626.76,386.45,489.71,XYZ Company,5/27/2005,10/13/2023,Discontinued
+925,Mountain Beast,BMX,Cannondale,160.41,409.38,500.82,XYZ Company,7/3/2015,11/26/2023,Out of Stock
+926,Urban Cruiser,BMX,Cannondale,332.41,837.95,385.53,123 Distributors,7/30/2006,8/12/2023,Available
+927,Mountain Beast,BMX,Specialized,220.53,511.73,727.11,XYZ Company,6/13/2012,6/2/2023,Discontinued
+928,City Slicker,road,Bianchi,397.05,813.81,182.09,ABC Suppliers,8/29/2011,7/3/2023,Discontinued
+929,City Slicker,cruiser,Scott,452.32,279.72,623.9,Best Deals Inc.,3/13/2016,4/12/2024,Available
+930,Speed Demon,road,Scott,776.75,237.18,335.06,Best Deals Inc.,1/8/2011,6/24/2024,Out of Stock
+931,Urban Cruiser,road,Specialized,254.45,830.27,702.21,123 Distributors,7/14/2005,7/17/2023,Out of Stock
+932,City Slicker,mountain,Scott,149.1,375.26,368.18,XYZ Company,9/7/2013,11/8/2023,Discontinued
+933,Speed Demon,BMX,Bianchi,949.86,16.86,453.92,ABC Suppliers,6/14/2002,4/2/2023,Out of Stock
+934,Mountain Beast,hybrid,Specialized,496.09,377.07,150.63,XYZ Company,6/30/2019,2/28/2023,Discontinued
+935,City Slicker,BMX,Specialized,522.14,410.51,586.02,123 Distributors,8/4/2018,9/8/2023,Available
+936,Urban Cruiser,BMX,Scott,455.59,496.77,295.44,123 Distributors,10/27/2014,12/25/2023,Available
+937,City Slicker,cruiser,Cannondale,422.62,892.86,732.81,Best Deals Inc.,2/21/2019,6/29/2023,Available
+938,Mountain Beast,road,Cannondale,660.78,388.63,494.62,XYZ Company,5/3/2019,3/30/2024,Available
+939,Urban Cruiser,BMX,Scott,367.24,847.7,790.58,ABC Suppliers,8/5/2007,2/27/2024,Discontinued
+940,Urban Cruiser,hybrid,Bianchi,291.22,803.68,188.23,123 Distributors,1/4/2015,1/25/2023,Available
+941,Mountain Beast,BMX,Trek,460.41,257.08,554.57,XYZ Company,10/24/2020,1/25/2024,Discontinued
+942,Speed Demon,road,Scott,391.31,423.75,851.19,ABC Suppliers,12/1/2020,11/8/2023,Available
+943,Mountain Beast,mountain,Giant,684.57,977.59,789.24,Best Deals Inc.,6/16/2005,5/28/2024,Available
+944,City Slicker,BMX,Scott,876.38,0.99,335.54,ABC Suppliers,1/3/2015,1/16/2024,Discontinued
+945,Trail Blazer,cruiser,Cannondale,659.55,22.11,369.22,XYZ Company,11/16/2014,3/31/2024,Available
+946,Trail Blazer,BMX,Scott,437.88,362.53,925.53,Best Deals Inc.,1/12/2017,7/17/2023,Discontinued
+947,Urban Cruiser,hybrid,Scott,220.41,748.08,704.5,XYZ Company,11/24/2013,4/19/2023,Out of Stock
+948,Speed Demon,BMX,Cannondale,663.62,850.39,678.53,123 Distributors,4/28/2009,9/30/2023,Out of Stock
+949,Mountain Beast,hybrid,Specialized,286.55,33.43,405.68,123 Distributors,7/20/2006,10/27/2023,Available
+950,Urban Cruiser,mountain,Giant,482.43,320.68,86.17,Best Deals Inc.,5/22/2014,12/13/2022,Out of Stock
+951,Trail Blazer,road,Bianchi,432.8,805.54,895.81,123 Distributors,3/30/2005,1/26/2024,Out of Stock
+952,Urban Cruiser,cruiser,Bianchi,53.73,763.78,550.46,Best Deals Inc.,2/1/2002,4/12/2023,Available
+953,Trail Blazer,cruiser,Specialized,844.95,433.04,457.22,ABC Suppliers,1/3/2009,9/16/2023,Available
+954,Mountain Beast,BMX,Specialized,376.67,849.14,461.71,123 Distributors,11/16/2013,4/26/2023,Available
+955,Trail Blazer,hybrid,Specialized,525.79,962.11,342.18,123 Distributors,1/5/2006,11/18/2023,Out of Stock
+956,City Slicker,road,Trek,466.66,808.23,941.47,ABC Suppliers,11/4/2012,4/19/2023,Discontinued
+957,City Slicker,BMX,Bianchi,788.79,528.48,196.95,ABC Suppliers,8/19/2006,3/10/2023,Out of Stock
+958,Trail Blazer,mountain,Specialized,169.79,806.77,692.02,XYZ Company,7/18/2013,5/14/2023,Out of Stock
+959,City Slicker,cruiser,Trek,957.36,652.81,881.76,123 Distributors,7/21/2017,4/29/2023,Out of Stock
+960,Mountain Beast,road,Cannondale,680.65,586.84,142.06,Best Deals Inc.,11/24/2007,10/16/2023,Available
+961,Urban Cruiser,cruiser,Giant,418.45,579.31,641.94,123 Distributors,8/4/2021,11/20/2023,Discontinued
+962,Mountain Beast,mountain,Trek,268.29,466.85,945.62,Best Deals Inc.,1/11/2015,3/11/2023,Available
+963,Mountain Beast,road,Bianchi,415.53,490.55,864.54,XYZ Company,5/11/2010,7/5/2024,Discontinued
+964,Urban Cruiser,road,Specialized,821.21,292.46,302.12,Best Deals Inc.,5/3/2019,5/27/2023,Discontinued
+965,Speed Demon,cruiser,Giant,52.12,948.04,985.17,123 Distributors,3/2/2014,7/31/2024,Discontinued
+966,City Slicker,mountain,Cannondale,793.8,574.81,29.33,ABC Suppliers,2/20/2010,7/28/2023,Discontinued
+967,Urban Cruiser,road,Giant,459.96,350.57,529.05,Best Deals Inc.,3/20/2014,5/11/2023,Out of Stock
+968,Urban Cruiser,hybrid,Specialized,565.02,447.8,906.04,ABC Suppliers,2/4/2020,7/5/2023,Out of Stock
+969,Urban Cruiser,mountain,Trek,83.35,701.77,451.91,XYZ Company,2/4/2004,6/30/2024,Discontinued
+970,Mountain Beast,road,Giant,494.96,690.78,261.88,Best Deals Inc.,2/25/2019,5/9/2024,Available
+971,Speed Demon,BMX,Cannondale,366.17,295.17,856.13,ABC Suppliers,5/6/2018,12/25/2022,Available
+972,Trail Blazer,road,Giant,283.38,71.79,99.84,ABC Suppliers,4/14/2004,8/24/2023,Available
+973,City Slicker,mountain,Scott,119.5,887.36,809.41,ABC Suppliers,2/28/2012,12/14/2022,Available
+974,Trail Blazer,hybrid,Trek,327.57,743.7,470.69,Best Deals Inc.,1/22/2019,11/8/2023,Available
+975,Mountain Beast,cruiser,Scott,247.91,140.07,951.79,Best Deals Inc.,9/13/2020,1/14/2023,Available
+976,City Slicker,road,Specialized,229.96,923.66,657.16,ABC Suppliers,2/7/2005,4/14/2023,Out of Stock
+977,Mountain Beast,BMX,Trek,498.48,358.21,367.26,123 Distributors,1/12/2004,2/6/2023,Available
+978,Urban Cruiser,hybrid,Specialized,68.06,0.41,399.41,XYZ Company,6/20/2009,2/29/2024,Discontinued
+979,Urban Cruiser,road,Giant,166.5,326.45,272.78,ABC Suppliers,9/28/2006,4/16/2024,Out of Stock
+980,Urban Cruiser,cruiser,Trek,173.55,686.66,502.42,Best Deals Inc.,7/8/2019,12/26/2023,Available
+981,City Slicker,mountain,Scott,341.52,86.27,935.48,Best Deals Inc.,7/14/2007,3/5/2023,Out of Stock
+982,City Slicker,mountain,Scott,727.5,564.46,766.86,Best Deals Inc.,8/3/2012,6/2/2024,Out of Stock
+983,City Slicker,cruiser,Trek,210.84,293.83,656.62,Best Deals Inc.,11/19/2000,3/9/2024,Out of Stock
+984,City Slicker,mountain,Scott,261.44,253.74,412.84,ABC Suppliers,10/26/2012,5/1/2023,Available
+985,City Slicker,road,Bianchi,1.13,518.07,865.55,XYZ Company,4/2/2001,5/10/2023,Discontinued
+986,City Slicker,mountain,Scott,809.19,793.62,615.33,ABC Suppliers,7/5/2003,2/14/2024,Available
+987,Speed Demon,BMX,Cannondale,872.78,584.95,580.42,ABC Suppliers,12/17/2019,12/8/2023,Discontinued
+988,Trail Blazer,hybrid,Giant,808.62,665.55,324.13,123 Distributors,4/10/2000,5/21/2024,Discontinued
+989,Speed Demon,cruiser,Scott,411.89,845.4,25.93,Best Deals Inc.,7/22/2017,3/4/2023,Out of Stock
+990,Trail Blazer,mountain,Giant,979.3,412.66,780.87,XYZ Company,8/14/2008,7/11/2024,Out of Stock
+991,City Slicker,road,Cannondale,712.55,608.75,594.45,ABC Suppliers,1/14/2005,9/1/2023,Available
+992,Trail Blazer,hybrid,Bianchi,96.96,106.26,476.55,XYZ Company,8/23/2021,5/10/2023,Discontinued
+993,Speed Demon,BMX,Cannondale,892.78,766.92,54.79,ABC Suppliers,6/24/2019,8/2/2023,Available
+994,Urban Cruiser,cruiser,Cannondale,329.4,420.77,563.61,123 Distributors,10/7/2002,12/23/2023,Available
+995,Mountain Beast,cruiser,Scott,332.9,258.91,461.07,Best Deals Inc.,10/5/2021,5/23/2023,Out of Stock
+996,Trail Blazer,road,Specialized,44.93,634.75,745.25,Best Deals Inc.,4/7/2013,6/21/2024,Discontinued
+997,Urban Cruiser,mountain,Giant,698.78,308.8,735.41,XYZ Company,6/30/2001,1/12/2023,Discontinued
+998,City Slicker,road,Bianchi,137.36,744.45,718.8,123 Distributors,9/27/2019,2/12/2024,Out of Stock
+999,Urban Cruiser,mountain,Trek,43.89,811.62,96.35,XYZ Company,6/18/2014,12/6/2023,Discontinued
+1000,Urban Cruiser,mountain,Specialized,373.45,277.11,652.34,Best Deals Inc.,7/3/2018,5/13/2024,Out of Stock
